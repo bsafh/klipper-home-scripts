@@ -1,0 +1,27 @@
+[warning]	2024-10-04 18:30:47.071855[Thread 0x00007f61ea105c00]:Failed to load to hints.cereal. File does not exists. /home/christian/.config/OrcaSlicer/user/hints.cereal
+[error]	2024-10-04 18:31:08.032988[Thread 0x00007f61ea105c00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-04 18:31:10.001272[Thread 0x00007f61ea105c00]:06:31:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-10-04 18:31:10.029019[Thread 0x00007f61ea105c00]:06:31:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-10-04 18:31:10.244725[Thread 0x00007f61ea105c00]:06:31:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-10-04 18:31:10.336821[Thread 0x00007f61ea105c00]:06:31:10 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-10-04 18:31:15.318687[Thread 0x00007f61ea105c00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-04 18:31:17.297148[Thread 0x00007f61ea105c00]:LoadProfileFamily: parse /tmp/.mount_OrcaSlNaDaoo/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-04 18:31:17.762532[Thread 0x00007f61ea105c00]:LoadProfileFamily: parse /tmp/.mount_OrcaSlNaDaoo/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2024-10-04 18:31:19.748583[Thread 0x00007f61ea105c00]:06:31:19 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-10-04 18:33:07.863085[Thread 0x00007f61ea105c00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-04 18:33:07.917561[Thread 0x00007f61ea105c00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-04 18:33:09.057151[Thread 0x00007f61175966c0]:[install_plugin]: 1379, got 3 files
+[warning]	2024-10-04 18:33:09.845964[Thread 0x00007f61ea105c00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-04 18:33:09.846043[Thread 0x00007f61ea105c00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-04 18:33:09.846082[Thread 0x00007f61ea105c00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[warning]	2024-10-04 18:33:24.991870[Thread 0x00007f61ea105c00]:06:33:24 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-10-04 18:35:29.151584[Thread 0x00007f61ea105c00]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2024-10-04 18:35:29.151724[Thread 0x00007f61ea105c00]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2024-10-04 18:35:29.151881[Thread 0x00007f61ea105c00]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2024-10-04 18:37:12.041849[Thread 0x00007f61ea105c00]:LoadProfileFamily: parse /tmp/.mount_OrcaSlNaDaoo/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-04 18:37:12.550767[Thread 0x00007f61ea105c00]:LoadProfileFamily: parse /tmp/.mount_OrcaSlNaDaoo/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2024-10-04 18:37:14.395484[Thread 0x00007f61ea105c00]:06:37:14 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-10-04 18:38:05.006970[Thread 0x00007f61ea105c00]:LoadProfileFamily: parse /tmp/.mount_OrcaSlNaDaoo/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-04 18:38:05.454565[Thread 0x00007f61ea105c00]:LoadProfileFamily: parse /tmp/.mount_OrcaSlNaDaoo/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2024-10-04 18:38:07.224231[Thread 0x00007f61ea105c00]:06:38:07 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-10-04 18:38:30.955771[Thread 0x00007f61ea105c00]:calc_exclude_triangles:Unable to create exclude triangles

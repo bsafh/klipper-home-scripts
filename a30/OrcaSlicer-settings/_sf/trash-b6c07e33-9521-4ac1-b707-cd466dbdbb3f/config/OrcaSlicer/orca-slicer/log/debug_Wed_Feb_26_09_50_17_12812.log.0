@@ -1,0 +1,29 @@
+[warning]	2025-02-26 09:50:18.149209[Thread 0x00006d98]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-02-26 09:50:18.150208[Thread 0x00006d98]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-02-26 09:50:18.931673[Thread 0x00006d98]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-02-26 09:50:19.194565[Thread 0x00006d98]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-02-26 09:50:19.200564[Thread 0x00006d98]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-02-26 09:50:19.238564[Thread 0x00006d98]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-02-26 09:50:35.632137[Thread 0x00000c7c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-02-26 09:50:35.668309[Thread 0x0000297c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-02-26 09:50:35.672159[Thread 0x00007a74]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-26 09:50:35.811083[Thread 0x00007a74]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[warning]	2025-02-26 09:50:48.031341[Thread 0x00006d98]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-02-26 09:50:48.031341[Thread 0x00006d98]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-02-26 09:50:48.031341[Thread 0x00006d98]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-02-26 09:50:48.127343[Thread 0x00006d98]:Slic3r::NetworkAgent::connect_server error: network_agent=000001C66E836EE0, ret=-2
+[warning]	2025-02-26 09:50:48.748235[Thread 0x00007160]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-02-26 09:50:54.595976[Thread 0x00006d98]:can not find object for component, id=65625
+[error]	2025-02-26 09:50:54.595976[Thread 0x00006d98]:Error (Invalid 3MF format) while parsing '3D/3dmodel.model' at line 37
+[error]	2025-02-26 09:50:54.595976[Thread 0x00006d98]:Archive does not contain a valid model
+[error]	2025-02-26 09:52:17.042968[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 09:52:37.615731[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 09:52:43.145017[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 09:52:44.329080[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 09:53:07.435915[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 10:06:02.408500[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 10:06:11.076571[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 10:06:13.407666[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 10:11:43.158385[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 10:11:54.230887[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-26 10:14:06.028366[Thread 0x00006d98]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

@@ -1,0 +1,33 @@
+[warning]	2025-06-23 20:31:24.592133[Thread 0x0000771c355054c0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-23 20:31:24.592331[Thread 0x0000771c355054c0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-23 20:31:24.592364[Thread 0x0000771c355054c0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-23 20:31:25.097637[Thread 0x0000771c355054c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-06-23 20:31:25.254408[Thread 0x0000771c355054c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-06-23 20:31:25.257590[Thread 0x0000771c355054c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[warning]	2025-06-23 20:31:25.341840[Thread 0x0000771c355054c0]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[error]	2025-06-23 20:31:25.424135[Thread 0x0000771c355054c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-06-23 20:31:25.463265[Thread 0x0000771c355054c0]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-06-23 20:31:25.485632[Thread 0x0000771c355054c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-06-23 20:31:31.771787[Thread 0x0000771c355054c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:31:31.893303[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/household items/Vasen und Gießkannen/blumentöpfe_büro.3mf
+[error]	2025-06-23 20:31:31.893360[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[error]	2025-06-23 20:31:31.893381[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST.3mf
+[error]	2025-06-23 20:31:31.893428[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/3d/Galaxy+Z+Fold+6+Stand.3mf
+[error]	2025-06-23 20:31:31.893453[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/3d/2.5 to 3.5-lighted.3mf
+[error]	2025-06-23 20:31:31.893473[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/3d/Headphone+stand.3mf
+[error]	2025-06-23 20:31:31.893505[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/3d/stifthalter.3mf
+[error]	2025-06-23 20:31:31.893527[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/3d/coffebeancoaster_plate.3mf
+[error]	2025-06-23 20:31:31.893546[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/3d/Coasters+with+Holder.3mf
+[error]	2025-06-23 20:31:31.893560[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/3d/wellen-untersetzer-波浪杯垫lite.3mf
+[error]	2025-06-23 20:31:31.893580[Thread 0x0000771bbc5ff6c0]:Unable to open the file/home/christian/3d/Tensegrity+Table-a30.3mf
+[warning]	2025-06-23 20:31:34.733141[Thread 0x0000771c355054c0]:20:31:34: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-23 20:31:34.966790[Thread 0x0000771c355054c0]:20:31:34: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-23 20:31:35.040523[Thread 0x0000771c355054c0]:20:31:35: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-23 20:31:35.441441[Thread 0x0000771c355054c0]:20:31:35: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-23 20:31:43.767014[Thread 0x0000771c355054c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:31:44.307158[Thread 0x0000771c355054c0]:connect_server error: network_agent=0x587ec3f21b70, ret=-2
+[warning]	2025-06-23 20:31:44.807204[Thread 0x0000771b5f0646c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-06-23 20:31:50.978324[Thread 0x0000771c355054c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:31:54.945556[Thread 0x0000771c355054c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:31:55.066778[Thread 0x0000771c355054c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:31:55.178323[Thread 0x0000771c355054c0]:calc_exclude_triangles:Unable to create exclude triangles

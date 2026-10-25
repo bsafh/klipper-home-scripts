@@ -1,0 +1,81 @@
+[warning]	2025-10-08 11:33:56.804010[Thread 0x00007f4414b48580]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-10-08 11:33:56.804204[Thread 0x00007f4414b48580]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-10-08 11:33:56.804217[Thread 0x00007f4414b48580]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-10-08 11:33:57.329010[Thread 0x00007f4414b48580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-10-08 11:33:57.340715[Thread 0x00007f4414b48580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[error]	2025-10-08 11:33:57.464148[Thread 0x00007f4414b48580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-10-08 11:33:57.595376[Thread 0x00007f4414b48580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-10-08 11:33:57.615662[Thread 0x00007f4414b48580]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-10-08 11:33:57.660086[Thread 0x00007f4414b48580]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-10-08 11:33:57.665971[Thread 0x00007f4414b48580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-10-08 11:34:06.395334[Thread 0x00007f435b7f66c0]:Unable to open connection to spacenavd
+[error]	2025-10-08 11:34:09.090990[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 11:34:09.125609[Thread 0x00007f4414b48580]:Unable to load bed texture: S:\data\transfer\3D-print\Software\OrcaSlicer-settings\klipper_geeetech_logo.png
+[error]	2025-10-08 11:34:09.174682[Thread 0x00007f43647f86c0]:Unable to open the file/home/christian/3D-print/Projekte/TUBS/CISO-TUBS-Igel.3mf
+[error]	2025-10-08 11:34:09.465279[Thread 0x00007f4414b48580]:Unable to load bed texture: S:\data\transfer\3D-print\Software\OrcaSlicer-settings\klipper_geeetech_logo.png
+[warning]	2025-10-08 11:34:11.398703[Thread 0x00007f4414b48580]:11:34:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-08 11:34:11.490351[Thread 0x00007f4414b48580]:11:34:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-08 11:34:11.520494[Thread 0x00007f4414b48580]:11:34:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-08 11:34:11.530443[Thread 0x00007f4414b48580]:11:34:11: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-10-08 11:34:18.739567[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 11:34:18.886413[Thread 0x00007f4414b48580]:Unable to load bed texture: S:\data\transfer\3D-print\Software\OrcaSlicer-settings\klipper_geeetech_logo.png
+[warning]	2025-10-08 11:34:19.311082[Thread 0x00007f4310fa46c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-10-08 11:34:19.399754[Thread 0x00007f4414b48580]:connect_server error: network_agent=0x557f1471dcf0, ret=-2
+[warning]	2025-10-08 11:34:25.713072[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-10-08 11:34:25.713216[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-10-08 11:34:25.714456[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-10-08 11:34:25.715418[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-10-08 11:34:25.716622[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-10-08 11:34:25.717470[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-10-08 11:34:25.718307[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-10-08 11:34:25.718518[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-10-08 11:34:25.719302[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-10-08 11:34:25.720120[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-10-08 11:34:25.720929[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-10-08 11:34:25.721735[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-10-08 11:34:25.722515[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-10-08 11:34:25.723304[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-10-08 11:34:25.724245[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-10-08 11:34:25.724980[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-10-08 11:34:25.725700[Thread 0x00007f4414b48580]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-10-08 12:25:43.194621[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 12:25:43.312114[Thread 0x00007f4414b48580]:Unable to load bed texture: S:\data\transfer\3D-print\Software\OrcaSlicer-settings\klipper_geeetech_logo.png
+[error]	2025-10-08 12:25:44.365856[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-08 12:25:44.471878[Thread 0x00007f4414b48580]:validate_preset: preset_name OWL PETG normal @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-10-08 12:25:44.471914[Thread 0x00007f4414b48580]:validate_presets:file_name Bowden-Filament-Loader-Battery.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-10-08 12:25:44.471925[Thread 0x00007f4414b48580]:validate_presets:file_name Bowden-Filament-Loader-Battery.3mf, found self defined presets, count 1
+[error]	2025-10-08 12:25:47.377636[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 12:25:47.393873[Thread 0x00007f4414b48580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-10-08 12:25:48.636700[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 12:25:57.592597[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 12:26:21.157113[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 12:26:21.253992[Thread 0x00007f438efee6c0]:Arrange full params: {"min_obj_distance":70200996,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-30,099998,"bed_shrink_y":-30,099998,"brim_skirt_distance":0,000000,"clearance_height_to_rod":42,000000,"clearance_height_to_lid":225,000000,"clearance_radius":70,199997,"printable_height":378,000000,
+[error]	2025-10-08 12:26:36.338449[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 12:26:36.415799[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 12:26:54.609092[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 12:26:57.512074[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 12:26:58.449194[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 12:27:01.781799[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 12:27:03.520570[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 12:27:39.551083[Thread 0x00007f438efee6c0]:Arrange full params: {"min_obj_distance":70200996,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-30,099998,"bed_shrink_y":-30,099998,"brim_skirt_distance":0,000000,"clearance_height_to_rod":42,000000,"clearance_height_to_lid":225,000000,"clearance_radius":70,199997,"printable_height":378,000000,
+[error]	2025-10-08 12:28:59.295797[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 12:32:56.740325[Thread 0x00007f438efee6c0]:Arrange full params: {"min_obj_distance":68001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-29,000000,"bed_shrink_y":-29,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":42,000000,"clearance_height_to_lid":225,000000,"clearance_radius":68,000000,"printable_height":378,000000,
+[error]	2025-10-08 12:47:44.894320[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 12:47:45.094872[Thread 0x00007f4414b48580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-10-08 12:47:49.794319[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-08 12:47:49.932758[Thread 0x00007f4414b48580]:validate_preset: preset_name GEEETECH PLA schwarz @Tronxy X5SA PRO 0.4 nozzle, inherit_name GEEETECH PLA weiß @Geeetech A30 Pro 0.4 nozzle, can not found preset and inherit in list
+[warning]	2025-10-08 12:47:49.932810[Thread 0x00007f4414b48580]:validate_presets:file_name x6sa-orca_Silica_Gel.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-10-08 12:47:49.932831[Thread 0x00007f4414b48580]:validate_presets:file_name x6sa-orca_Silica_Gel.3mf, found self defined presets, count 1
+[error]	2025-10-08 12:47:52.747011[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 12:48:21.720845[Thread 0x00007f4414b48580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 12:48:21.748509[Thread 0x00007f4414b48580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-10-08 12:48:28.602023[Thread 0x00007f4414b48580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[warning]	2025-10-08 12:49:56.503053[Thread 0x00007f438efee6c0]:Arrange full params: {"min_obj_distance":81801003,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-35,900002,"bed_shrink_y":-35,900002,"brim_skirt_distance":0,000000,"clearance_height_to_rod":42,000000,"clearance_height_to_lid":220,000000,"clearance_radius":81,800003,"printable_height":375,000000,
+[warning]	2025-10-08 12:50:33.730663[Thread 0x00007f438efee6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":42,000000,"clearance_height_to_lid":220,000000,"clearance_radius":81,800003,"printable_height":375,000000,
+[warning]	2025-10-08 12:51:13.664764[Thread 0x00007f438efee6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":42,000000,"clearance_height_to_lid":220,000000,"clearance_radius":81,800003,"printable_height":375,000000,
+[warning]	2025-10-08 12:51:22.262005[Thread 0x00007f438efee6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":42,000000,"clearance_height_to_lid":220,000000,"clearance_radius":81,800003,"printable_height":375,000000,
+[error]	2025-10-08 13:08:45.724640[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 13:09:38.375202[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 13:09:54.992100[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-08 13:11:05.305707[Thread 0x00007f4414b48580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-08 13:13:29.219207[Thread 0x00007f434b7fe6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.

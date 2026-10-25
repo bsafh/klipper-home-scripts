@@ -1,0 +1,32 @@
+[warning]	2025-03-05 18:55:03.789703[Thread 0x00003044]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-05 18:55:03.790703[Thread 0x00003044]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-05 18:55:04.990620[Thread 0x00003044]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-05 18:55:05.405594[Thread 0x00003044]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-05 18:55:05.415596[Thread 0x00003044]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-05 18:55:05.525593[Thread 0x00003044]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-05 18:55:28.418630[Thread 0x00009910]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-03-05 18:55:28.644630[Thread 0x00007b10]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-05 18:55:29.336363[Thread 0x0000a46c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[error]	2025-03-05 18:55:29.409362[Thread 0x00009910]:File Metadata/plate_1.png not found from archive
+[warning]	2025-03-05 18:55:52.818187[Thread 0x00003044]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-05 18:55:52.818187[Thread 0x00003044]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-05 18:55:52.818187[Thread 0x00003044]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-05 18:55:53.040373[Thread 0x00003044]:Slic3r::NetworkAgent::connect_server error: network_agent=0000024956825850, ret=-2
+[warning]	2025-03-05 18:55:53.562158[Thread 0x00005054]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-05 18:56:47.973231[Thread 0x00003044]:can not find object for component, id=65667
+[error]	2025-03-05 18:56:47.973231[Thread 0x00003044]:Error (Invalid 3MF format) while parsing '3D/3dmodel.model' at line 92
+[error]	2025-03-05 18:56:47.973231[Thread 0x00003044]:Archive does not contain a valid model
+[error]	2025-03-05 18:57:35.726955[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:57:52.202771[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:58:09.443626[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:58:10.911083[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:58:14.262791[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-05 18:58:17.965385[Thread 0x0000aff8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-03-05 18:58:22.310134[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:59:43.597915[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 20:05:45.193248[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 20:06:14.390305[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 06:53:36.212903[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 06:55:25.016538[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 11:51:45.113809[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 12:01:22.746427[Thread 0x00003044]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

@@ -1,0 +1,585 @@
+[warning]	2025-05-01 18:16:00.603090[Thread 0x0000467c]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-05-01 18:16:00.615134[Thread 0x0000467c]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-05-01 18:16:04.706281[Thread 0x0000467c]:Slic3r::ConfigBase::load_from_json: parse C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/Bambu/Bambu ABS @System.json got a nlohmann::detail::parse_error, reason = [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+[error]	2025-05-01 18:16:04.707338[Thread 0x0000467c]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_b0a97289399420609d82f280b812c98d>::operator (): load config file C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/Bambu/Bambu ABS @System.json Failed!
+[error]	2025-05-01 18:16:04.707338[Thread 0x0000467c]:Slic3r::PresetBundle::load_vendor_configs_from_json, got error when parse filament setting from C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/Bambu/Bambu ABS @System.json
+[error]	2025-05-01 18:16:06.290322[Thread 0x0000467c]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_b0a97289399420609d82f280b812c98d>::operator (): can not find inherits Generic PLA @System for Generic PLA @MyToolChanger
+[error]	2025-05-01 18:16:06.290322[Thread 0x0000467c]:Slic3r::PresetBundle::load_vendor_configs_from_json, got error when parse filament setting from C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system/Custom/filament/Generic PLA @MyToolChanger.json
+[error]	2025-05-01 18:16:06.380321[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-05-01 18:16:06.830123[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech ABS+ @A30.json!
+[error]	2025-05-01 18:16:06.835123[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech ABS+ @X5SA.json!
+[error]	2025-05-01 18:16:06.849121[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech Black PLA-CF @Geeetech - A30.json!
+[error]	2025-05-01 18:16:06.879244[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech Black PLA-CF @Geeetech - Kopieren.json!
+[error]	2025-05-01 18:16:06.886241[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech Black PLA-CF @Geeetech - X5SA.json!
+[error]	2025-05-01 18:16:06.937240[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech Black PLA-CF @X5SA.json!
+[error]	2025-05-01 18:16:06.961241[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG @A30.json!
+[error]	2025-05-01 18:16:06.975241[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG @Geeetech - Kopieren.json!
+[error]	2025-05-01 18:16:06.998242[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG @Geeetech A30.json!
+[error]	2025-05-01 18:16:07.015241[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG @X5SA.json!
+[error]	2025-05-01 18:16:07.022916[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG hot @A30.json!
+[error]	2025-05-01 18:16:07.040435[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG hot @X5SA.json!
+[error]	2025-05-01 18:16:07.057444[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG transparent @X5SA.json!
+[error]	2025-05-01 18:16:07.068434[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA @A30.json!
+[error]	2025-05-01 18:16:07.129335[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Gold @A30.json!
+[error]	2025-05-01 18:16:07.136335[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Gold @Geeetech.json!
+[error]	2025-05-01 18:16:07.145386[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Gold @X5SA.json!
+[error]	2025-05-01 18:16:07.148388[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Klipper A30.json!
+[error]	2025-05-01 18:16:07.157388[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Klipper X5SA.json!
+[error]	2025-05-01 18:16:07.286008[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA weiß @A30.json!
+[error]	2025-05-01 18:16:07.293009[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA weiß @Geeetech.json!
+[error]	2025-05-01 18:16:07.310532[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA weiß @X5SA.json!
+[error]	2025-05-01 18:16:07.319533[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic ABS @System @Bowden.json!
+[error]	2025-05-01 18:16:07.332054[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic ABS @System @directdrive.json!
+[error]	2025-05-01 18:16:07.335052[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic ASA @System @Bowden.json!
+[error]	2025-05-01 18:16:07.346054[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic ASA @System @directdrive.json!
+[error]	2025-05-01 18:16:07.353055[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PETG @System @Bowden.json!
+[error]	2025-05-01 18:16:07.355575[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PETG @System @directdrive.json!
+[error]	2025-05-01 18:16:07.357576[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA @System @Bowden.json!
+[error]	2025-05-01 18:16:07.362575[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA @System @directdrive.json!
+[error]	2025-05-01 18:16:07.366576[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA Matte @System - @All printer.json!
+[error]	2025-05-01 18:16:07.369576[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA Matte @System - @Bowden.json!
+[error]	2025-05-01 18:16:07.393101[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA Matte @System - @directdrive.json!
+[error]	2025-05-01 18:16:07.398099[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA-CF @System @Bowden.json!
+[error]	2025-05-01 18:16:07.403100[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA-CF @System @directdrive.json!
+[error]	2025-05-01 18:16:07.405625[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic TPU @System @ALL.json!
+[error]	2025-05-01 18:16:07.410626[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Jayo PETG hot @A30.json!
+[error]	2025-05-01 18:16:07.415627[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Jayo PETG hot @X5SA.json!
+[error]	2025-05-01 18:16:07.428625[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\OWL PETG @X5SA.json!
+[error]	2025-05-01 18:16:07.446624[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\PLA Geeetech Gold @A30.json!
+[error]	2025-05-01 18:16:07.452626[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\PLA Geeetech Gold @X5SA.json!
+[error]	2025-05-01 18:16:07.466624[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Geeetech ABS+.json!
+[error]	2025-05-01 18:16:07.473624[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Geeetech PETG hot.json!
+[error]	2025-05-01 18:16:07.493625[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Geeetech PETG.json!
+[error]	2025-05-01 18:16:07.497623[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Generic PETG - Kopieren.json!
+[error]	2025-05-01 18:16:07.510627[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Jajo PETG hot.json!
+[error]	2025-05-01 18:16:07.517698[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Klipper PLA Geeetech Gold.json!
+[error]	2025-05-01 18:16:07.541814[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy PLA Geeetech Gold.json!
+[warning]	2025-05-01 18:16:07.541814[Thread 0x0000467c]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-05-01 18:16:07.602459[Thread 0x0000467c]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-05-01 18:16:07.782148[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-05-01 18:17:04.313308[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Gießkannen-x5sa.3mf
+[error]	2025-05-01 18:17:04.313308[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Smartphone Zubehör\USB-C+Port+Cleaner+V2-modified.3mf
+[error]	2025-05-01 18:17:04.313308[Thread 0x00007500]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated_A30_PLA-modified.3mf
+[error]	2025-05-01 18:17:04.323305[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\SKEW_Calib_a30_pla.3mf
+[error]	2025-05-01 18:17:04.324307[Thread 0x00007500]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated_A30_PLA.3mf
+[error]	2025-05-01 18:17:04.325306[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Smartphone Zubehör\USB-C+Port+Cleaner+V2.3mf
+[error]	2025-05-01 18:17:04.329304[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Battery Holder\orca_tronxy_batterien_2_glatt.3mf
+[error]	2025-05-01 18:17:04.338304[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Printer-Zubehör\Geeetech A30\CR-10 Extruder Coupling - 3360380\files\M6-Abstand.3mf
+[error]	2025-05-01 18:17:04.350304[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Voronoi+Pencil+Holder+by+Slimprint+(V003).3mf
+[error]	2025-05-01 18:17:04.353306[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\first_layer_test_pla-a30.3mf
+[error]	2025-05-01 18:17:04.356306[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\blumentöpfe_büro.3mf
+[error]	2025-05-01 18:17:04.368312[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Printer-Zubehör\Geeetech A30\Bauteillüfter_y-achsen-cover.3mf
+[error]	2025-05-01 18:17:04.375318[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated.3mf
+[error]	2025-05-01 18:17:04.379305[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\CB-Logo\Namenszüge-CB.3mf
+[error]	2025-05-01 18:17:04.380831[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Untersetzer\infill-coaster.3mf
+[error]	2025-05-01 18:17:04.383825[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Flowrate Test - Pass2.3mf
+[error]	2025-05-01 18:17:04.385333[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Angular Self Watering Plant Pot with Ball Float_12x14.3mf
+[error]	2025-05-01 18:17:04.399344[Thread 0x000073d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Angular Pot 12x14 and robbed 12x15.3mf
+[error]	2025-05-01 18:17:04.402349[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\70mm+planter.3mf
+[error]	2025-05-01 18:17:04.413348[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Angular Self Watering Plant Pot with Ball Float.3mf
+[error]	2025-05-01 18:17:04.429346[Thread 0x00003e50]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Nozzle temperature_220-260__PETG.3mf
+[error]	2025-05-01 18:18:28.113441[Thread 0x0000467c]:Slic3r::NetworkAgent::connect_server error: network_agent=000002326DDC8CF0, ret=-2
+[warning]	2025-05-01 18:18:29.794478[Thread 0x0000417c]:[Orca Updater]: online version=1.10.1.9, current_version=1.10.1.9, no need to download
+[warning]	2025-05-01 18:18:49.065852[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-05-01 18:18:49.065852[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-05-01 18:18:49.066853[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-05-01 18:18:49.068852[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-05-01 18:18:49.069853[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-05-01 18:18:49.072854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @X5SA, just skip
+[warning]	2025-05-01 18:18:49.073855[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-05-01 18:18:49.074854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @X5SA, just skip
+[warning]	2025-05-01 18:18:49.075854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-05-01 18:18:49.075854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-05-01 18:18:49.076854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-05-01 18:18:49.078854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @X5SA, just skip
+[warning]	2025-05-01 18:18:49.079855[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-05-01 18:18:49.080854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-05-01 18:18:49.081854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-05-01 18:18:49.082854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-05-01 18:18:49.084854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-05-01 18:18:49.085854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-05-01 18:18:49.086854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-05-01 18:18:49.090857[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-05-01 18:18:49.091854[Thread 0x0000467c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[warning]	2025-05-01 18:24:36.068227[Thread 0x0000467c]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG hot @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-05-01 18:24:36.068227[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-05-01 18:24:36.068227[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found self defined presets, count 1
+[error]	2025-05-01 18:24:45.485868[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:25:26.719582[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:25:29.542367[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:25:32.034773[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:31:00.167556[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:31:00.589764[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:31:08.615487[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 18:31:10.275260[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-01 18:33:12.432949[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:33:12.704589[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:33:12.990334[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:33:25.620480[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 18:33:26.582409[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-01 18:33:39.330884[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:42:13.763443[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:42:59.014726[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:43:02.084604[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:43:08.298921[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:53:03.880023[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 18:53:58.628701[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:00:34.800776[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:01:39.834896[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:02:55.893943[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:02:58.538273[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:04:16.521459[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:04:22.400903[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:05:14.182477[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:05:17.726450[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:05:35.054923[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:05:53.194978[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:07:20.466730[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:07:26.729325[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:07:51.726759[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:07:57.158871[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:09:31.062222[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:09:43.503349[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:11:20.250970[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:11:25.150896[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:12:11.062368[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:12:45.763164[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:13:01.183982[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:15:43.362804[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:16:29.469889[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:16:32.689446[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:18:16.411531[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:20:18.519830[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:20:49.750294[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:21:41.476517[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:22:08.860946[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:23:11.965670[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:23:43.491661[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:24:09.423480[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:24:26.932377[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:24:55.389584[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:25:12.756978[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:25:36.237035[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:27:48.292364[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:28:23.969215[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:28:49.599510[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:29:21.195647[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:29:56.166343[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:32:44.341199[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:32:50.843806[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:34:25.926602[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:34:32.212288[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:34:34.164868[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:34:52.310336[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:34:55.835568[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:35:46.875393[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:35:52.899182[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:36:51.379576[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:37:18.460780[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:38:10.825358[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:38:14.146214[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:39:09.283701[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:39:15.963380[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:42:17.288654[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:42:50.418480[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:45:23.719335[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:45:24.289092[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:45:31.795429[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:46:36.819558[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:46:46.879610[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:47:59.068474[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:51:39.311920[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:51:39.506933[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:53:44.087868[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:54:03.625420[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:54:09.237533[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 19:54:24.385469[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:01:50.309586[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:02:05.035527[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:02:06.762748[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:02:33.930716[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:04:14.530700[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:04:39.986201[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:06:57.691661[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:06:58.251662[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:07:39.365838[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:07:40.065930[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:11:35.265402[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:11:35.598927[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:11:40.738648[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 20:11:44.035918[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-01 20:12:13.219770[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:13:28.693764[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:13:37.776976[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:13:42.072738[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:15:21.245590[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:15:25.238925[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:16:15.861011[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:16:51.177857[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:16:58.385252[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:17:02.048949[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:17:25.405632[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:17:31.304903[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:18:03.986178[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:18:19.858953[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:18:36.172048[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:18:37.251821[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:19:09.448063[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 20:19:11.488656[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-01 20:21:50.486101[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:23:31.047870[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:23:31.224869[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:27:17.282965[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:27:17.504964[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:27:44.742661[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 20:27:59.802607[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 20:28:19.225115[Thread 0x00007500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-05-01 20:29:00.513753[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 20:29:24.016785[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-01 20:29:29.915993[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 20:29:34.584965[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-01 20:29:46.984979[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:08:06.664276[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:08:45.234771[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:13:07.352094[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:13:10.011280[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:18:47.059362[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:18:47.237007[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:21:42.798869[Thread 0x00006b64]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2025-05-01 21:22:07.416248[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:22:41.198292[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:22:45.883592[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:22:49.026256[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:22:55.254733[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:22:58.949870[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:22.634278[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:24.117468[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:26.179528[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:32.291560[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:36.191372[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:39.325679[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:45.805538[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:56.637020[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:23:57.212825[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:24:04.736578[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:24:09.590697[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:24:15.938601[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:24:19.810169[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:24:25.400792[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 21:26:00.763630[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Thu_May_01/21_25_57#16524#14764/_temp_2.config!
+[warning]	2025-05-01 21:26:01.010156[Thread 0x0000467c]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG hot @X5SA(v6-volcano-halterung.3mf), inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-05-01 21:26:01.010156[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-05-01 21:26:01.010156[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found self defined presets, count 1
+[error]	2025-05-01 21:26:04.266216[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:26:04.771305[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:26:21.446886[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:27:07.897791[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 21:27:11.058021[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Thu_May_01/21_27_09#16524#16241/_temp_2.config!
+[warning]	2025-05-01 21:27:11.280261[Thread 0x0000467c]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG hot @X5SA(v6-volcano-halterung.3mf), inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-05-01 21:27:11.280261[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-05-01 21:27:11.280261[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found self defined presets, count 1
+[error]	2025-05-01 21:27:14.799175[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:27:15.195176[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:28:32.227120[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:28:32.539118[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:28:33.198720[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:29:36.460315[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:29:47.264796[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:29:55.282347[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:30:02.080679[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:30:03.832879[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:31:03.852651[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:31:07.157913[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:31:50.704920[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:32:27.869733[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:32:28.031735[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:32:49.556663[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:32:58.164910[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-01 21:33:12.125462[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-01 21:33:14.423884[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-02 13:16:32.406358[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:21:12.773736[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:23:49.903783[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:24:05.364838[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:24:10.408312[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:24:13.722599[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:24:57.588696[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:25:00.420695[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:26:23.974247[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:26:35.858829[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:26:37.494127[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:27:02.228436[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:27:34.708474[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:27:44.506438[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:27:46.910022[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:27:50.726396[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:28:08.654562[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:28:12.634581[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:30:06.826862[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:30:27.932870[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:30:46.672883[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:31:54.065136[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:32:00.420621[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 13:33:36.993238[Thread 0x00007500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 13:33:37.022239[Thread 0x00007500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-05-02 13:34:44.335372[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:35:17.343398[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:35:17.498943[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:35:17.638538[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:35:57.315806[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:35:59.065021[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:36:18.259905[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:36:31.046140[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:36:55.141670[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:37:25.237693[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:37:43.758626[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:37:48.793657[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:37:56.696024[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:38:01.527667[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:38:07.636602[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:38:18.361622[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:38:20.862398[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:39:46.750448[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:39:48.245950[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:41:29.111739[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:41:49.425701[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:44:08.275738[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:44:08.410190[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:45:03.030386[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:45:03.241385[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:45:38.130970[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:45:40.758096[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 13:46:03.439931[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 13:46:05.836612[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-02 13:56:41.677500[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:06:26.062002[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:06:41.541044[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:06:43.770055[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:06:45.515565[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:07:11.293992[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:07:32.659076[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:07:44.942467[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:07:50.023306[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:07:57.111416[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:07:59.144837[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:08:00.504431[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:08:04.776913[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:08:19.299852[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:08:25.646216[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:09:01.699033[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:09:15.642862[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:09:21.973886[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:09:24.245995[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:09:25.670383[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:09:28.138117[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:10:24.122107[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:10:28.601957[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:10:34.524144[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:10:36.850854[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:10:38.289153[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:10:56.948340[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:11:44.333046[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:11:52.421116[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 14:11:55.052967[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-02 14:11:58.961466[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:12:14.910112[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:12:28.337376[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:12:47.666155[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:13:18.145352[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:13:34.098142[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:13:56.923178[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 14:13:59.149417[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-05-02 14:14:10.718749[Thread 0x000061bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-05-02 14:21:18.481498[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:21:18.673292[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:21:19.064404[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:21:20.609217[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:21:21.009142[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:21:46.017132[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:21:53.767212[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:00.131831[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:11.116868[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:19.110258[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:22.211491[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:24.089869[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:26.416736[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:31.847526[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:33.554252[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:40.347928[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:22:42.383307[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:23:35.309587[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 14:23:40.716867[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-02 14:24:06.676266[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:24:15.892513[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:24:16.866513[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:24:31.250652[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:24:37.597319[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:25:10.286523[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 14:25:12.404521[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-02 14:40:44.651527[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:40:44.837544[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:40:45.212484[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:40:50.471816[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:40:58.949917[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:40:59.102014[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:40:59.456082[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:41:13.871510[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:41:26.510657[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:42:25.163044[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:42:26.786805[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:43:05.210370[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:43:51.054559[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:43:59.838563[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 14:44:00.169263[Thread 0x0000467c]:Fontlist cache - 'C:\Users\chrboett\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2025-05-02 14:44:00.510559[Thread 0x0000467c]:Failed to write fontlist cache - C:\Users\chrboett\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[error]	2025-05-02 14:44:10.590907[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:44:32.063853[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:44:59.674348[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:45:49.468177[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:48:27.833504[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:49:42.347105[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:49:44.934127[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:51:50.280880[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:52:17.448131[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:52:40.323781[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:53:07.869807[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:53:50.767459[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:55:45.145173[Thread 0x0000467c]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system\OrcaFilamentLibrary.json got a nlohmann::detail::parse_error, reason = [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+[error]	2025-05-02 14:56:38.899673[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:56:41.748580[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:57:57.910386[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:59:15.630289[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 14:59:50.925587[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:00:25.278964[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:00:44.588864[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:00:52.599822[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:01:15.379488[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:01:26.073286[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:05:24.701247[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:06:46.526452[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:07:35.559266[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:08:46.934199[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:08:53.110030[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:12:11.331368[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:12:17.411402[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:13:39.708190[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:13:46.970462[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:14:28.274412[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:14:57.132147[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:15:17.035679[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:15:42.297820[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:15:59.614914[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:16:45.022758[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:16:48.834289[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:17:48.655465[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:18:30.688792[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:19:07.350043[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:20:07.101791[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:20:26.965168[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:20:57.911064[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:21:12.881168[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:21:31.395673[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:21:34.185502[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:24:52.048901[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:25:21.571858[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:25:26.989159[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:25:29.239642[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:25:46.993413[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:26:28.897180[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:27:19.029283[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:27:43.491080[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 15:29:13.550357[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Fri_May_02/15_29_11#16524#30252/_temp_2.config!
+[warning]	2025-05-02 15:29:13.676863[Thread 0x0000467c]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG hot @X5SA(v6-volcano-halterung.3mf), inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-05-02 15:29:13.676863[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung-x5sa-alle.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-05-02 15:29:13.676863[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung-x5sa-alle.3mf, found self defined presets, count 1
+[error]	2025-05-02 15:29:20.670225[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:29:20.982137[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:29:54.907164[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:30:02.497860[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 15:30:30.112639[Thread 0x0000467c]:Slic3r::PresetCollection::validate_preset: preset_name Fan Test GEEETECH PLA schwarz @Tronxy X5SA PRO 0.4 nozzle, inherit_name GEEETECH PLA weiß @Geeetech A30 Pro 0.4 nozzle, can not found preset and inherit in list
+[warning]	2025-05-02 15:30:30.112639[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name Mount-MK10-x5sa-Pro-Upgrade.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-05-02 15:30:30.112639[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name Mount-MK10-x5sa-Pro-Upgrade.3mf, found self defined presets, count 1
+[error]	2025-05-02 15:30:42.466605[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:30:42.637341[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 15:31:27.235301[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Fri_May_02/15_31_26#16524#32041/_temp_2.config!
+[warning]	2025-05-02 15:31:27.428302[Thread 0x0000467c]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG hot @X5SA(v6-volcano-halterung.3mf), inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-05-02 15:31:27.428302[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-05-02 15:31:27.428302[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found self defined presets, count 1
+[error]	2025-05-02 15:31:30.960679[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:31:31.182149[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:31:34.928519[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:31:40.675634[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:31:53.870365[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:31:54.030392[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:31:54.484344[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:31:59.664788[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:32:04.101088[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:32:06.237312[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:32:15.685301[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:32:29.987328[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:32:30.723111[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:32:34.868408[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:32:36.243473[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:33:03.941560[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:33:08.002732[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:37:07.902418[Thread 0x0000467c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-02 15:37:07.911463[Thread 0x0000467c]:Unable to load bed texture: S:\data\transfer\3D-print\Software\OrcaSlicer-settings\klipper_geeetech_logo.png
+[error]	2025-05-02 15:37:08.750436[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 15:37:12.743419[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 20:51:25.854636[Thread 0x0000467c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-02 20:51:26.105986[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 20:51:26.477132[Thread 0x0000467c]:Unable to load bed texture: S:\data\transfer\3D-print\Software\OrcaSlicer-settings\klipper_geeetech_logo.png
+[error]	2025-05-02 20:51:27.370297[Thread 0x0000467c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-05-02 20:51:27.481295[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Fri_May_02/20_51_27#16524#32751/_temp_2.config!
+[warning]	2025-05-02 20:51:27.588294[Thread 0x0000467c]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG hot @X5SA(v6-volcano-halterung.3mf), inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-05-02 20:51:27.588294[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-05-02 20:51:27.588294[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung.3mf, found self defined presets, count 1
+[error]	2025-05-02 20:51:31.788302[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 20:51:32.979204[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 20:52:19.113296[Thread 0x0000467c]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Fri_May_02/20_52_17#16524#32969/_temp_2.config!
+[warning]	2025-05-02 20:52:19.223428[Thread 0x0000467c]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG hot @X5SA(v6-volcano-halterung.3mf), inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-05-02 20:52:19.223428[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung-x5sa-alle.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-05-02 20:52:19.223428[Thread 0x0000467c]:Slic3r::PresetBundle::validate_presets:file_name v6-volcano-halterung-x5sa-alle.3mf, found self defined presets, count 1
+[error]	2025-05-02 20:52:22.494229[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 20:52:23.638045[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 20:52:40.824964[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 20:52:42.282385[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 20:52:42.832162[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-02 20:52:45.988003[Thread 0x0000467c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-02 20:52:47.900634[Thread 0x000042a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-05-02 20:53:06.387759[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.412762[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.451762[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.476760[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.507760[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.593760[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.612759[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.655760[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.671760[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.710759[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.725760[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.757760[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.774761[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.811758[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.827281[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.833280[Thread 0x00003e50]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.848283[Thread 0x00003e50]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.861281[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.867282[Thread 0x00007500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.876280[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.877281[Thread 0x00003e50]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.880280[Thread 0x00006b64]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.883282[Thread 0x00007500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.891282[Thread 0x00003e50]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.901281[Thread 0x000061bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.904281[Thread 0x000082b0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.914283[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.916280[Thread 0x000061bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.920281[Thread 0x000082b0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.922281[Thread 0x00006b64]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.923281[Thread 0x00007500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.930280[Thread 0x000071bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.941281[Thread 0x00007500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.963281[Thread 0x000082b0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:06.978281[Thread 0x000082b0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-05-02 20:53:16.950320[Thread 0x000071bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.

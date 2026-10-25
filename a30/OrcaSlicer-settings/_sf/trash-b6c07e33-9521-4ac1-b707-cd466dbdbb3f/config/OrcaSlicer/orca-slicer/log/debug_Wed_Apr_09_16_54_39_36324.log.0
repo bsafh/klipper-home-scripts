@@ -1,0 +1,83 @@
+[warning]	2025-04-09 16:54:43.544559[Thread 0x00005f4c]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-09 16:54:43.551563[Thread 0x00005f4c]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-09 16:54:45.473876[Thread 0x00005f4c]:Slic3r::ConfigBase::load_from_json: parse C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/Bambu/Bambu PC @System.json got a nlohmann::detail::parse_error, reason = [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+[error]	2025-04-09 16:54:45.473876[Thread 0x00005f4c]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_b0a97289399420609d82f280b812c98d>::operator (): load config file C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/Bambu/Bambu PC @System.json Failed!
+[error]	2025-04-09 16:54:45.473876[Thread 0x00005f4c]:Slic3r::PresetBundle::load_vendor_configs_from_json, got error when parse filament setting from C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/Bambu/Bambu PC @System.json
+[error]	2025-04-09 16:54:46.604228[Thread 0x00005f4c]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_b0a97289399420609d82f280b812c98d>::operator (): can not find inherits Generic PLA @System for Generic PLA @MyToolChanger
+[error]	2025-04-09 16:54:46.604228[Thread 0x00005f4c]:Slic3r::PresetBundle::load_vendor_configs_from_json, got error when parse filament setting from C:\Users\chrboett\AppData\Roaming\OrcaSlicer\system/Custom/filament/Generic PLA @MyToolChanger.json
+[error]	2025-04-09 16:54:46.670008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-04-09 16:54:47.049009[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech ABS+ @A30.json!
+[error]	2025-04-09 16:54:47.062007[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech ABS+ @X5SA.json!
+[error]	2025-04-09 16:54:47.069010[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech Black PLA-CF @Geeetech - A30.json!
+[error]	2025-04-09 16:54:47.073009[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech Black PLA-CF @Geeetech - Kopieren.json!
+[error]	2025-04-09 16:54:47.091008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech Black PLA-CF @Geeetech - X5SA.json!
+[error]	2025-04-09 16:54:47.098008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech Black PLA-CF @X5SA.json!
+[error]	2025-04-09 16:54:47.104009[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG @A30.json!
+[error]	2025-04-09 16:54:47.110009[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG @Geeetech - Kopieren.json!
+[error]	2025-04-09 16:54:47.117010[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG @Geeetech A30.json!
+[error]	2025-04-09 16:54:47.128008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG @X5SA.json!
+[error]	2025-04-09 16:54:47.155008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG hot @A30.json!
+[error]	2025-04-09 16:54:47.160008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG hot @X5SA.json!
+[error]	2025-04-09 16:54:47.168008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PETG transparent @X5SA.json!
+[error]	2025-04-09 16:54:47.171008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA @A30.json!
+[error]	2025-04-09 16:54:47.189009[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Gold @A30.json!
+[error]	2025-04-09 16:54:47.199009[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Gold @Geeetech.json!
+[error]	2025-04-09 16:54:47.204008[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Gold @X5SA.json!
+[error]	2025-04-09 16:54:47.208009[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Klipper A30.json!
+[error]	2025-04-09 16:54:47.212009[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA Klipper X5SA.json!
+[error]	2025-04-09 16:54:47.272835[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA weiß @A30.json!
+[error]	2025-04-09 16:54:47.278836[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA weiß @Geeetech.json!
+[error]	2025-04-09 16:54:47.288834[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Geeetech PLA weiß @X5SA.json!
+[error]	2025-04-09 16:54:47.292838[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic ABS @System @Bowden.json!
+[error]	2025-04-09 16:54:47.296835[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic ABS @System @directdrive.json!
+[error]	2025-04-09 16:54:47.300835[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic ASA @System @Bowden.json!
+[error]	2025-04-09 16:54:47.305836[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic ASA @System @directdrive.json!
+[error]	2025-04-09 16:54:47.309837[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PETG @System @Bowden.json!
+[error]	2025-04-09 16:54:47.313835[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PETG @System @directdrive.json!
+[error]	2025-04-09 16:54:47.316838[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA @System @Bowden.json!
+[error]	2025-04-09 16:54:47.319837[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA @System @directdrive.json!
+[error]	2025-04-09 16:54:47.322837[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA Matte @System - @All printer.json!
+[error]	2025-04-09 16:54:47.327837[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA Matte @System - @Bowden.json!
+[error]	2025-04-09 16:54:47.330839[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA Matte @System - @directdrive.json!
+[error]	2025-04-09 16:54:47.338838[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA-CF @System @Bowden.json!
+[error]	2025-04-09 16:54:47.344836[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic PLA-CF @System @directdrive.json!
+[error]	2025-04-09 16:54:47.346837[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Generic TPU @System @ALL.json!
+[error]	2025-04-09 16:54:47.352837[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Jayo PETG hot @A30.json!
+[error]	2025-04-09 16:54:47.358835[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Jayo PETG hot @X5SA.json!
+[error]	2025-04-09 16:54:47.415838[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\OWL PETG @X5SA.json!
+[error]	2025-04-09 16:54:47.426836[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\PLA Geeetech Gold @A30.json!
+[error]	2025-04-09 16:54:47.435838[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\PLA Geeetech Gold @X5SA.json!
+[error]	2025-04-09 16:54:47.441838[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Geeetech ABS+.json!
+[error]	2025-04-09 16:54:47.449840[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Geeetech PETG hot.json!
+[error]	2025-04-09 16:54:47.457838[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Geeetech PETG.json!
+[error]	2025-04-09 16:54:47.460836[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Generic PETG - Kopieren.json!
+[error]	2025-04-09 16:54:47.467838[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Jajo PETG hot.json!
+[error]	2025-04-09 16:54:47.474835[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy Klipper PLA Geeetech Gold.json!
+[error]	2025-04-09 16:54:47.481834[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\filament\Tronxy PLA Geeetech Gold.json!
+[warning]	2025-04-09 16:54:47.481834[Thread 0x00005f4c]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-04-09 16:54:47.489837[Thread 0x00005f4c]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-04-09 16:54:47.564835[Thread 0x00005f4c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-04-09 16:55:45.863107[Thread 0x00008830]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Gießkannen-Vasen-Modus_x5sa.3mf
+[error]	2025-04-09 16:55:45.875097[Thread 0x00000478]:File Metadata/plate_1.png not found from archive
+[warning]	2025-04-09 16:56:41.612048[Thread 0x00005f4c]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab P1S 0.4 nozzle, no inherit, set to not found
+[warning]	2025-04-09 16:56:41.612048[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found the printer preset not inherit from system
+[warning]	2025-04-09 16:56:41.612048[Thread 0x00005f4c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-04-09 16:56:41.612048[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-09 16:56:41.612048[Thread 0x00005f4c]:Slic3r::PresetCollection::validate_preset: preset_name PLA+ ARIANEPLAST Blanc, inherit_name Generic PLA, can not found preset and inherit in list
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-04-09 16:56:41.613045[Thread 0x00005f4c]:Slic3r::PresetBundle::validate_presets:file_name SelfWaterPlanter+v2.3mf, found self defined presets, count 3
+[error]	2025-04-09 16:56:52.562294[Thread 0x00005f4c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:56:53.058813[Thread 0x00005f4c]:Slic3r::NetworkAgent::connect_server error: network_agent=000001C8194DC210, ret=-2
+[warning]	2025-04-09 16:56:53.700906[Thread 0x00006210]:[Orca Updater]: online version=1.10.1.9, current_version=1.10.1.9, no need to download
+[error]	2025-04-09 16:57:02.365469[Thread 0x00005f4c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 16:57:09.641815[Thread 0x00005f4c]:Failed to clean up encrypt bbl network log file

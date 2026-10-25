@@ -1,0 +1,39 @@
+[warning]	2025-10-09 18:38:03.615629[Thread 0x00007fa2eb16c580]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-10-09 18:38:03.615969[Thread 0x00007fa2eb16c580]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-10-09 18:38:03.615992[Thread 0x00007fa2eb16c580]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-10-09 18:38:05.278572[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-10-09 18:38:05.295355[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[error]	2025-10-09 18:38:05.301740[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Standard @Tronxy - CB1.json!
+[error]	2025-10-09 18:38:05.307082[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Standard @Tronxy - CB1 schnell.json!
+[error]	2025-10-09 18:38:05.439649[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-10-09 18:38:05.453155[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Standard @Tronxy - CB2.json!
+[error]	2025-10-09 18:38:05.572601[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Standard @Tronxy - Kopieren.json!
+[error]	2025-10-09 18:38:05.625575[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-10-09 18:38:05.654311[Thread 0x00007fa2eb16c580]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[error]	2025-10-09 18:38:05.719983[Thread 0x00007fa2eb16c580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-10-09 18:38:06.996440[Thread 0x00007fa2387f86c0]:Unable to open connection to spacenavd
+[error]	2025-10-09 18:38:09.041651[Thread 0x00007fa2eb16c580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-09 18:38:09.062964[Thread 0x00007fa2eb16c580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-10-09 18:38:09.197350[Thread 0x00007fa2eb16c580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[warning]	2025-10-09 18:38:10.712746[Thread 0x00007fa2eb16c580]:06:38:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-09 18:38:10.865410[Thread 0x00007fa2eb16c580]:06:38:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-09 18:38:10.878726[Thread 0x00007fa2eb16c580]:06:38:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-09 18:38:10.990434[Thread 0x00007fa2eb16c580]:06:38:10 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-10-09 18:38:15.151727[Thread 0x00007fa2eb16c580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-09 18:38:15.257591[Thread 0x00007fa2eb16c580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-10-09 18:38:15.760615[Thread 0x00007fa2eb16c580]:connect_server error: network_agent=0x55c678a38fd0, ret=-2
+[warning]	2025-10-09 18:38:15.845131[Thread 0x00007fa0fceed6c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-10-09 18:38:48.791273[Thread 0x00007fa2eb16c580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-09 18:38:48.923093[Thread 0x00007fa2eb16c580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-10-09 18:38:50.587155[Thread 0x00007fa2eb16c580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-09 18:38:50.692487[Thread 0x00007fa2eb16c580]:can not find parent for config /tmp/orcaslicer_model/Thu_Oct_09/18_38_49#300727#42/_temp_2.config!
+[warning]	2025-10-09 18:38:50.698679[Thread 0x00007fa2eb16c580]:can not find parent for config /tmp/orcaslicer_model/Thu_Oct_09/18_38_49#300727#42/_temp_2.config!
+[warning]	2025-10-09 18:38:50.719771[Thread 0x00007fa2eb16c580]:can not find parent for config /tmp/orcaslicer_model/Thu_Oct_09/18_38_49#300727#42/_temp_2.config!
+[warning]	2025-10-09 18:38:50.750501[Thread 0x00007fa2eb16c580]:validate_preset: preset_name Tronxy X5SA PRO Klipper 0.4 nozzle steel kein sperre- KI_optimized, inherit_name Tronxy X5SA 400 0.4 nozzle, can not found preset and inherit in list
+[warning]	2025-10-09 18:38:50.750567[Thread 0x00007fa2eb16c580]:validate_presets:file_name CISO-TUBS-Medaille-Igel-PETG-x5sa.3mf, found the printer preset not inherit from system
+[warning]	2025-10-09 18:38:50.750597[Thread 0x00007fa2eb16c580]:validate_preset: preset_name OWL PETG normal @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-10-09 18:38:50.750613[Thread 0x00007fa2eb16c580]:validate_presets:file_name CISO-TUBS-Medaille-Igel-PETG-x5sa.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-10-09 18:38:50.750632[Thread 0x00007fa2eb16c580]:validate_presets:file_name CISO-TUBS-Medaille-Igel-PETG-x5sa.3mf, found self defined presets, count 2
+[error]	2025-10-09 18:38:56.875229[Thread 0x00007fa2eb16c580]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-10-09 18:38:57.640861[Thread 0x00007fa2eb16c580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-09 18:39:24.941490[Thread 0x00007fa2eb16c580]:tree_sel_change_delayedcan not find page with current selection 

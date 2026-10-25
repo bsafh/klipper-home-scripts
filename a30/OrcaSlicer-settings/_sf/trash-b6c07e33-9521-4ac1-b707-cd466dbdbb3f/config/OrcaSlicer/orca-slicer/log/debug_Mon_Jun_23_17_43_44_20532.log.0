@@ -1,0 +1,28 @@
+[warning]	2025-06-23 17:43:45.748881[Thread 0x0000760f773914c0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-23 17:43:45.749199[Thread 0x0000760f773914c0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-23 17:43:45.749252[Thread 0x0000760f773914c0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-23 17:43:45.945238[Thread 0x0000760f773914c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-06-23 17:43:46.022483[Thread 0x0000760f773914c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-06-23 17:43:46.026263[Thread 0x0000760f773914c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[warning]	2025-06-23 17:43:46.083630[Thread 0x0000760f773914c0]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[error]	2025-06-23 17:43:46.116907[Thread 0x0000760f773914c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-06-23 17:43:46.139729[Thread 0x0000760f773914c0]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-06-23 17:43:46.149028[Thread 0x0000760f773914c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-06-23 17:43:49.132701[Thread 0x0000760f773914c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 17:43:49.182738[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/household items/Vasen und Gießkannen/blumentöpfe_büro.3mf
+[error]	2025-06-23 17:43:49.182796[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[error]	2025-06-23 17:43:49.182816[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST.3mf
+[error]	2025-06-23 17:43:49.182836[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/Galaxy+Z+Fold+6+Stand.3mf
+[error]	2025-06-23 17:43:49.182854[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/2.5 to 3.5-lighted.3mf
+[error]	2025-06-23 17:43:49.182871[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/Headphone+stand.3mf
+[error]	2025-06-23 17:43:49.182884[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/stifthalter.3mf
+[error]	2025-06-23 17:43:49.182893[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/coffebeancoaster_plate.3mf
+[error]	2025-06-23 17:43:49.182903[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/Coasters+with+Holder.3mf
+[error]	2025-06-23 17:43:49.182913[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/wellen-untersetzer-波浪杯垫lite.3mf
+[error]	2025-06-23 17:43:49.182923[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/Tensegrity+Table-a30.3mf
+[error]	2025-06-23 17:43:49.182933[Thread 0x0000760f545fd6c0]:Unable to open the file/home/christian/3d/coffee_bag_complete_final_updated-x5sa-petg.3mf
+[warning]	2025-06-23 17:43:50.535745[Thread 0x0000760f773914c0]:17:43:50: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-23 17:43:50.702786[Thread 0x0000760f773914c0]:17:43:50: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-23 17:43:50.722863[Thread 0x0000760f773914c0]:17:43:50: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-23 17:43:50.983905[Thread 0x0000760f773914c0]:17:43:50: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-23 17:43:54.311194[Thread 0x0000760f773914c0]:calc_exclude_triangles:Unable to create exclude triangles

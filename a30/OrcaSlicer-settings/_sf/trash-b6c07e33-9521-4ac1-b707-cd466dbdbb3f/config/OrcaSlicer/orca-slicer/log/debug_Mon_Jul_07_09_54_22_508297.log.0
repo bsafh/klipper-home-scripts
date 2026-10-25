@@ -1,0 +1,418 @@
+[warning]	2025-07-07 09:54:49.413229[Thread 0x00007fb587dd7580]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-07-07 09:54:49.413347[Thread 0x00007fb587dd7580]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-07-07 09:54:49.413428[Thread 0x00007fb587dd7580]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-07-07 09:54:49.713796[Thread 0x00007fb587dd7580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-07-07 09:54:49.717909[Thread 0x00007fb587dd7580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[error]	2025-07-07 09:54:49.785180[Thread 0x00007fb587dd7580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-07-07 09:54:49.864295[Thread 0x00007fb587dd7580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-07-07 09:54:49.888909[Thread 0x00007fb587dd7580]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-07-07 09:54:49.940268[Thread 0x00007fb587dd7580]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-07-07 09:54:49.946103[Thread 0x00007fb587dd7580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-07-07 09:54:52.433976[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:54:52.466972[Thread 0x00007fb3aaffd6c0]:Unable to open the file/home/christian/3D-Print/Projekte/Calibration/1. Layer TEST multiple plates_A30.3mf
+[error]	2025-07-07 09:54:52.467015[Thread 0x00007fb3aaffd6c0]:Unable to open the file/home/christian/3D-Print/Projekte/Printer-Zubehör/Volcano Hotend/v6-volcano-halterung-a30-alle_v3.3mf
+[error]	2025-07-07 09:54:52.507185[Thread 0x00007fb329fff6c0]:Unable to open the file/home/christian/3d/Galaxy+Z+Fold+6+Stand.3mf
+[error]	2025-07-07 09:54:52.507220[Thread 0x00007fb329fff6c0]:Unable to open the file/home/christian/3d/2.5 to 3.5-lighted.3mf
+[error]	2025-07-07 09:54:52.507233[Thread 0x00007fb329fff6c0]:Unable to open the file/home/christian/3d/Headphone+stand.3mf
+[error]	2025-07-07 09:54:52.507241[Thread 0x00007fb329fff6c0]:Unable to open the file/home/christian/3d/stifthalter.3mf
+[error]	2025-07-07 09:54:52.507251[Thread 0x00007fb329fff6c0]:Unable to open the file/home/christian/3D-Print/Projekte/Printer-Zubehör/Geeetech A30/Nozzle_Brushes_v6-halterung.3mf
+[error]	2025-07-07 09:54:52.534510[Thread 0x00007fb3847f86c0]:Unable to open the file/home/christian/3D-Print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[warning]	2025-07-07 09:54:53.666155[Thread 0x00007fb587dd7580]:09:54:53: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-07 09:54:53.674366[Thread 0x00007fb587dd7580]:09:54:53: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-07 09:54:53.678067[Thread 0x00007fb587dd7580]:09:54:53: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-07 09:54:53.683383[Thread 0x00007fb587dd7580]:09:54:53: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-07-07 09:54:56.340637[Thread 0x00007fb587dd7580]:connect_server error: network_agent=0x558382ea84f0, ret=-2
+[warning]	2025-07-07 09:54:56.737662[Thread 0x00007fb30068b6c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-07-07 09:55:04.506830[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-07-07 09:55:04.506906[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-07-07 09:55:04.507249[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-07-07 09:55:04.507568[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-07-07 09:55:04.507912[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-07-07 09:55:04.508250[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-07-07 09:55:04.508568[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-07-07 09:55:04.508642[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-07-07 09:55:04.508951[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-07-07 09:55:04.509249[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-07-07 09:55:04.509576[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-07-07 09:55:04.509960[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-07-07 09:55:04.510261[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-07-07 09:55:04.510559[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-07-07 09:55:04.510864[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-07-07 09:55:04.511185[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-07-07 09:55:04.511482[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-07-07 09:55:04.511782[Thread 0x00007fb587dd7580]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-07-07 09:55:16.864658[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:17.979954[Thread 0x00007fb587dd7580]:can not find object for component, id=327709
+[error]	2025-07-07 09:55:17.979983[Thread 0x00007fb587dd7580]:Error (Invalid 3MF format) while parsing '3D/3dmodel.model' at line 44
+[error]	2025-07-07 09:55:17.979989[Thread 0x00007fb587dd7580]:Archive does not contain a valid model
+[error]	2025-07-07 09:55:38.468932[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.067645[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.118231[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.157223[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.195777[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.235023[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.236783[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.238278[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.276007[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.314952[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:55:41.352330[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-07 09:55:41.393636[Thread 0x00007fb587dd7580]:can not find parent for config /tmp/orcaslicer_model/Mon_Jul_07/09_55_38#508297#59/_temp_2.config!
+[warning]	2025-07-07 09:55:41.394462[Thread 0x00007fb587dd7580]:can not find parent for config /tmp/orcaslicer_model/Mon_Jul_07/09_55_38#508297#59/_temp_2.config!
+[warning]	2025-07-07 09:55:41.395267[Thread 0x00007fb587dd7580]:can not find parent for config /tmp/orcaslicer_model/Mon_Jul_07/09_55_38#508297#59/_temp_2.config!
+[error]	2025-07-07 09:55:43.943552[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 09:56:00.711382[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 09:56:48.203970[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:56:54.813835[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 09:57:02.943630[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":2001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-15,000000,"bed_shrink_y":-15,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[warning]	2025-07-07 09:57:16.083086[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":2001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-15,000000,"bed_shrink_y":-15,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[error]	2025-07-07 09:57:29.093281[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 09:57:41.296504[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 09:58:27.546228[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":40001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-15,000000,"bed_shrink_y":-15,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[error]	2025-07-07 09:58:51.875826[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:51.878204[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:51.881260[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:51.884354[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:51.887424[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:51.890458[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:51.893550[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:51.896636[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:51.899670[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 09:58:57.100355[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:09:01.753122[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:09:13.167337[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:09:35.905688[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:12:47.019518[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 11:15:39.823155[Thread 0x00007fb3487f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 11:15:39.823989[Thread 0x00007fb3487f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[warning]	2025-07-07 11:15:43.572608[Thread 0x00007fb3aaffd6c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 11:15:43.572691[Thread 0x00007fb3aaffd6c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[warning]	2025-07-07 11:15:43.744866[Thread 0x00007fb34a7fc6c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 11:15:43.745800[Thread 0x00007fb34a7fc6c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[error]	2025-07-07 11:20:29.460907[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:20:45.761082[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:20:45.763495[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:20:45.766255[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:20:45.769831[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:20:45.773325[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:20:45.776882[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:20:45.779953[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:21:05.411255[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 11:21:21.757389[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":40001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-15,000000,"bed_shrink_y":-15,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[warning]	2025-07-07 11:21:22.833840[Thread 0x00007fb587dd7580]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-07-07 11:21:45.246614[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":40001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-15,000000,"bed_shrink_y":-15,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[warning]	2025-07-07 11:21:46.488394[Thread 0x00007fb587dd7580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-07-07 11:21:59.542408[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:22:03.864166[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:22:09.185013[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:22:24.558567[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 11:22:39.851142[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":40001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-15,000000,"bed_shrink_y":-15,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[warning]	2025-07-07 11:22:41.114535[Thread 0x00007fb587dd7580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-07-07 11:22:50.521859[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 11:22:50.626756[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":40001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-15,000000,"bed_shrink_y":-15,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[error]	2025-07-07 11:23:34.789024[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.791638[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.794941[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.797976[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.800852[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.803690[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.806348[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.808881[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.811375[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:34.813739[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 11:23:36.479127[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:24:28.541981[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:24:35.941442[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:24:50.778457[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:25:02.219490[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 11:31:21.028498[Thread 0x00007fb36c7f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 11:31:21.029541[Thread 0x00007fb36c7f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[warning]	2025-07-07 11:31:21.158440[Thread 0x00007fb36c7f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 11:31:21.158533[Thread 0x00007fb36c7f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[warning]	2025-07-07 11:31:24.230159[Thread 0x00007fb3aaffd6c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 11:31:24.231139[Thread 0x00007fb3aaffd6c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[error]	2025-07-07 11:34:49.167738[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:42:04.819638[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:42:26.278125[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:42:31.999454[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 11:43:41.844746[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:11:03.152608[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:11:07.272270[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:12:43.747572[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:12:46.333081[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:13:01.184001[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:13:04.689823[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:14:53.971786[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 12:14:59.484163[Thread 0x00007fb3aaffd6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-07-07 12:15:00.568331[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 12:15:02.627475[Thread 0x00007fb3a87f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-07-07 12:15:21.441802[Thread 0x00007fb587dd7580]:update_restart_background_process: plate count 10, can not switch
+[error]	2025-07-07 12:15:21.474371[Thread 0x00007fb34a7fc6c0]:call_process:got cancelled exception
+[error]	2025-07-07 12:18:15.016527[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:18:25.634021[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:19:36.869793[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 12:21:58.880886[Thread 0x00007fb3a87f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-07-07 12:25:16.766451[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:25:20.723725[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:25:26.004092[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:26:19.587073[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:26:27.717628[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:26:38.530938[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:27:22.164622[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:27:34.059405[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:27:43.794516[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:28:07.826299[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:28:39.879391[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:28:43.303860[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:28:47.333195[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:28:50.767369[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:28:54.505109[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:29:08.523676[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:29:45.965245[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:45.967976[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:45.970212[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:45.972210[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:45.974209[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:45.977194[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:47.801043[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:47.803811[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:47.805301[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:47.806820[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:47.808272[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:47.809713[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:47.811109[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:47.812530[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:50.426750[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:50.428594[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:50.430149[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:50.431686[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:50.433198[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:50.434732[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:50.436291[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:56.451387[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:56.457309[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:56.462795[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:56.468300[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:29:56.473731[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:30:00.870215[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:30:00.876058[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:30:00.878775[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:30:00.880368[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:30:06.442064[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:30:20.619796[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:30:48.259848[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:30:56.176034[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 12:31:07.675071[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[warning]	2025-07-07 12:31:08.008217[Thread 0x00007fb587dd7580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-07-07 12:32:15.815221[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 12:32:15.867070[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[error]	2025-07-07 12:32:43.348797[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-07 12:34:22.692212[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 12:35:29.395351[Thread 0x00007fb3847f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 12:35:29.396648[Thread 0x00007fb3847f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[warning]	2025-07-07 12:35:31.060560[Thread 0x00007fb3487f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 12:35:31.062929[Thread 0x00007fb3487f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[warning]	2025-07-07 12:35:31.357064[Thread 0x00007fb3487f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-07-07 12:35:31.357195[Thread 0x00007fb3487f86c0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[warning]	2025-07-07 12:36:47.939347[Thread 0x00007fb329fff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-07-07 12:41:14.041718[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-07 12:42:31.961400[Thread 0x00007fb3487f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-07-07 12:42:31.990212[Thread 0x00007fb3487f86c0]:Detected finite Voronoi vertex with non finite vertex even after the rotation of input.
+[warning]	2025-07-07 12:42:32.007559[Thread 0x00007fb3487f86c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[error]	2025-07-07 12:48:06.337172[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:11:32.332362[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:11:48.753587[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:11:53.299301[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:12:34.806354[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:13:30.187896[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:13:33.589813[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:15:42.286978[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:15:42.288700[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:15:42.290144[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:15:42.291545[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:15:58.152336[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:15:58.158137[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:15:58.163512[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:15:58.168823[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:19:49.013217[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:20:28.682147[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:30:04.570964[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:30:12.811141[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:32:25.104239[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:32:26.918860[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:38:11.676588[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:11.681251[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:11.685505[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:11.689751[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:13.193803[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:13.195511[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:13.196926[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:13.198514[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:37.189946[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:37.195726[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:37.201228[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:37.206414[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:38.522934[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:38.526570[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:38.529913[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:38:38.533163[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:40:52.094613[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:40:52.843065[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:40:53.901930[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:43:28.694708[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:43:48.786563[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:44:51.003782[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:45:08.106846[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:45:15.345244[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:45:16.735480[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:46:01.610928[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:46:02.557173[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:47:46.684437[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:48:31.124378[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:49:17.515043[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:49:51.905893[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:49:59.290137[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:54:52.329772[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:54:59.407012[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:55:42.976777[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:55:42.979000[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:55:42.981661[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:55:42.984434[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 09:57:03.801983[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:57:13.666035[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:57:21.446598[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:57:56.238636[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:58:32.121717[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:58:35.313238[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:58:48.819228[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:59:30.434236[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:59:32.281341[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 09:59:59.609664[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:00:18.765671[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:00:18.767906[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:00:18.771061[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:00:25.915082[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:01:22.239203[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-08 10:01:33.371513[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[warning]	2025-07-08 10:04:39.538834[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":34,000000,"clearance_height_to_lid":34,000000,"clearance_radius":40,000000,"printable_height":381,000000,
+[warning]	2025-07-08 10:05:48.528095[Thread 0x00007fb329bfe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-07-08 10:05:48.559664[Thread 0x00007fb329bfe6c0]:Detected finite Voronoi vertex with non finite vertex even after the rotation of input.
+[warning]	2025-07-08 10:05:48.568499[Thread 0x00007fb329bfe6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[error]	2025-07-08 10:10:40.626017[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:13:39.832324[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:25:31.597756[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:34.885831[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:34.960059[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.003959[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.052092[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.094946[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.096925[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.105264[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.182836[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.223684[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.262409[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.299522[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.336378[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.338238[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.341008[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.346287[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.349761[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.351928[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.353521[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:35.393214[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:25:36.154076[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:25:36.750358[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:26:28.669259[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:28:09.403019[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:28:17.822263[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:28:31.557281[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:28:35.204880[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:28:56.967634[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-08 10:30:22.831309[Thread 0x00007fb3c67fc6c0]:Arrange full params: {"min_obj_distance":58001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-24,000000,"bed_shrink_y":-24,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":55,000000,"clearance_height_to_lid":55,000000,"clearance_radius":58,000000,"printable_height":381,000000,
+[error]	2025-07-08 10:31:30.913770[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:31:38.241479[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:33:40.291229[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:35:55.813236[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:35:59.936027[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:37:36.837180[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:37:51.662580[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:37:53.916474[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:38:11.909896[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:38:19.064853[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:40:31.458887[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:40:40.303651[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:41:48.048193[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:41:56.616186[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:43:54.285000[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.287844[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.290429[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.295169[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.297848[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.302403[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.305079[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.306653[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.308142[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.309617[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.311103[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:43:54.312580[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:44:20.805233[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:44:22.774745[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:46:07.869290[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:46:25.452563[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:47:22.787738[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.790296[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.792685[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.797032[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.799623[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.803714[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.806171[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.807710[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.809138[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.810510[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.811879[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:47:22.813299[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 10:50:22.416933[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:50:27.126028[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-08 10:51:04.147204[Thread 0x00007fb587dd7580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-07-08 10:53:43.035362[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 10:56:40.090187[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 12:19:14.358318[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 12:19:18.600412[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 12:19:23.618807[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-08 12:19:36.127195[Thread 0x00007fb587dd7580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-07-08 12:19:53.738360[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 12:20:31.684786[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 12:20:33.584668[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 12:20:33.638399[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 12:20:33.682253[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 12:20:33.727998[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 12:20:33.773734[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 12:20:33.775575[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-08 12:20:33.777440[Thread 0x00007fb587dd7580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-08 12:20:33.830008[Thread 0x00007fb587dd7580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jul_08/12_20_31#508297#13196/_temp_2.config!
+[warning]	2025-07-08 12:20:33.830849[Thread 0x00007fb587dd7580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jul_08/12_20_31#508297#13196/_temp_2.config!
+[warning]	2025-07-08 12:20:33.831832[Thread 0x00007fb587dd7580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jul_08/12_20_31#508297#13196/_temp_2.config!
+[error]	2025-07-08 12:20:34.156168[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 12:20:34.917372[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:08:02.329162[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:08:53.528360[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:08:54.171972[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:11:52.827548[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:13:26.489499[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:13:51.321772[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:14:56.975078[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:14:58.363270[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:16:44.916585[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:16:49.235177[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:17:24.340462[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:17:24.913310[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:18:39.887013[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:18:41.014820[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:19:11.840898[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:19:22.177023[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:19:55.696456[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:20:15.200526[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:21:14.123691[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:21:19.597969[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:21:46.325517[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:22:06.423291[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-08 20:22:56.313257[Thread 0x00007fb587dd7580]:tree_sel_change_delayedcan not find page with current selection 

@@ -1,0 +1,10 @@
+[warning]	2024-10-05 16:23:59.977028[Thread 0x000071fabb1f9c00]:Failed to load to hints.cereal. File does not exists. /home/christian/.config/OrcaSlicer/user/hints.cereal
+[warning]	2024-10-05 16:24:00.342976[Thread 0x000071fabb1f9c00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-05 16:24:00.343018[Thread 0x000071fabb1f9c00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-05 16:24:00.343039[Thread 0x000071fabb1f9c00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-05 16:24:05.170734[Thread 0x000071fabb1f9c00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-05 16:24:06.938212[Thread 0x000071fabb1f9c00]:04:24:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-10-05 16:24:06.958266[Thread 0x000071fabb1f9c00]:04:24:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-10-05 16:24:07.116087[Thread 0x000071fabb1f9c00]:04:24:07 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-10-05 16:24:07.142610[Thread 0x000071fabb1f9c00]:04:24:07 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-10-05 16:24:10.999821[Thread 0x000071fabb1f9c00]:calc_exclude_triangles:Unable to create exclude triangles

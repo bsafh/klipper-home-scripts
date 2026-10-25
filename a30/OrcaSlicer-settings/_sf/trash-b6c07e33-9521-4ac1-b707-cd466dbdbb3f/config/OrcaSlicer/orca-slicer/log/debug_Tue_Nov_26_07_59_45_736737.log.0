@@ -1,0 +1,157 @@
+[warning]	2024-11-26 07:59:46.929657[Thread 0x0000730c40582c80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-26 07:59:46.929852[Thread 0x0000730c40582c80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-26 07:59:46.929890[Thread 0x0000730c40582c80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-26 07:59:47.234260[Thread 0x0000730c40582c80]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2024-11-26 07:59:50.792346[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 07:59:50.865408[Thread 0x000072f7a86006c0]:Unable to open the file/srv/data/truenas/data/transfer/3D-print/Projekte/Printer-Zubehör/orca-pi-case+cam-sdcard-cableholder-a30.3mf
+[error]	2024-11-26 07:59:50.949500[Thread 0x000072f7b46006c0]:Unable to open the file/home/christian/TX5SA_Fan_Speed_0-100.3mf
+[error]	2024-11-26 07:59:50.949558[Thread 0x000072f7b46006c0]:Unable to open the file/tmp/.mount_OrcaSlCujEN4/resources/calib/retraction/retraction_tower.stl
+[error]	2024-11-26 07:59:50.996219[Thread 0x000072f7b46006c0]:Unable to open the file/srv/data/truenas/data/transfer/3D-print/Projekte/Printer-Zubehör/Geeetech_A30_SD_reader_holder_v2.3_plus_Leveling_Knobs<-purge_bucket.3mf
+[warning]	2024-11-26 07:59:52.239485[Thread 0x0000730c40582c80]:07:59:52 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-26 07:59:52.372890[Thread 0x0000730c40582c80]:07:59:52 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-26 07:59:52.407193[Thread 0x0000730c40582c80]:07:59:52 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-26 07:59:52.421552[Thread 0x0000730c40582c80]:07:59:52 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-26 07:59:55.581038[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 07:59:55.646128[Thread 0x0000730c40582c80]:connect_server error: network_agent=0x628616ca52d0, ret=-2
+[warning]	2024-11-26 07:59:55.943539[Thread 0x000072f755e006c0]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-11-26 07:59:56.284266[Thread 0x0000730c40582c80]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2024-11-26 07:59:56.284565[Thread 0x0000730c40582c80]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2024-11-26 07:59:56.285548[Thread 0x0000730c40582c80]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Tronxy - CB1, just skip
+[warning]	2024-11-26 07:59:56.286308[Thread 0x0000730c40582c80]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Tronxy - CB1 schnell, just skip
+[warning]	2024-11-26 07:59:56.287005[Thread 0x0000730c40582c80]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Tronxy - CB2, just skip
+[warning]	2024-11-26 07:59:56.287274[Thread 0x0000730c40582c80]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Tronxy - Kopieren, just skip
+[warning]	2024-11-26 07:59:56.287562[Thread 0x0000730c40582c80]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2024-11-26 07:59:56.287822[Thread 0x0000730c40582c80]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2024-11-26 08:01:51.334221[Thread 0x0000730c40582c80]:Unable to open the file/home/christian/3D-print/Projekte/Calibration/Ultimate Print Fan Test Tower v2.step
+[error]	2024-11-26 08:02:13.620714[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:41:20.286795[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:43:35.515796[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:43:36.288087[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:43:36.324396[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:43:36.357467[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:43:36.391107[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:43:36.425256[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:43:36.426898[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:43:36.428402[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-26 12:43:36.481747[Thread 0x0000730c40582c80]:validate_preset: preset_name Tronxy X5SA PRO 330 0.4 nozzle steel cura start-end, inherit_name Tronxy X5SA 400 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-26 12:43:36.481780[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found the printer preset not inherit from system
+[warning]	2024-11-26 12:43:36.481790[Thread 0x0000730c40582c80]:validate_preset: preset_name GEEETECH PLA schwarz @Tronxy X5SA PRO 0.4 nozzle, inherit_name GEEETECH PLA weiß @Geeetech A30 Pro 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-26 12:43:36.481797[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-11-26 12:43:36.481805[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found self defined presets, count 2
+[error]	2024-11-26 12:43:42.128381[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:43:56.677867[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:44:10.349128[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:44:11.004148[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:44:24.762669[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:44:53.807718[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:44:53.922826[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:44:53.968680[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-11-26 12:45:02.104868[Thread 0x0000730c00a006c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":400.000000,
+[error]	2024-11-26 12:45:02.748645[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:45:02.750506[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:45:08.164741[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:45:08.175346[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:45:08.179150[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:45:08.185061[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:45:08.190863[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:45:13.953744[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:45:29.355067[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-11-26 12:45:48.036764[Thread 0x0000730c00a006c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":400.000000,
+[error]	2024-11-26 12:46:09.259122[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:46:11.069052[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:46:24.426376[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:46:46.856223[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:00.509179[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:02.774302[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:06.135297[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:13.126253[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:14.585323[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:17.348773[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:17.382644[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:17.465628[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:17.507523[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:17.587805[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:47:17.637109[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:49:41.018379[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-11-26 12:55:55.344292[Thread 0x0000730c40582c80]:reslice: in slicing all, current plate 0 already sliced, skip to next
+[error]	2024-11-26 12:57:03.569263[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:57:09.551492[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-11-26 12:57:17.122059[Thread 0x0000730c40582c80]:update_restart_background_process: plate count 5, can not switch
+[warning]	2024-11-26 12:57:18.279560[Thread 0x0000730c40582c80]:update_restart_background_process: plate count 5, can not switch
+[warning]	2024-11-26 12:57:41.742698[Thread 0x0000730c40582c80]:update_restart_background_process: plate count 5, can not switch
+[warning]	2024-11-26 12:57:45.964286[Thread 0x0000730c40582c80]:update_restart_background_process: plate count 5, can not switch
+[warning]	2024-11-26 12:57:48.818180[Thread 0x0000730c40582c80]:update_restart_background_process: plate count 5, can not switch
+[warning]	2024-11-26 12:57:51.629316[Thread 0x0000730c40582c80]:update_restart_background_process: plate count 5, can not switch
+[error]	2024-11-26 12:57:53.123278[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-11-26 12:57:55.041187[Thread 0x0000730c40582c80]:update_restart_background_process: plate count 5, can not switch
+[error]	2024-11-26 12:57:55.248035[Thread 0x000072f7554006c0]:call_process:got cancelled exception
+[error]	2024-11-26 12:57:55.992860[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:58:34.177817[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:58:47.507437[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:58:56.947103[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 12:59:01.786522[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-11-26 12:59:58.825764[Thread 0x0000730c40582c80]:reslice: in slicing all, current plate 0 already sliced, skip to next
+[error]	2024-11-26 13:10:15.682754[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:10:44.109246[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:10:45.459062[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:10:45.528793[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:10:45.585450[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:10:45.631750[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-26 13:10:45.695825[Thread 0x0000730c40582c80]:validate_preset: preset_name Tronxy X5SA PRO 330 0.4 nozzle steel cura start-end, inherit_name Tronxy X5SA 400 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-26 13:10:45.695869[Thread 0x0000730c40582c80]:validate_presets:file_name sammlung-2_upgrades_x5sa.3mf, found the printer preset not inherit from system
+[warning]	2024-11-26 13:10:45.696783[Thread 0x0000730c40582c80]:validate_preset: preset_name GEEETECH PLA schwarz @Tronxy X5SA PRO 0.4 nozzle, inherit_name GEEETECH PLA weiß @Geeetech A30 Pro 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-26 13:10:45.696797[Thread 0x0000730c40582c80]:validate_presets:file_name sammlung-2_upgrades_x5sa.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-11-26 13:10:45.696808[Thread 0x0000730c40582c80]:validate_presets:file_name sammlung-2_upgrades_x5sa.3mf, found self defined presets, count 2
+[error]	2024-11-26 13:10:49.135263[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:10:49.363627[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:13:42.566160[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:21:59.184161[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:22:00.454120[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:22:00.495145[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:22:00.536761[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:22:00.577680[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:22:00.614686[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:22:00.616487[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:22:00.618207[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-26 13:22:00.673422[Thread 0x0000730c40582c80]:validate_preset: preset_name Tronxy X5SA PRO 330 0.4 nozzle steel cura start-end, inherit_name Tronxy X5SA 400 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-26 13:22:00.673456[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found the printer preset not inherit from system
+[warning]	2024-11-26 13:22:00.673465[Thread 0x0000730c40582c80]:validate_preset: preset_name GEEETECH PLA schwarz @Tronxy X5SA PRO 0.4 nozzle, inherit_name GEEETECH PLA weiß @Geeetech A30 Pro 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-26 13:22:00.673472[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-11-26 13:22:00.673479[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found self defined presets, count 2
+[error]	2024-11-26 13:22:05.080546[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:22:09.064323[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:22:38.556631[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:23:59.302430[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:28:04.420166[Thread 0x000072f7a8c006c0]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-11-26 13:28:04.627224[Thread 0x000072f7a86006c0]:Reversing even wall line causes it to be printed CCW instead of CW!
+[warning]	2024-11-26 13:29:01.818336[Thread 0x0000730c40582c80]:update_restart_background_process: plate count 5, can not switch
+[error]	2024-11-26 13:35:50.715253[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:35:52.620443[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:35:52.837643[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:35:52.929638[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 13:35:53.018152[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-26 13:35:53.143437[Thread 0x0000730c40582c80]:validate_preset: preset_name Tronxy X5SA PRO 330 0.4 nozzle steel cura start-end, inherit_name Tronxy X5SA 400 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-26 13:35:53.143490[Thread 0x0000730c40582c80]:validate_presets:file_name sammlung-2_upgrades_x5sa.3mf, found the printer preset not inherit from system
+[warning]	2024-11-26 13:35:53.143520[Thread 0x0000730c40582c80]:validate_preset: preset_name GEEETECH PLA schwarz @Tronxy X5SA PRO 0.4 nozzle, inherit_name GEEETECH PLA weiß @Geeetech A30 Pro 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-26 13:35:53.143542[Thread 0x0000730c40582c80]:validate_presets:file_name sammlung-2_upgrades_x5sa.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-11-26 13:35:53.143561[Thread 0x0000730c40582c80]:validate_presets:file_name sammlung-2_upgrades_x5sa.3mf, found self defined presets, count 2
+[error]	2024-11-26 13:35:57.558867[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-26 13:36:14.119995[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-28 06:48:27.715955[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-28 06:48:28.809092[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-28 06:48:28.875383[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-28 06:48:28.908366[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-28 06:48:28.942610[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-28 06:48:29.000048[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-28 06:48:29.001813[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-28 06:48:29.003429[Thread 0x0000730c40582c80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-28 06:48:29.082812[Thread 0x0000730c40582c80]:validate_preset: preset_name Tronxy X5SA PRO 330 0.4 nozzle steel cura start-end, inherit_name Tronxy X5SA 400 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-28 06:48:29.082848[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found the printer preset not inherit from system
+[warning]	2024-11-28 06:48:29.082859[Thread 0x0000730c40582c80]:validate_preset: preset_name GEEETECH PLA schwarz @Tronxy X5SA PRO 0.4 nozzle, inherit_name GEEETECH PLA weiß @Geeetech A30 Pro 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-28 06:48:29.082866[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-11-28 06:48:29.082874[Thread 0x0000730c40582c80]:validate_presets:file_name Verstärkungen-Schutzkappen.3mf, found self defined presets, count 2
+[error]	2024-11-28 06:48:32.308833[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-28 06:48:35.594098[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-28 06:50:03.060256[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-28 06:51:24.517422[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-28 06:53:28.993973[Thread 0x0000730c40582c80]:tree_sel_change_delayedcan not find page with current selection 

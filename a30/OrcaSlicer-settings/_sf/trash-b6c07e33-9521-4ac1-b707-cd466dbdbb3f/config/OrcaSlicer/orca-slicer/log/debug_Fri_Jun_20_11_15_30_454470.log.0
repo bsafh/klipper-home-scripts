@@ -1,0 +1,37 @@
+[warning]	2025-06-20 11:15:59.210924[Thread 0x00007efcccf00580]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-20 11:15:59.211101[Thread 0x00007efcccf00580]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-20 11:15:59.211138[Thread 0x00007efcccf00580]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-20 11:15:59.410273[Thread 0x00007efcccf00580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-06-20 11:15:59.412330[Thread 0x00007efcccf00580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[error]	2025-06-20 11:15:59.457075[Thread 0x00007efcccf00580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-06-20 11:15:59.491326[Thread 0x00007efcccf00580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-06-20 11:15:59.501084[Thread 0x00007efcccf00580]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-06-20 11:15:59.525216[Thread 0x00007efcccf00580]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-06-20 11:15:59.527309[Thread 0x00007efcccf00580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-06-20 11:16:01.634659[Thread 0x00007efcccf00580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-20 11:16:01.663459[Thread 0x00007efa6fbfe6c0]:Unable to open the file/home/christian/3d/Coasters+with+Holder.3mf
+[error]	2025-06-20 11:16:01.663468[Thread 0x00007efac47f86c0]:Unable to open the file/home/christian/3d/coffee_bag_NO_AMS_complete_0.28_5_walls-cb.3mf
+[error]	2025-06-20 11:16:01.663473[Thread 0x00007efa6ffff6c0]:Unable to open the file/home/christian/3d/coffee_bag_complete_final_updated-x5sa-petg.3mf
+[error]	2025-06-20 11:16:01.663516[Thread 0x00007efac47f86c0]:Unable to open the file/home/christian/3d/Tip_Catcher_MMU_a30.3mf
+[error]	2025-06-20 11:16:01.663516[Thread 0x00007efa6fbfe6c0]:Unable to open the file/home/christian/3d/wellen-untersetzer-波浪杯垫lite.3mf
+[error]	2025-06-20 11:16:01.663530[Thread 0x00007efa6ffff6c0]:Unable to open the file/home/christian/3d/coffee_bag_complete_final_updated.3mf
+[error]	2025-06-20 11:16:01.663545[Thread 0x00007efac47f86c0]:Unable to open the file/home/christian/3D-Print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[error]	2025-06-20 11:16:01.663544[Thread 0x00007efaa47f86c0]:Unable to open the file/home/christian/3d/Tensegrity+Table-a30.3mf
+[error]	2025-06-20 11:16:01.663564[Thread 0x00007efac47f86c0]:Unable to open the file/home/christian/3d/Headphone+stand.3mf
+[error]	2025-06-20 11:16:01.663578[Thread 0x00007efac47f86c0]:Unable to open the file/home/christian/3d/stifthalter.3mf
+[error]	2025-06-20 11:16:01.663579[Thread 0x00007efaa47f86c0]:Unable to open the file/home/christian/3d/Galaxy+Z+Fold+6+Stand.3mf
+[error]	2025-06-20 11:16:01.663592[Thread 0x00007efac47f86c0]:Unable to open the file/home/christian/3d/coffebeancoaster_plate.3mf
+[error]	2025-06-20 11:16:01.663594[Thread 0x00007efaa47f86c0]:Unable to open the file/home/christian/3d/2.5 to 3.5-lighted.3mf
+[error]	2025-06-20 11:16:01.663610[Thread 0x00007efaa47f86c0]:Unable to open the file/home/christian/3D-Print/Projekte/Calibration/1. Layer TEST multiple plates_A30.3mf
+[error]	2025-06-20 11:16:01.663619[Thread 0x00007efaa47f86c0]:Unable to open the file/home/christian/3D-Print/Projekte/Printer-Zubehör/Volcano Hotend/v6-volcano-halterung-a30-alle_v3.3mf
+[error]	2025-06-20 11:16:01.687644[Thread 0x00007efa6fbfe6c0]:Unable to open the file/home/christian/3D-Print/Projekte/Printer-Zubehör/Geeetech A30/Nozzle_Brushes_v6-halterung.3mf
+[warning]	2025-06-20 11:16:02.780453[Thread 0x00007efcccf00580]:11:16:02: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-20 11:16:02.784845[Thread 0x00007efcccf00580]:11:16:02: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-20 11:16:02.812888[Thread 0x00007efcccf00580]:11:16:02: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-20 11:16:02.948626[Thread 0x00007efcccf00580]:11:16:02: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-20 11:16:05.694367[Thread 0x00007efcccf00580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-20 11:16:05.793416[Thread 0x00007efcccf00580]:connect_server error: network_agent=0x564cb8db8100, ret=-2
+[warning]	2025-06-20 11:16:06.314723[Thread 0x00007efa45ba66c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-06-20 11:16:12.775991[Thread 0x00007efcccf00580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-20 11:16:13.772889[Thread 0x00007efcccf00580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-20 11:16:13.825537[Thread 0x00007efcccf00580]:calc_exclude_triangles:Unable to create exclude triangles

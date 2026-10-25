@@ -1,0 +1,50 @@
+[warning]	2025-05-01 17:25:31.137043[Thread 0x000090c0]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-05-01 17:25:31.140045[Thread 0x000090c0]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-05-01 17:25:34.936711[Thread 0x000090c0]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-05-01 17:25:36.246737[Thread 0x000090c0]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-05-01 17:25:36.257738[Thread 0x000090c0]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-05-01 17:25:36.396747[Thread 0x000090c0]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-05-01 17:26:58.415903[Thread 0x000090c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-05-01 17:26:58.437903[Thread 0x00008fac]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated_A30_PLA-modified.3mf
+[error]	2025-05-01 17:26:58.437903[Thread 0x000073a4]:Unable to open the fileS:\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\blumentöpfe_büro.3mf
+[error]	2025-05-01 17:26:58.437903[Thread 0x00006664]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Gießkannen-x5sa.3mf
+[error]	2025-05-01 17:26:58.437903[Thread 0x000076d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated_A30_PLA.3mf
+[error]	2025-05-01 17:26:58.437903[Thread 0x00006a6c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\CB-Logo\Namenszüge-CB.3mf
+[error]	2025-05-01 17:26:58.437903[Thread 0x00006fdc]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Printer-Zubehör\Geeetech A30\CR-10 Extruder Coupling - 3360380\files\M6-Abstand.3mf
+[error]	2025-05-01 17:26:58.437903[Thread 0x000037e0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Smartphone Zubehör\USB-C+Port+Cleaner+V2-modified.3mf
+[error]	2025-05-01 17:26:58.437903[Thread 0x000090c0]:Unable to open the fileS:\transfer\3D-print\Projekte\Printer-Zubehör\Geeetech A30\Volcano Hotend\v6-volcano-halterung.3mf
+[error]	2025-05-01 17:26:58.438903[Thread 0x00006a6c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Flowrate Test - Pass2.3mf
+[error]	2025-05-01 17:26:58.438903[Thread 0x00006fdc]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\first_layer_test_pla-a30.3mf
+[error]	2025-05-01 17:26:58.438903[Thread 0x000090c0]:Unable to open the fileS:\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\blumentöpfe_büro_x5sa.3mf
+[error]	2025-05-01 17:26:58.438903[Thread 0x00006664]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\SKEW_Calib_a30_pla.3mf
+[error]	2025-05-01 17:26:58.438903[Thread 0x000073a4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Angular Self Watering Plant Pot with Ball Float_12x14.3mf
+[error]	2025-05-01 17:26:58.438903[Thread 0x00008fac]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Battery Holder\orca_tronxy_batterien_2_glatt.3mf
+[error]	2025-05-01 17:26:58.438903[Thread 0x000076d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Printer-Zubehör\Geeetech A30\Bauteillüfter_y-achsen-cover.3mf
+[error]	2025-05-01 17:26:58.438903[Thread 0x000037e0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Smartphone Zubehör\USB-C+Port+Cleaner+V2.3mf
+[error]	2025-05-01 17:26:58.439903[Thread 0x00006a6c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Angular Pot 12x14 and robbed 12x15.3mf
+[error]	2025-05-01 17:26:58.439903[Thread 0x00006fdc]:Unable to open the fileS:\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\blumentöpfe_büro_a30.3mf
+[error]	2025-05-01 17:26:58.439903[Thread 0x000073a4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\70mm+planter.3mf
+[error]	2025-05-01 17:26:58.439903[Thread 0x000090c0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\blumentöpfe_büro.3mf
+[error]	2025-05-01 17:26:58.439903[Thread 0x00006664]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated.3mf
+[error]	2025-05-01 17:26:58.439903[Thread 0x00008fac]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Voronoi+Pencil+Holder+by+Slimprint+(V003).3mf
+[error]	2025-05-01 17:26:58.439903[Thread 0x000076d4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Untersetzer\infill-coaster.3mf
+[error]	2025-05-01 17:26:58.440905[Thread 0x000037e0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Angular Self Watering Plant Pot with Ball Float.3mf
+[error]	2025-05-01 17:26:58.440905[Thread 0x00006a6c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Nozzle temperature_220-260__PETG.3mf
+[error]	2025-05-01 17:26:59.697584[Thread 0x000090c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-05-01 17:27:09.926247[Thread 0x000090c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-05-01 17:27:10.600248[Thread 0x00007484]:Error getting: `check_new_version_sf`: HTTP 0, curl:Couldn't resolve host name:
+Could not resolve host: api.github.com
+[Error 6]
+[error]	2025-05-01 17:27:10.616251[Thread 0x00004934]:[Orca Updater]: status=0, error=curl:Couldn't resolve host name:
+Could not resolve host: api.bambulab.com
+[Error 6], body=
+[error]	2025-05-01 17:27:10.628252[Thread 0x000090c0]:Slic3r::NetworkAgent::connect_server error: network_agent=0000025100273A70, ret=-2
+[error]	2025-05-01 17:27:10.632248[Thread 0x00004934]:[Orca Updater]: status=0, error=curl:Couldn't resolve host name:
+Could not resolve host: api.bambulab.com
+[Error 6], body=
+[error]	2025-05-01 17:27:10.896249[Thread 0x000084fc]:HMSQuery: update hms info error = curl:Couldn't resolve host name:
+Could not resolve host: e.bambulab.com
+[Error 6], body = , status = 0
+[error]	2025-05-01 17:27:10.912252[Thread 0x000084fc]:HMSQuery: update hms info error = curl:Couldn't resolve host name:
+Could not resolve host: e.bambulab.com
+[Error 6], body = , status = 0

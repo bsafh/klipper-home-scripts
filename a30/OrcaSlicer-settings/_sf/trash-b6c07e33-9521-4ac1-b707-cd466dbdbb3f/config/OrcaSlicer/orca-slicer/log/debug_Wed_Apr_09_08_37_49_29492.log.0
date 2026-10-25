@@ -1,0 +1,367 @@
+[warning]	2025-04-09 08:37:58.588540[Thread 0x00003938]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-09 08:37:58.590543[Thread 0x00003938]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-09 08:38:20.691518[Thread 0x00003938]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-04-09 08:38:24.464164[Thread 0x00003938]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-04-09 08:38:24.482234[Thread 0x00003938]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-04-09 08:38:24.651345[Thread 0x00003938]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-04-09 08:38:55.472982[Thread 0x00003938]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 08:38:55.555982[Thread 0x00002dd8]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-09 08:38:56.100187[Thread 0x00008068]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Gießkannen-Vasen-Modus_x5sa.3mf
+[error]	2025-04-09 08:38:56.362230[Thread 0x0000713c]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-09 08:39:15.498512[Thread 0x00003938]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 08:39:19.210692[Thread 0x00003938]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-09 08:39:19.705782[Thread 0x00003938]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-04-09 08:39:19.705782[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name Nozzle temperature test_PETG.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-09 08:39:19.705782[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name Nozzle temperature test_PETG.3mf, found self defined presets, count 1
+[error]	2025-04-09 08:46:52.715728[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 08:46:53.404796[Thread 0x00003938]:Slic3r::NetworkAgent::connect_server error: network_agent=0000026A965A71C0, ret=-2
+[error]	2025-04-09 08:46:53.599797[Thread 0x000031b4]:Error getting: `check_new_version_sf`: HTTP 403, 
+[warning]	2025-04-09 08:46:53.896797[Thread 0x00000c78]:[Orca Updater]: online version=1.10.1.9, current_version=1.10.1.9, no need to download
+[error]	2025-04-09 08:46:56.304953[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 08:47:02.802887[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-04-09 08:47:02.805002[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-04-09 08:47:02.806885[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-04-09 08:47:02.807884[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-04-09 08:47:02.809890[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-04-09 08:47:02.810887[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @X5SA, just skip
+[warning]	2025-04-09 08:47:02.812887[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-04-09 08:47:02.813889[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @X5SA, just skip
+[warning]	2025-04-09 08:47:02.815889[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-04-09 08:47:02.815889[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-04-09 08:47:02.818142[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-04-09 08:47:02.819314[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @X5SA, just skip
+[warning]	2025-04-09 08:47:02.821047[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-04-09 08:47:02.821997[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-04-09 08:47:02.823984[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-04-09 08:47:02.824984[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-04-09 08:47:02.826985[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-04-09 08:47:02.827983[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-04-09 08:47:02.828984[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-04-09 08:47:02.830983[Thread 0x00003938]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[warning]	2025-04-09 08:47:04.749667[Thread 0x00003938]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-09 08:47:04.786666[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 08:47:28.610845[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 08:47:31.808845[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 11:36:37.335919[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 11:37:33.962516[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 11:37:34.532733[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 11:37:35.257498[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 11:37:35.808402[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 11:37:36.163665[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 11:37:36.670665[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 11:37:37.028668[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:14:36.895725[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 12:15:06.801034[Thread 0x00003938]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-04-09 12:15:06.801034[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name Bauteillüfter_y-achsen-cover.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-09 12:15:06.802032[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name Bauteillüfter_y-achsen-cover.3mf, found self defined presets, count 1
+[error]	2025-04-09 12:15:13.338681[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:15:13.681440[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:15:36.861095[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 12:20:54.047127[Thread 0x00002dd8]:Influence area could not be increased! Data about the Influence area: Radius: 1087488 at layer: 15 NextTarget: 15 Distance to top: 24 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0000026AC2045EB0: Radius: 1087488 at layer: 16 NextTarget: 16 Distance to top: 23 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2025-04-09 12:24:49.223387[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:26:00.074777[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 12:26:15.743410[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":70001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-30,000000,"bed_shrink_y":-30,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":70,000000,"printable_height":381,750000,
+[error]	2025-04-09 12:29:10.895808[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:32:14.228038[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:32:39.946710[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:35:19.350037[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:35:23.665994[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 12:35:35.494835[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 12:35:37.365732[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":70001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-30,000000,"bed_shrink_y":-30,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":70,000000,"printable_height":381,750000,
+[warning]	2025-04-09 12:35:41.288787[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":70001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-30,000000,"bed_shrink_y":-30,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":70,000000,"printable_height":381,750000,
+[error]	2025-04-09 14:11:35.675454[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:12:16.295532[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 14:18:15.959947[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-27,500000,"bed_shrink_y":-27,500000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-04-09 14:21:55.073657[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-27,500000,"bed_shrink_y":-27,500000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-04-09 14:21:55.089646[Thread 0x00003938]:Slic3r::GUI::PartPlateList::postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[error]	2025-04-09 14:36:22.798299[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:36:24.887849[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:37:00.475637[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 14:37:03.301779[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 14:37:19.824856[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:40:04.526867[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:40:12.747652[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:42:35.924899[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:42:52.878162[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:42:53.616600[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:42:54.397878[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:43:53.712004[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:44:23.893016[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:44:24.825485[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:44:25.204486[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:44:46.316570[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:44:59.487044[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:45:00.466182[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:45:00.850917[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:45:08.737630[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:45:10.091312[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:45:14.963779[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:46:01.388631[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:46:06.899076[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:46:10.008829[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 14:46:37.747473[Thread 0x00003938]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab A1 0.4 nozzle, no inherit, set to not found
+[warning]	2025-04-09 14:46:37.747473[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name 70mm+planter.3mf, found the printer preset not inherit from system
+[warning]	2025-04-09 14:46:37.749474[Thread 0x00003938]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @BBL A1, no inherit, set to not found
+[warning]	2025-04-09 14:46:37.749474[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name 70mm+planter.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-09 14:46:37.750476[Thread 0x00003938]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Matte @BBL A1, no inherit, set to not found
+[warning]	2025-04-09 14:46:37.750476[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name 70mm+planter.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-04-09 14:46:37.750476[Thread 0x00003938]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Matte @BBL A1, no inherit, set to not found
+[warning]	2025-04-09 14:46:37.750476[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name 70mm+planter.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-04-09 14:46:37.750476[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name 70mm+planter.3mf, found self defined presets, count 3
+[error]	2025-04-09 14:46:40.878022[Thread 0x00003938]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 14:46:41.949044[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:46:42.869047[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:47:31.911939[Thread 0x00003938]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 14:47:32.568177[Thread 0x00003938]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 14:47:36.782213[Thread 0x00003938]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-09 14:47:36.897776[Thread 0x00003938]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-09 14:47:37.443860[Thread 0x00003938]:Slic3r::PresetCollection::validate_preset: preset_name OWL PETG @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-04-09 14:47:37.443860[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name Angular Self Watering Plant Pot with Ball Float_12x14.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-09 14:47:37.443860[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name Angular Self Watering Plant Pot with Ball Float_12x14.3mf, found self defined presets, count 1
+[error]	2025-04-09 14:47:46.167017[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:47:46.705540[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:48:16.114353[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:48:16.910353[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:48:17.240188[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:48:37.439127[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:48:41.891094[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:52:05.058776[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:52:06.696140[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:53:39.520222[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:53:51.754259[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:54:33.174910[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:55:12.978811[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:56:32.305499[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:56:37.890508[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:56:56.759725[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:57:19.837399[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:58:56.197285[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 14:59:01.537817[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:00:24.556466[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:00:26.857683[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:02:50.872854[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:03:01.859103[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:03:12.215426[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:03:13.530116[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:03:46.238985[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 15:03:51.962963[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 15:04:00.060640[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:05:32.435939[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:05:33.258013[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:06:19.505996[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 15:11:03.754643[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 15:12:07.718529[Thread 0x00003938]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 5, can not switch
+[error]	2025-04-09 15:12:15.081560[Thread 0x00004d3c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2025-04-09 16:24:42.010854[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:27:05.581555[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:27:06.890572[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:27:16.329607[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 16:27:18.966455[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-04-09 16:27:24.373683[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-04-09 16:27:24.749678[Thread 0x00003938]:Slic3r::GUI::PartPlateList::postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[error]	2025-04-09 16:27:27.449078[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:27:47.506285[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:33:34.399298[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:41:08.822967[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:52:11.132083[Thread 0x00004d3c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2025-04-09 16:52:13.810461[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:52:56.718961[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:52:57.519500[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:53:08.754076[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:53:10.445174[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:53:33.860016[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:53:58.890278[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:54:58.535809[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:55:33.658433[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:58:12.297047[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:58:15.455855[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:58:30.971698[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 16:58:33.247859[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:00:13.440099[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:00:24.644547[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:00:25.163331[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:00:25.814331[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:03:46.590253[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:04:02.209558[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:04:39.477743[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 17:06:09.255191[Thread 0x0000713c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-04-09 17:06:09.284679[Thread 0x0000713c]:Detected finite Voronoi vertex with non finite vertex even after the rotation of input.
+[warning]	2025-04-09 17:06:09.288682[Thread 0x0000713c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:07.382709[Thread 0x00004744]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:07.498708[Thread 0x00004744]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:08.761708[Thread 0x00001100]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:08.883710[Thread 0x00001100]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:09.132710[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:09.246710[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:09.448710[Thread 0x00004744]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:09.557709[Thread 0x00004744]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:09.877711[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:09.963711[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:10.240710[Thread 0x00001100]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:10.358709[Thread 0x00001100]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:11.452710[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:11.537710[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:11.657710[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:11.711708[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:14.387572[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:14.617529[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:15.584741[Thread 0x00001100]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:15.692013[Thread 0x00001100]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:16.897358[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:16.995113[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:17.142994[Thread 0x00004744]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:17.241288[Thread 0x00004744]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:17.367901[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:17.477220[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:19.326827[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:19.440951[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:27.736857[Thread 0x00003338]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:28.536382[Thread 0x00004744]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:08:30.427566[Thread 0x0000713c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-04-09 17:11:05.133207[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 17:11:55.017312[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:55.147311[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:57.076268[Thread 0x0000713c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:57.179268[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:57.187265[Thread 0x0000713c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:57.309272[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:57.322797[Thread 0x00002dd8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:57.474324[Thread 0x00002dd8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:58.285855[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:58.409853[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:59.003855[Thread 0x00002dd8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:59.125854[Thread 0x00002dd8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:59.895857[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:11:59.966854[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:00.084921[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:00.149985[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:02.094742[Thread 0x00001100]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:02.310743[Thread 0x00001100]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:04.134711[Thread 0x0000713c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:04.280710[Thread 0x0000713c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:04.489713[Thread 0x0000713c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:04.602714[Thread 0x0000713c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:05.105239[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:05.250237[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:06.217241[Thread 0x00002dd8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:06.331235[Thread 0x00002dd8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:06.853236[Thread 0x00002ea8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:06.984238[Thread 0x00002ea8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:18.064582[Thread 0x00001100]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:19.416604[Thread 0x00002ea8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 17:12:20.881088[Thread 0x00008068]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-04-09 17:15:11.908146[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:15:16.816865[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:15:24.201117[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:17:33.270785[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:17:36.067120[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:18:47.874896[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:19:15.185296[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:21:39.314090[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:21:59.941209[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 17:22:08.136170[Thread 0x00003938]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 10, can not switch
+[error]	2025-04-09 17:22:11.477176[Thread 0x00004d3c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2025-04-09 17:25:53.785235[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:26:10.207871[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:26:35.034110[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:26:36.786971[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:26:37.384117[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:26:43.020878[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:26:43.940548[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:26:52.493864[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 17:26:53.305865[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 17:27:17.348313[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:28:38.383225[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:28:39.737467[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:29:10.359064[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:29:22.872386[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:29:44.926521[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:29:48.262091[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:30:23.987046[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:30:25.799084[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:30:55.892711[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:30:58.030510[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:31:55.117956[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:31:56.039408[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 17:32:09.812963[Thread 0x00003938]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-09 17:32:09.892974[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 17:32:12.713433[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:32:17.981356[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:32:24.862857[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:32:26.866850[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:32:34.448047[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:32:37.864183[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:32:45.143203[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:32:51.688560[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:32:57.867535[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:33:02.878209[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 17:33:21.256664[Thread 0x00003938]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-09 17:33:21.319666[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 17:34:33.589145[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:34:42.137549[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:38:25.879058[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:38:33.335897[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:39:25.756334[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:39:27.630654[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:39:35.318906[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:39:36.974361[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:42:37.536077[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:42:43.296894[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:45:55.563328[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:46:02.735976[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:49:16.808839[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:49:52.933053[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:52:27.174507[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:52:47.615154[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:54:18.548058[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:54:28.449285[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:56:12.352234[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:56:14.378741[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 17:56:37.265240[Thread 0x00003938]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-09 17:56:37.356236[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 17:56:51.787629[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:56:52.743146[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:56:57.064643[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 17:57:01.347400[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 17:57:38.136317[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:59:06.951625[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 17:59:08.282300[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:00:07.479756[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:00:10.456370[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:00:15.921646[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 18:00:20.910747[Thread 0x000076e8]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-04-09 18:03:56.280233[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:04:02.874556[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-09 18:29:19.533082[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:29:19.751084[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:29:20.109081[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:29:20.267128[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:34.815475[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:34.950474[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:35.692478[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:35.799475[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:41.475395[Thread 0x00002ea8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:41.586916[Thread 0x00002ea8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:41.645914[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:42.761915[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:42.868915[Thread 0x00008068]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:42.879916[Thread 0x00003338]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:43.667837[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:43.773837[Thread 0x00004d3c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:44.443835[Thread 0x00004744]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:44.560835[Thread 0x00004744]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:51.363255[Thread 0x00001100]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:31:52.962254[Thread 0x00003338]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:32:43.996060[Thread 0x00008068]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-04-09 18:44:11.844231[Thread 0x00003938]:Slic3r::PresetCollection::validate_preset: preset_name OWL PETG @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-04-09 18:44:11.848231[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name Bauteillüfter_y-achsen-cover.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-09 18:44:11.848231[Thread 0x00003938]:Slic3r::PresetBundle::validate_presets:file_name Bauteillüfter_y-achsen-cover.3mf, found self defined presets, count 1
+[error]	2025-04-09 18:44:16.152322[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:44:17.608018[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:44:42.003565[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:44:52.482241[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:44:57.801603[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:45:26.137881[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:45:31.140510[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-09 18:45:46.452422[Thread 0x00003938]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

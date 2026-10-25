@@ -1,0 +1,138 @@
+[warning]	2025-04-06 14:37:55.321370[Thread 0x000024ac]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-06 14:37:55.323369[Thread 0x000024ac]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-06 14:37:57.602279[Thread 0x000024ac]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-04-06 14:37:57.997283[Thread 0x000024ac]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-04-06 14:37:58.001280[Thread 0x000024ac]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-04-06 14:37:58.033282[Thread 0x000024ac]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-04-06 14:38:18.593805[Thread 0x00002298]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-06 14:38:18.776806[Thread 0x00000b94]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Gießkannen-Vasen-Modus_x5sa.3mf
+[warning]	2025-04-06 14:38:36.632540[Thread 0x000024ac]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-04-06 14:38:36.633543[Thread 0x000024ac]:Slic3r::PresetBundle::validate_presets:file_name Nozzle temperature test_PETG.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-06 14:38:36.633543[Thread 0x000024ac]:Slic3r::PresetBundle::validate_presets:file_name Nozzle temperature test_PETG.3mf, found self defined presets, count 1
+[error]	2025-04-06 14:38:43.282335[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:38:43.844358[Thread 0x000024ac]:Slic3r::NetworkAgent::connect_server error: network_agent=00000194951BF420, ret=-2
+[warning]	2025-04-06 14:38:44.412774[Thread 0x0000617c]:[Orca Updater]: online version=1.10.1.9, current_version=1.10.1.9, no need to download
+[warning]	2025-04-06 14:38:57.408849[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-04-06 14:38:57.408849[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-04-06 14:38:57.409851[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-04-06 14:38:57.410849[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-04-06 14:38:57.411850[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-04-06 14:38:57.412850[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @X5SA, just skip
+[warning]	2025-04-06 14:38:57.414851[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-04-06 14:38:57.415852[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @X5SA, just skip
+[warning]	2025-04-06 14:38:57.416852[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-04-06 14:38:57.416852[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-04-06 14:38:57.417850[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-04-06 14:38:57.419850[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @X5SA, just skip
+[warning]	2025-04-06 14:38:57.420850[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-04-06 14:38:57.421851[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-04-06 14:38:57.422848[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-04-06 14:38:57.423850[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-04-06 14:38:57.424849[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-04-06 14:38:57.425851[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-04-06 14:38:57.427850[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-04-06 14:38:57.429854[Thread 0x000024ac]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-04-06 14:39:05.600543[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-06 14:39:18.819865[Thread 0x000024ac]:Fontlist cache - 'C:\Users\chrboett\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2025-04-06 14:39:19.257076[Thread 0x000024ac]:Failed to write fontlist cache - C:\Users\chrboett\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[warning]	2025-04-06 14:39:23.750391[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-04-06 14:40:34.467336[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:40:39.670369[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:40:59.019863[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:41:01.225643[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-06 14:41:26.758669[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-04-06 14:46:00.792358[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:46:15.359056[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 14:46:49.197943[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 14:46:50.913653[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:46:51.323654[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:46:51.905014[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:46:52.343068[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:46:52.609290[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:46:53.108390[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:46:53.387441[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:47:47.993197[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:47:59.419048[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:48:03.992722[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-06 14:48:21.659783[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:48:41.559702[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-04-06 14:48:43.513534[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:48:46.828714[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:49:08.083579[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:49:49.095848[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:49:58.064080[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-06 14:50:13.258864[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-04-06 14:50:30.902957[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:50:31.402666[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-06 14:50:32.954586[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-04-06 14:50:35.938055[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 14:50:38.176234[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-06 14:52:08.514461[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:52:53.433106[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:53:42.163083[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:54:13.374863[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:54:13.922314[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:54:55.661761[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:55:40.390936[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:56:13.804013[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:56:50.824933[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:57:31.920493[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:58:00.499686[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:58:01.047617[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:58:01.596073[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:58:18.824149[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-04-06 14:58:37.302354[Thread 0x000024ac]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-04-06 15:00:40.981093[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 16:40:11.214706[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 16:41:34.964523[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 16:43:43.683489[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 16:43:45.682803[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 16:43:49.091130[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 16:45:03.199346[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 17:48:37.881342[Thread 0x00008994]:OctoPrint: Error uploading file to http://192.168.80.47/api/files/local: , HTTP 403, body: `{"error":{"code":403,"message":"Forbidden","traceback":"Traceback (most recent call last):\n\n  File \"/home/klipper/moonraker/moonraker/components/file_manager/file_manager.py\", line 903, in _finish_gcode_upload\n    can_start = self._handle_operation_check(check_path)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/klipper/moonraker/moonraker/components/file_manager/file_manager.py\", line 563, in _handle_operation_check\n    raise self.server.error(\"File currently in use\", 403)\n\nmoonraker.utils.exceptions.ServerError: File currently in use\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/klipper/moonraker/moonraker/components/application.py\", line 1017, in post\n    result = await self.file_manager.finalize_upload(form_args)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/klipper/moonraker/moonraker/components/file_manager/file_manager.py\", line 833, in finalize_upload\n    result = await self._finish_gcode_upload(upload_info)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/klipper/moonraker/moonraker/components/file_manager/file_manager.py\", line 906, in _finish_gcode_upload\n    raise self.server.error(\n\nmoonraker.utils.exceptions.ServerError: File is loaded, upload not permitted\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/klipper/moonraker-env/lib/python3.11/site-packages/tornado/web.py\", line 1790, in _execute\n    result = await result\n             ^^^^^^^^^^^^\n\n  File \"/home/klipper/moonraker/moonraker/components/application.py\", line 1019, in post\n    raise tornado.web.HTTPError(\n\ntornado.web.HTTPError: HTTP 403: Forbidden (File is loaded, upload not permitted)\n"}}`
+[error]	2025-04-06 17:49:39.901430[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 17:49:42.904734[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 17:49:47.091688[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 17:49:53.804466[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 17:51:21.700289[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 17:52:36.627779[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 17:52:36.856780[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 17:52:44.816468[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 17:52:46.219958[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 17:52:46.817483[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 17:52:47.299675[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 19:15:54.747419[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 19:16:11.390171[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-06 19:16:13.064510[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 19:16:13.622937[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-06 19:16:14.076182[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-07 07:57:19.514044[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:09:02.909544[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-08 13:09:03.110371[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:09:08.570297[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-08 13:09:08.795178[Thread 0x000024ac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-08 13:09:09.316683[Thread 0x000024ac]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG transparent @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-04-08 13:09:09.316683[Thread 0x000024ac]:Slic3r::PresetBundle::validate_presets:file_name Hunde_X5SA_PETG.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-08 13:09:09.316683[Thread 0x000024ac]:Slic3r::PresetBundle::validate_presets:file_name Hunde_X5SA_PETG.3mf, found self defined presets, count 1
+[error]	2025-04-08 13:09:17.825661[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:09:18.561207[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:09:29.599468[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:12:43.713311[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:12:45.162474[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:13:30.292492[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:13:32.894420[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:14:22.813965[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 13:14:24.113229[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:48:19.398617[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:48:21.759505[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:48:26.774161[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:49:44.971953[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:49:45.402719[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:49:46.338718[Thread 0x000024ac]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-08 15:49:53.318396[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:49:53.899495[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:50:00.030748[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:50:01.001715[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:50:01.939589[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:55:08.902088[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-08 15:55:09.584431[Thread 0x000024ac]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

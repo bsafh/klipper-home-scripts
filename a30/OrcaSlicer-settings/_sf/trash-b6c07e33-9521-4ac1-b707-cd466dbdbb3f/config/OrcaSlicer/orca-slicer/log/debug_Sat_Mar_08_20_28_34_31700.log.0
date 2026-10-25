@@ -1,0 +1,63 @@
+[warning]	2025-03-08 20:28:34.945677[Thread 0x00000bb0]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-08 20:28:34.946677[Thread 0x00000bb0]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-08 20:28:35.368677[Thread 0x00000bb0]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-08 20:28:35.526678[Thread 0x00000bb0]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-08 20:28:35.529678[Thread 0x00000bb0]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-08 20:28:35.547678[Thread 0x00000bb0]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-08 20:29:05.053488[Thread 0x00005c40]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-08 20:29:05.116491[Thread 0x00002320]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-08 20:29:05.410765[Thread 0x00000bb4]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-03-08 20:29:05.642764[Thread 0x00008610]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[warning]	2025-03-08 20:29:23.294674[Thread 0x00000bb0]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-08 20:29:23.294674[Thread 0x00000bb0]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-08 20:29:23.295678[Thread 0x00000bb0]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-08 20:29:23.413677[Thread 0x00000bb0]:Slic3r::NetworkAgent::connect_server error: network_agent=0000028E0706CF50, ret=-2
+[warning]	2025-03-08 20:29:23.885040[Thread 0x000088f8]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-08 20:29:43.070323[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 20:29:58.985595[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 20:30:05.642814[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 20:30:07.304530[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 20:30:38.951474[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 20:31:26.019817[Thread 0x00007aa0]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2025-03-08 20:32:45.365411[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 20:33:42.606999[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 20:33:54.410225[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 20:34:36.501647[Thread 0x00007aa0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+0.16_Cutter_Arm_PG4_Open_[a]-2h21m-Tronxy Geeetech ABS+-0.2mm-TronXY-ABS-steel-fast-CB-Tronxy X5SA PRO Klipper 0.4 nozzle steel
+                          ^
+[error]	2025-03-09 10:41:08.410453[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-09 10:42:06.057585[Thread 0x00000bb0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 11, can not switch
+[error]	2025-03-09 10:44:16.418307[Thread 0x00007aa0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+0.16_Cutter_Arm_PG4_Open_[a]-2h21m-Tronxy Geeetech ABS+-0.2mm-TronXY-ABS-steel-fast-CB-Tronxy X5SA PRO Klipper 0.4 nozzle steel
+                          ^
+[error]	2025-03-09 10:44:33.154616[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:44:55.979480[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:45:12.734769[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:45:13.899464[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:45:32.431149[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-09 10:45:33.615554[Thread 0x00004384]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-03-09 10:45:51.251917[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:46:54.261617[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:46:56.923744[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:49:22.385382[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:49:28.734701[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 10:52:03.693238[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 12:53:35.238827[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 12:54:16.151398[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-09 12:54:19.355947[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-10 11:12:40.451507[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-10 11:13:14.221936[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-10 11:14:42.404105[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-10 11:15:46.146240[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-10 11:15:59.936955[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-10 11:16:06.368569[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-10 19:50:47.565633[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-10 19:50:49.700446[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-10 19:50:52.312360[Thread 0x00000bb0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 11, can not switch
+[error]	2025-03-10 19:50:52.903499[Thread 0x00007aa0]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2025-03-11 07:38:57.796275[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-11 07:39:01.012369[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-11 07:39:39.413939[Thread 0x000079c4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-12 12:29:41.524491[Thread 0x00000bb0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 13:20:50.396601[Thread 0x00000bb0]:Slic3r::_BBS_3MF_Exporter::_save_model_to_file:5670, Unable to open the file
+[error]	2025-03-12 13:20:50.396601[Thread 0x00000bb0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\batterie-fernbedienung-x5sa-cover-tension.3mf.tmp

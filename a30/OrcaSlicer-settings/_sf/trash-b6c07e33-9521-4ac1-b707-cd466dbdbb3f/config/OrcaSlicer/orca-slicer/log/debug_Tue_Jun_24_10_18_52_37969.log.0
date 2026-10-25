@@ -1,0 +1,133 @@
+[warning]	2025-06-24 10:19:18.979300[Thread 0x00007f314e14a580]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-24 10:19:18.979532[Thread 0x00007f314e14a580]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-24 10:19:18.979568[Thread 0x00007f314e14a580]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-24 10:19:19.317300[Thread 0x00007f314e14a580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-06-24 10:19:19.322254[Thread 0x00007f314e14a580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[error]	2025-06-24 10:19:19.438157[Thread 0x00007f314e14a580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-06-24 10:19:19.565268[Thread 0x00007f314e14a580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-06-24 10:19:19.598664[Thread 0x00007f314e14a580]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-06-24 10:19:19.652783[Thread 0x00007f314e14a580]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-06-24 10:19:19.659468[Thread 0x00007f314e14a580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-06-24 10:19:27.536260[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 10:19:27.544784[Thread 0x00007f314e14a580]:Unable to load bed texture: /home/christian/3D-print/Software/OrcaSlicer-settings/klipper_geeetech_logo.png
+[error]	2025-06-24 10:19:27.561205[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Printer-Zubehör/Geeetech A30/Nozzle_Brushes_v6-halterung-postprocessing.3mf
+[error]	2025-06-24 10:19:27.561240[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/TUBS/igel-münze-3-klein-reliefSculpture.3mf
+[error]	2025-06-24 10:19:27.561250[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Printer-Zubehör/HeroMe/x5sa_Gantry_Plate_only.3mf
+[error]	2025-06-24 10:19:27.561260[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Printer-Zubehör/HeroMe/x5sa_Gantry_Plate und Box.3mf
+[error]	2025-06-24 10:19:27.561269[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Printer-Zubehör/HeroMe/x5da-pro-volcano-selection-cb-2025-06-20.3mf
+[error]	2025-06-24 10:19:27.561278[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Printer-Zubehör/Geeetech A30/Nozzle_Brushes_v6-halterung.3mf
+[error]	2025-06-24 10:19:27.561287[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-Print/Projekte/Printer-Zubehör/Geeetech A30/Nozzle_Brushes_v6-halterung.3mf
+[error]	2025-06-24 10:19:27.561295[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Calibration/Improved+Flow+ratio+Calibration+v3/flow_rate_test.3mf
+[error]	2025-06-24 10:19:27.561304[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-Print/Projekte/Calibration/1. Layer TEST multiple plates_A30.3mf
+[error]	2025-06-24 10:19:27.561312[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-Print/Projekte/Printer-Zubehör/Volcano Hotend/v6-volcano-halterung-a30-alle_v3.3mf
+[error]	2025-06-24 10:19:27.561321[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Calibration/flow_rate_tests.3mf
+[error]	2025-06-24 10:19:27.561330[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Calibration/flow_rate_tests_CB.3mf
+[error]	2025-06-24 10:19:27.561339[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-print/Projekte/Printer-Zubehör/Geeetech A30/Nozzle_Brushes.3mf
+[error]	2025-06-24 10:19:27.561347[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3D-Print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[error]	2025-06-24 10:19:27.561357[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/household items/Vasen und Gießkannen/blumentöpfe_büro.3mf
+[error]	2025-06-24 10:19:27.561366[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[error]	2025-06-24 10:19:27.561375[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST.3mf
+[error]	2025-06-24 10:19:27.561383[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3d/Galaxy+Z+Fold+6+Stand.3mf
+[error]	2025-06-24 10:19:27.561395[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3d/Headphone+stand.3mf
+[error]	2025-06-24 10:19:27.561404[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3d/stifthalter.3mf
+[error]	2025-06-24 10:19:27.561413[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3d/wellen-untersetzer-波浪杯垫lite.3mf
+[error]	2025-06-24 10:19:27.561423[Thread 0x00007f314e14a580]:Unable to open the file/home/christian/3d/Coasters+with+Holder.3mf
+[error]	2025-06-24 10:19:27.561417[Thread 0x00007f30c47f86c0]:Unable to open the file/home/christian/3d/coffebeancoaster_plate.3mf
+[error]	2025-06-24 10:19:27.561441[Thread 0x00007f30487f86c0]:Unable to open the file/home/christian/3d/Tensegrity+Table-a30.3mf
+[error]	2025-06-24 10:19:27.561425[Thread 0x00007f30587f86c0]:Unable to open the file/home/christian/3d/2.5 to 3.5-lighted.3mf
+[error]	2025-06-24 10:19:27.640263[Thread 0x00007f314e14a580]:Unable to load bed texture: /home/christian/3D-print/Software/OrcaSlicer-settings/klipper_geeetech_logo.png
+[warning]	2025-06-24 10:19:28.905499[Thread 0x00007f314e14a580]:10:19:28: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-24 10:19:28.909683[Thread 0x00007f314e14a580]:10:19:28: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-24 10:19:28.918473[Thread 0x00007f314e14a580]:10:19:28: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-24 10:19:29.049261[Thread 0x00007f314e14a580]:10:19:29: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-24 10:19:33.501255[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 10:19:33.551555[Thread 0x00007f314e14a580]:Unable to load bed texture: /home/christian/3D-print/Software/OrcaSlicer-settings/klipper_geeetech_logo.png
+[error]	2025-06-24 10:19:33.587895[Thread 0x00007f314e14a580]:connect_server error: network_agent=0x55b14c154e00, ret=-2
+[warning]	2025-06-24 10:19:34.132535[Thread 0x00007f1fc53a56c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-06-24 10:19:41.777369[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-06-24 10:19:41.777600[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-06-24 10:19:41.781527[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-06-24 10:19:41.782781[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-06-24 10:19:41.783973[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-06-24 10:19:41.785151[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-06-24 10:19:41.786325[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-06-24 10:19:41.786618[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-06-24 10:19:41.787745[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-06-24 10:19:41.788906[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-06-24 10:19:41.790064[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-06-24 10:19:41.791230[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-06-24 10:19:41.792394[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-06-24 10:19:41.793474[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-06-24 10:19:41.794495[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-06-24 10:19:41.795521[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-06-24 10:19:41.796543[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-06-24 10:19:41.797494[Thread 0x00007f314e14a580]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-06-24 10:25:58.821234[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 10:26:00.204391[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 10:26:00.258352[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 10:26:00.292046[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 10:26:02.008023[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:26:21.811724[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:30:36.227702[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 10:30:58.673652[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-24 10:30:58.727675[Thread 0x00007f314e14a580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/10_30_36#37969#1682/_temp_2.config!
+[warning]	2025-06-24 10:30:58.728710[Thread 0x00007f314e14a580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/10_30_36#37969#1682/_temp_2.config!
+[warning]	2025-06-24 10:30:58.729714[Thread 0x00007f314e14a580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/10_30_36#37969#1682/_temp_2.config!
+[error]	2025-06-24 10:32:18.166476[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:32:23.204763[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:32:29.793712[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:33:48.267911[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:33:57.786408[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:34:01.063113[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:34:04.890703[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:34:17.621018[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:34:22.805913[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:37:34.307735[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:44:41.214498[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:45:00.770251[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:45:14.769376[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:45:18.612543[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:46:32.238493[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:46:32.533166[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:46:53.358341[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:46:55.607410[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-24 10:48:37.321413[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-24 10:52:13.769424[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-24 10:54:22.729202[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 10:54:22.770930[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-24 10:54:25.458881[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-24 10:54:26.414663[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-24 10:54:26.497646[Thread 0x00007f314e14a580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/10_54_23#37969#2144/_temp_2.config!
+[warning]	2025-06-24 10:54:26.499040[Thread 0x00007f314e14a580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/10_54_23#37969#2144/_temp_2.config!
+[warning]	2025-06-24 10:54:26.500330[Thread 0x00007f314e14a580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/10_54_23#37969#2144/_temp_2.config!
+[error]	2025-06-24 10:54:26.907920[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 10:54:27.322043[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-24 10:54:28.997807[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-24 10:54:43.187873[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-24 10:54:54.460253[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-24 10:56:12.862559[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-24 10:56:59.813865[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-24 10:57:18.060196[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-24 10:59:15.754305[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-24 11:46:28.126193[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 11:46:28.591553[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-24 11:46:29.615380[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-24 11:46:31.841553[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 11:46:31.958280[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 11:46:32.080535[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 11:46:32.720437[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 11:46:33.161871[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-24 11:46:34.404849[Thread 0x00007f314e14a580]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-24 11:46:39.088599[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 11:48:31.171287[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 11:48:47.326267[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 11:49:03.661924[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 11:49:06.111979[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 11:50:48.705385[Thread 0x00007f314e14a580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-24 11:51:03.798991[Thread 0x00007f314e14a580]:Could not stop UI job within 10000 milliseconds timeout!
+[error]	2025-06-24 11:51:14.142394[Thread 0x00007f314e14a580]:Could not stop UI job within 10000 milliseconds timeout!
+[error]	2025-06-24 11:51:24.434492[Thread 0x00007f314e14a580]:Could not stop UI job within 10000 milliseconds timeout!
+[error]	2025-06-24 11:52:14.246403[Thread 0x00007f314e14a580]:Could not stop UI job within 10000 milliseconds timeout!
+[error]	2025-06-24 11:52:24.393283[Thread 0x00007f314e14a580]:Could not stop UI job within 10000 milliseconds timeout!
+[error]	2025-06-24 11:55:02.592905[Thread 0x00007f314e14a580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 11:55:23.397541[Thread 0x00007f314e14a580]:Could not join worker thread 'ui_worker'

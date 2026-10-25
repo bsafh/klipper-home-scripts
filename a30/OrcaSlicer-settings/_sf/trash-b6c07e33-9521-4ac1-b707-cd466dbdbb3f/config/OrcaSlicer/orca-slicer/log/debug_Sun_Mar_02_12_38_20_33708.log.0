@@ -1,0 +1,107 @@
+[warning]	2025-03-02 12:38:21.230591[Thread 0x00002558]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-02 12:38:21.231668[Thread 0x00002558]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-02 12:38:22.763341[Thread 0x00002558]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-02 12:38:23.251838[Thread 0x00002558]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-02 12:38:23.260836[Thread 0x00002558]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-02 12:38:23.352693[Thread 0x00002558]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-02 12:38:43.655225[Thread 0x00008354]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-03-02 12:38:44.176949[Thread 0x00006f34]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-02 12:38:45.396411[Thread 0x00006c58]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-02 12:38:45.710410[Thread 0x00008354]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[warning]	2025-03-02 12:39:03.690999[Thread 0x00002558]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-02 12:39:03.690999[Thread 0x00002558]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-02 12:39:03.690999[Thread 0x00002558]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-02 12:39:03.776034[Thread 0x00002558]:Slic3r::NetworkAgent::connect_server error: network_agent=000001D3259093A0, ret=-2
+[warning]	2025-03-02 12:39:04.178038[Thread 0x0000803c]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-02 12:40:12.318034[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:49:35.879500[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:49:36.056502[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:49:36.534776[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:50:53.912739[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:50:55.192950[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:51:16.761684[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:51:19.872803[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:51:24.838655[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-02 12:51:27.300806[Thread 0x00003de0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-03-02 12:51:31.321379[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:51:54.736641[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 12:51:55.871616[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 13:09:55.782408[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:19:00.652979[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:19:01.183688[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:19:03.327595[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-02 15:19:04.787531[Thread 0x00003de0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-03-02 15:19:24.530708[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:19:35.867840[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:19:36.734605[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:20:15.429903[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:20:16.895982[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:20:40.879181[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:20:44.995371[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:21:22.488924[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:21:23.771814[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:21:45.176526[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 15:21:55.542136[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-02 16:03:03.685814[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-02 18:12:50.519876[Thread 0x00008354]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-03 17:12:08.602310[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-03 17:12:39.451879[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-03 17:12:40.161603[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-03 17:12:40.915412[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-03 17:13:28.444649[Thread 0x00008354]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-04 08:21:55.530670[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 08:22:15.851836[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-04 08:23:08.263519[Thread 0x00003038]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-04 08:23:35.957743[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 08:24:36.220661[Thread 0x0000527c]:OctoPrint: Error uploading file to http://192.168.80.48/api/files/local: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.22.1</center>
+</body>
+</html>
+`
+[error]	2025-03-04 10:29:25.562628[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:35:50.508137[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:35:51.228614[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:35:54.092016[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:36:25.852055[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:36:27.312672[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:36:28.231483[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:36:34.327901[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:38:59.849078[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:39:00.934076[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 10:39:01.736772[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-04 10:39:38.405902[Thread 0x000063e4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-04 11:08:03.531438[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 11:08:49.852083[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 11:08:52.246634[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 16:18:00.027042[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 16:18:25.100325[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 16:18:28.788007[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 16:18:31.318702[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 16:18:34.666521[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-04 16:19:29.603385[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:42:45.484566[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:43:30.647062[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:43:32.249752[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:43:53.569343[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:44:06.434040[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:44:13.500483[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:44:13.867295[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-05 07:44:54.105906[Thread 0x00006f34]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-05 07:46:17.524616[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:46:28.290945[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:46:30.000388[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 07:47:22.341988[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-05 07:47:23.883431[Thread 0x00003de0]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-03-05 17:08:45.235893[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 17:09:44.969570[Thread 0x00001ed8]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+0.16_Cutter_Arm_PG4_Open_[a]-1h12m-Tronxy Geeetech ABS+-0.2mm-TronXY-ABS-steel-fast-CB-Tronxy X5SA PRO Klipper 0.4 nozzle steel
+                          ^
+[error]	2025-03-05 18:48:24.414278[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:48:28.284087[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:49:05.801347[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:49:23.750567[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:52:59.389709[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 18:53:05.395979[Thread 0x00002558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

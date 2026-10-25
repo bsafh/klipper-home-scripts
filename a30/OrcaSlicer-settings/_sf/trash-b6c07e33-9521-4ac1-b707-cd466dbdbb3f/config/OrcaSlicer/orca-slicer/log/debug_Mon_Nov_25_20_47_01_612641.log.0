@@ -1,0 +1,14 @@
+[warning]	2024-11-25 20:47:02.124016[Thread 0x000072377b538c80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-25 20:47:02.124165[Thread 0x000072377b538c80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-25 20:47:02.124200[Thread 0x000072377b538c80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-25 20:47:02.574239[Thread 0x000072377b538c80]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2024-11-25 20:47:05.338082[Thread 0x000072377b538c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 20:47:05.388879[Thread 0x00007236e86006c0]:Unable to open the file/srv/data/truenas/data/transfer/3D-print/Projekte/Printer-Zubehör/orca-pi-case+cam-sdcard-cableholder-a30.3mf
+[error]	2024-11-25 20:47:05.407655[Thread 0x00007236d2e006c0]:Unable to open the file/home/christian/TX5SA_Fan_Speed_0-100.3mf
+[error]	2024-11-25 20:47:05.407695[Thread 0x00007236d2e006c0]:Unable to open the file/tmp/.mount_OrcaSlCujEN4/resources/calib/retraction/retraction_tower.stl
+[error]	2024-11-25 20:47:05.432059[Thread 0x00007236d34006c0]:Unable to open the file/srv/data/truenas/data/transfer/3D-print/Projekte/Printer-Zubehör/Geeetech_A30_SD_reader_holder_v2.3_plus_Leveling_Knobs<-purge_bucket.3mf
+[warning]	2024-11-25 20:47:06.588157[Thread 0x000072377b538c80]:08:47:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 20:47:06.602032[Thread 0x000072377b538c80]:08:47:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 20:47:06.643675[Thread 0x000072377b538c80]:08:47:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 20:47:06.764566[Thread 0x000072377b538c80]:08:47:06 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-25 20:47:09.033276[Thread 0x000072377b538c80]:calc_exclude_triangles:Unable to create exclude triangles

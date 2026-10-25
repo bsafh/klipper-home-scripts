@@ -1,0 +1,40 @@
+[warning]	2025-03-13 18:50:25.700543[Thread 0x00001278]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-13 18:50:25.701541[Thread 0x00001278]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-13 18:50:26.257543[Thread 0x00001278]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-13 18:50:26.380542[Thread 0x00001278]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-13 18:50:26.383544[Thread 0x00001278]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-13 18:50:26.401545[Thread 0x00001278]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-13 18:50:40.477201[Thread 0x00006280]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-13 18:50:40.574898[Thread 0x00007a24]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-13 18:50:40.600650[Thread 0x00001278]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[error]	2025-03-13 18:50:40.605657[Thread 0x00007e8c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[warning]	2025-03-13 18:50:54.024034[Thread 0x00001278]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-13 18:50:54.024034[Thread 0x00001278]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-13 18:50:54.024034[Thread 0x00001278]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-13 18:50:54.113030[Thread 0x00001278]:Slic3r::NetworkAgent::connect_server error: network_agent=000001BCF2E68DC0, ret=-2
+[warning]	2025-03-13 18:50:54.685482[Thread 0x000072d4]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2025-03-13 19:33:13.409136[Thread 0x00006498]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-03-13 19:33:41.203436[Thread 0x00003790]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-14 07:04:20.251980[Thread 0x00001278]:load_obj: failed to load mtl_path:S:\data\transfer\3D-print\Projekte\Printer-Zubehör\Geeetech A30/A10_direct_drive_mount_modified.mtl
+[warning]	2025-03-14 07:04:24.889002[Thread 0x00006498]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-03-14 07:09:54.576110[Thread 0x00006498]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-03-14 07:14:34.869516[Thread 0x00005d84]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2025-03-14 07:14:53.199214[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:18:11.731421[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:18:13.051985[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:18:16.712432[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:18:18.443495[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:18:26.260279[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:18:29.473520[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:18:43.907124[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:18:45.083977[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:19:36.205312[Thread 0x00005d84]:gcode path conflicts found between Direct_drive_a10_bmg.stl and MK8_for_A30_with_Filament_Sensor_Mount.step
+[error]	2025-03-14 07:21:06.158631[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:21:10.840571[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:21:36.381987[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-14 07:21:39.941829[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-15 09:17:31.165147[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-15 09:17:41.199957[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-15 09:17:42.461479[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-15 09:18:30.125076[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-15 09:18:43.570607[Thread 0x00001278]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

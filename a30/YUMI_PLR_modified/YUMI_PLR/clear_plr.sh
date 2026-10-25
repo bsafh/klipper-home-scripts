@@ -1,0 +1,1 @@
+rm /home/klipper/printer_data/gcodes/plr -rf

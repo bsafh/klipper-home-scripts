@@ -1,0 +1,154 @@
+[warning]	2025-06-23 18:07:06.449534[Thread 0x000075b8c29b84c0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-23 18:07:06.449795[Thread 0x000075b8c29b84c0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-23 18:07:06.449839[Thread 0x000075b8c29b84c0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-23 18:07:06.735606[Thread 0x000075b8c29b84c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-06-23 18:07:06.812299[Thread 0x000075b8c29b84c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-06-23 18:07:06.815881[Thread 0x000075b8c29b84c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[warning]	2025-06-23 18:07:06.865754[Thread 0x000075b8c29b84c0]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[error]	2025-06-23 18:07:06.913101[Thread 0x000075b8c29b84c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-06-23 18:07:06.936233[Thread 0x000075b8c29b84c0]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-06-23 18:07:06.950928[Thread 0x000075b8c29b84c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-06-23 18:07:11.088143[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:07:11.127443[Thread 0x000075b8407fd6c0]:Unable to open the file/home/christian/3d/Headphone+stand.3mf
+[error]	2025-06-23 18:07:11.127531[Thread 0x000075b8407fd6c0]:Unable to open the file/home/christian/3d/stifthalter.3mf
+[error]	2025-06-23 18:07:11.127550[Thread 0x000075b8407fd6c0]:Unable to open the file/home/christian/3d/coffebeancoaster_plate.3mf
+[error]	2025-06-23 18:07:11.127565[Thread 0x000075b8407fd6c0]:Unable to open the file/home/christian/3d/Tensegrity+Table-a30.3mf
+[error]	2025-06-23 18:07:11.127579[Thread 0x000075b8407fd6c0]:Unable to open the file/home/christian/3d/coffee_bag_complete_final_updated-x5sa-petg.3mf
+[error]	2025-06-23 18:07:11.127593[Thread 0x000075b8407fd6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST.3mf
+[error]	2025-06-23 18:07:11.127606[Thread 0x000075b8407fd6c0]:Unable to open the file/home/christian/3d/Galaxy+Z+Fold+6+Stand.3mf
+[error]	2025-06-23 18:07:11.127619[Thread 0x000075b8407fd6c0]:Unable to open the file/home/christian/3d/2.5 to 3.5-lighted.3mf
+[error]	2025-06-23 18:07:11.127697[Thread 0x000075b81affd6c0]:Unable to open the file/home/christian/3d/Coasters+with+Holder.3mf
+[error]	2025-06-23 18:07:11.127738[Thread 0x000075b81affd6c0]:Unable to open the file/home/christian/3d/wellen-untersetzer-波浪杯垫lite.3mf
+[error]	2025-06-23 18:07:11.135667[Thread 0x000075b82c7ff6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/household items/Vasen und Gießkannen/blumentöpfe_büro.3mf
+[error]	2025-06-23 18:07:11.135715[Thread 0x000075b82c7ff6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[warning]	2025-06-23 18:07:13.133837[Thread 0x000075b8c29b84c0]:18:07:13: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-23 18:07:13.286066[Thread 0x000075b8c29b84c0]:18:07:13: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-23 18:07:13.346301[Thread 0x000075b8c29b84c0]:18:07:13: Warning: Error running JavaScript: about:blank:1:9: ReferenceError: Can't find variable: __wxOut0
+[warning]	2025-06-23 18:07:13.698116[Thread 0x000075b8c29b84c0]:18:07:13: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-23 18:07:19.273082[Thread 0x000075b8c29b84c0]:connect_server error: network_agent=0x593b47370130, ret=-2
+[warning]	2025-06-23 18:07:19.671776[Thread 0x000075b6e5ba66c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-06-23 18:07:21.840581[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:07:24.115601[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:07:24.147200[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:07:24.163119[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:07:25.345248[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 18:07:26.181540[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-06-23 18:07:26.181798[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-06-23 18:07:26.183373[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-06-23 18:07:26.185084[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-06-23 18:07:26.186573[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-06-23 18:07:26.188074[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-06-23 18:07:26.189576[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-06-23 18:07:26.189984[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-06-23 18:07:26.191235[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-06-23 18:07:26.192794[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-06-23 18:07:26.193713[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-06-23 18:07:26.194568[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-06-23 18:07:26.195429[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-06-23 18:07:26.196221[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-06-23 18:07:26.197030[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-06-23 18:07:26.197770[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-06-23 18:07:26.198463[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-06-23 18:07:26.199113[Thread 0x000075b8c29b84c0]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-06-23 18:07:34.326015[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:08:07.057652[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 18:08:12.023743[Thread 0x000075b8427fc6c0]:Arrange full params: {"min_obj_distance":58001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-24,000000,"bed_shrink_y":-24,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":55,000000,"clearance_height_to_lid":55,000000,"clearance_radius":58,000000,"printable_height":381,000000,
+[error]	2025-06-23 18:10:09.226369[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:13:55.665913[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:13:57.145764[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:13:58.006014[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:14:12.345135[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:14:20.331751[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:28:22.487014[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:28:45.267806[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-23 18:28:45.328549[Thread 0x000075b8c29b84c0]:validate_preset: preset_name Bambu Lab A1 0.4 nozzle, no inherit, set to not found
+[warning]	2025-06-23 18:28:45.328587[Thread 0x000075b8c29b84c0]:validate_presets:file_name igel-münze-3-klein-reliefSculpture.3mf, found the printer preset not inherit from system
+[warning]	2025-06-23 18:28:45.328604[Thread 0x000075b8c29b84c0]:validate_preset: preset_name Bambu PLA Basic @BBL A1, no inherit, set to not found
+[warning]	2025-06-23 18:28:45.328613[Thread 0x000075b8c29b84c0]:validate_presets:file_name igel-münze-3-klein-reliefSculpture.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-06-23 18:28:45.328625[Thread 0x000075b8c29b84c0]:validate_presets:file_name igel-münze-3-klein-reliefSculpture.3mf, found self defined presets, count 2
+[error]	2025-06-23 18:28:50.190396[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:29:14.078900[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:41:07.324291[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:41:08.852009[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:41:09.016855[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:41:09.133702[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:41:10.112539[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:50:09.666753[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:50:11.208065[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:50:11.409775[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:50:11.564299[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:50:22.198593[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:50:32.166647[Thread 0x000075b82ffff6c0]:call_process:got cancelled exception
+[error]	2025-06-23 18:53:13.865307[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 18:53:39.953409[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-23 18:53:40.069677[Thread 0x000075b8c29b84c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Jun_23/18_53_14#8732#4401/_temp_2.config!
+[warning]	2025-06-23 18:53:40.072576[Thread 0x000075b8c29b84c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Jun_23/18_53_14#8732#4401/_temp_2.config!
+[warning]	2025-06-23 18:53:40.075530[Thread 0x000075b8c29b84c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Jun_23/18_53_14#8732#4401/_temp_2.config!
+[error]	2025-06-23 18:53:58.983084[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:54:14.081746[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:54:26.114177[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:54:53.726750[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 18:55:10.281300[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:10:51.559180[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:10:51.640999[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 20:10:52.312520[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-23 20:10:53.273402[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:10:53.336622[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:10:53.395293[Thread 0x000075b8c29b84c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:10:53.690844[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:10:53.946336[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 20:10:54.331332[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-23 20:11:15.863290[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:11:50.301786[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:11:53.361151[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:12:05.734413[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 20:12:20.156815[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:12:34.529883[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:12:44.222572[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:13:32.879953[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:13:43.985773[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:14:03.059184[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:14:18.510917[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:14:33.823362[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:14:40.565805[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:14:57.052201[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:15:22.254966[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:15:27.372302[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:15:54.807142[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:16:08.355164[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-23 20:16:37.471150[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:16:47.562870[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 20:16:59.445443[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:17:27.153187[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:17:34.237574[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:17:52.877084[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:18:07.284294[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:19:09.088916[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:19:15.657876[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:20:05.850665[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:20:32.165399[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:20:49.837011[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:21:18.207026[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:21:21.730599[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-23 20:21:39.995712[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:21:49.103670[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 20:22:26.661176[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:23:55.610947[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:24:10.068329[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:24:23.490146[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-23 20:24:47.236077[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:24:57.385075[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 20:25:00.117560[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:25:04.898840[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:25:48.061970[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-23 20:25:53.527468[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-23 20:26:11.891974[Thread 0x000075b8c29b84c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-23 20:26:27.983836[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:26:47.316105[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:26:58.533244[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:27:11.402019[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-06-23 20:27:28.118190[Thread 0x000075b8c29b84c0]:restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-06-23 20:27:56.028488[Thread 0x000075b8c29b84c0]:Could not stop UI job within 10000 milliseconds timeout!
+[error]	2025-06-23 20:28:06.111197[Thread 0x000075b8c29b84c0]:Could not stop UI job within 10000 milliseconds timeout!
+[error]	2025-06-23 20:30:55.046189[Thread 0x000075b8c29b84c0]:Could not stop UI job within 10000 milliseconds timeout!
+[error]	2025-06-23 20:31:07.171324[Thread 0x000075b8c29b84c0]:Could not stop UI job within 10000 milliseconds timeout!

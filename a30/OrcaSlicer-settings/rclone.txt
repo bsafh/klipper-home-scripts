@@ -1,0 +1,11 @@
+rclone config
+
+rclone copyto ~/3D-print/Software/OrcaSlicer-settings/RCLONE_TEST ~/.config/OrcaSlicer/RCLONE_TEST
+
+/usr/bin/rclone bisync ~/3D-print/Software/OrcaSlicer-settings/ ~/.config/OrcaSlicer/ --create-empty-src-dirs --compare size,modtime,checksum --slow-hash-sync-only --resilient --recover -MvP --drive-skip-gdocs --fix-case --check-access --resync --dry-run
+/usr/bin/rclone bisync ~/3D-print/Software/OrcaSlicer-settings/ ~/.config/OrcaSlicer/ --create-empty-src-dirs --compare size,modtime,checksum --slow-hash-sync-only --resilient --recover -MvP --drive-skip-gdocs --fix-case --check-access --resync
+
+cron
+*/3  * * * * /usr/bin/rclone bisync ~/3D-print/Software/OrcaSlicer-settings/ ~/.config/OrcaSlicer/ --create-empty-src-dirs --compare size,modtime,checksum --slow-hash-sync-only --resilient --recover -MvP --drive-skip-gdocs --fix-case --check-access
+ 
+

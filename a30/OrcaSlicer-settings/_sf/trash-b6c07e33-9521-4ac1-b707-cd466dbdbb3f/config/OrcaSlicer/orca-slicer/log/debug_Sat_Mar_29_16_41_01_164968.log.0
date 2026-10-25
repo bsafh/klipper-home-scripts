@@ -1,0 +1,39 @@
+[warning]	2025-03-29 16:41:08.518949[Thread 0x00007f4cfd2b3580]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-03-29 16:41:08.519059[Thread 0x00007f4cfd2b3580]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-29 16:41:08.519078[Thread 0x00007f4cfd2b3580]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-29 16:41:09.508447[Thread 0x00007f4cfd2b3580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-29 16:41:09.539613[Thread 0x00007f4cfd2b3580]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-29 16:41:09.549713[Thread 0x00007f4cfd2b3580]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-29 16:41:09.551242[Thread 0x00007f4cfd2b3580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-29 16:41:37.128750[Thread 0x00007f4cfd2b3580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 16:41:37.330995[Thread 0x00007f4c2effd700]:Unable to open the file/srv/data/cifs/truenas/alldata/data/transfer/3D-print//Projekte/AI Photo-2-3D\Kaja.3mf
+[error]	2025-03-29 16:41:37.474152[Thread 0x00007f4c2ffff700]:File Metadata/plate_1.png not found from archive
+[warning]	2025-03-29 16:41:39.149975[Thread 0x00007f4cfd2b3580]:16:41:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 16:41:39.152188[Thread 0x00007f4cfd2b3580]:16:41:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 16:41:39.425471[Thread 0x00007f4cfd2b3580]:16:41:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 16:41:39.798811[Thread 0x00007f4cfd2b3580]:16:41:39: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-03-29 16:41:43.106509[Thread 0x00007f4cfd2b3580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 16:41:43.175783[Thread 0x00007f4cfd2b3580]:connect_server error: network_agent=0x5626fb4e9670, ret=-2
+[warning]	2025-03-29 16:41:43.592294[Thread 0x00007f4bf06de700]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-03-29 16:41:45.545080[Thread 0x00007f4cfd2b3580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-29 16:41:45.545127[Thread 0x00007f4cfd2b3580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-29 16:41:45.545191[Thread 0x00007f4cfd2b3580]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-29 16:43:09.336657[Thread 0x00007f4cfd2b3580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 16:43:09.756176[Thread 0x00007f4cfd2b3580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-29 16:43:09.808186[Thread 0x00007f4cfd2b3580]:validate_preset: preset_name Geeetech PLA warm white @A30, inherit_name Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf), can not found preset and inherit in list
+[warning]	2025-03-29 16:43:09.808220[Thread 0x00007f4cfd2b3580]:validate_presets:file_name Flowrate Test - Pass1-PLA-A30.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-03-29 16:43:09.808230[Thread 0x00007f4cfd2b3580]:validate_presets:file_name Flowrate Test - Pass1-PLA-A30.3mf, found self defined presets, count 1
+[error]	2025-03-29 16:43:15.318460[Thread 0x00007f4cfd2b3580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 16:43:15.320147[Thread 0x00007f4cfd2b3580]:Unable to load bed texture: S:\data\transfer\3D-print\Software\OrcaSlicer-settings\klipper_geeetech_logo.png
+[error]	2025-03-29 16:43:15.743945[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 16:48:35.805596[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 16:48:35.990270[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 16:48:58.953638[Thread 0x00007f4cfd2b3580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 16:48:59.010992[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 16:48:59.053338[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 16:49:12.330513[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 16:49:49.302367[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 16:49:51.382043[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 16:50:19.975913[Thread 0x00007f4cfd2b3580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 18:30:47.626285[Thread 0x00007f4cfd2b3580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 18:30:47.935361[Thread 0x00007f4cfd2b3580]:calc_exclude_triangles:Unable to create exclude triangles

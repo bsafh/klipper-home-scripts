@@ -1,0 +1,136 @@
+[warning]	2025-03-12 14:01:32.696602[Thread 0x00002c94]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-12 14:01:32.699604[Thread 0x00002c94]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-12 14:01:35.330699[Thread 0x00002c94]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-12 14:01:36.352438[Thread 0x00002c94]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-12 14:01:36.367197[Thread 0x00002c94]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-12 14:01:36.551489[Thread 0x00002c94]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-12 14:02:10.436412[Thread 0x00000910]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-12 14:02:11.551406[Thread 0x00002c94]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-12 14:02:12.079408[Thread 0x000078b0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-03-12 14:02:13.009224[Thread 0x00005d40]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[warning]	2025-03-12 14:02:39.336913[Thread 0x00002c94]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-12 14:02:39.336913[Thread 0x00002c94]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-12 14:02:39.336913[Thread 0x00002c94]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-12 14:02:39.536921[Thread 0x00002c94]:Slic3r::NetworkAgent::connect_server error: network_agent=000001D9329BCA00, ret=-2
+[warning]	2025-03-12 14:02:40.133128[Thread 0x00006654]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-12 14:05:51.795828[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:05:51.802828[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:05:51.808828[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:05:51.815829[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:05:51.820829[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:05:51.826830[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:05:51.831829[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:05:51.839828[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:05:51.846828[Thread 0x00002c94]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-12 14:07:03.603064[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:07:44.540594[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:07:57.424560[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:10:08.935008[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:10:09.273009[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:10:10.546952[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:10:37.821879[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-12 14:12:30.040454[Thread 0x000033a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-03-12 14:13:03.630077[Thread 0x000033a4]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-27,500000,"bed_shrink_y":-27,500000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-03-12 14:16:22.409184[Thread 0x000033a4]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-27,500000,"bed_shrink_y":-27,500000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-03-12 14:23:57.177460[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:24:40.141155[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:24:53.818353[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:25:08.272307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 4, col 5, type 3 
+[error]	2025-03-12 14:25:08.272307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 5, col 5, type 3 
+[error]	2025-03-12 14:25:08.272307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 6, col 5, type 3 
+[error]	2025-03-12 14:25:08.272307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 7, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 8, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 9, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 10, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 11, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 12, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 13, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 14, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 15, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 17, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 18, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 21, col 5, type 3 
+[error]	2025-03-12 14:25:08.273308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 22, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 24, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 25, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 26, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 28, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 29, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 31, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 32, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 34, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 35, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 37, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 38, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 40, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 41, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 43, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 44, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 50, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 51, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 52, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 54, col 5, type 3 
+[error]	2025-03-12 14:25:08.274308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 55, col 5, type 3 
+[error]	2025-03-12 14:25:08.281308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 4, col 5, type 3 
+[error]	2025-03-12 14:25:08.281308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 5, col 5, type 3 
+[error]	2025-03-12 14:25:08.281308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 6, col 5, type 3 
+[error]	2025-03-12 14:25:08.282306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 7, col 5, type 3 
+[error]	2025-03-12 14:25:08.282306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 8, col 5, type 3 
+[error]	2025-03-12 14:25:08.282306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 9, col 5, type 3 
+[error]	2025-03-12 14:25:08.282306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 10, col 5, type 3 
+[error]	2025-03-12 14:25:08.283306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 11, col 5, type 3 
+[error]	2025-03-12 14:25:08.283306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 12, col 5, type 3 
+[error]	2025-03-12 14:25:08.283306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 13, col 5, type 3 
+[error]	2025-03-12 14:25:08.283306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 14, col 5, type 3 
+[error]	2025-03-12 14:25:08.283306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 15, col 5, type 3 
+[error]	2025-03-12 14:25:08.284307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 17, col 5, type 3 
+[error]	2025-03-12 14:25:08.284307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 18, col 5, type 3 
+[error]	2025-03-12 14:25:08.284307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 21, col 5, type 3 
+[error]	2025-03-12 14:25:08.284307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 22, col 5, type 3 
+[error]	2025-03-12 14:25:08.285307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 24, col 5, type 3 
+[error]	2025-03-12 14:25:08.285307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 25, col 5, type 3 
+[error]	2025-03-12 14:25:08.285307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 26, col 5, type 3 
+[error]	2025-03-12 14:25:08.285307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 28, col 5, type 3 
+[error]	2025-03-12 14:25:08.285307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 29, col 5, type 3 
+[error]	2025-03-12 14:25:08.286306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 31, col 5, type 3 
+[error]	2025-03-12 14:25:08.286306[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 32, col 5, type 3 
+[error]	2025-03-12 14:25:08.287310[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 34, col 5, type 3 
+[error]	2025-03-12 14:25:08.287310[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 35, col 5, type 3 
+[error]	2025-03-12 14:25:08.288308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 37, col 5, type 3 
+[error]	2025-03-12 14:25:08.288308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 38, col 5, type 3 
+[error]	2025-03-12 14:25:08.288308[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 40, col 5, type 3 
+[error]	2025-03-12 14:25:08.289307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 41, col 5, type 3 
+[error]	2025-03-12 14:25:08.289307[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 43, col 5, type 3 
+[error]	2025-03-12 14:25:08.289707[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 44, col 5, type 3 
+[error]	2025-03-12 14:25:08.290848[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 50, col 5, type 3 
+[error]	2025-03-12 14:25:08.291356[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 51, col 5, type 3 
+[error]	2025-03-12 14:25:08.291397[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 52, col 5, type 3 
+[error]	2025-03-12 14:25:08.292073[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 54, col 5, type 3 
+[error]	2025-03-12 14:25:08.292584[Thread 0x00002c94]:Slic3r::GUI::ObjectGridTable::GetValuerow 55, col 5, type 3 
+[error]	2025-03-12 14:25:54.508490[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-12 14:25:56.940855[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:16:09.747259[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:16:26.932585[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:16:31.599331[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:19:20.418527[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:19:42.207319[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:19:43.179224[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:19:47.733978[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:20:59.884482[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:21:06.253255[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:21:26.023810[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:21:36.231819[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:21:42.653177[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:21:50.412134[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:22:04.293413[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:22:06.532758[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:22:18.934217[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:22:20.128700[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:22:49.277547[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:22:50.351263[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:23:09.312262[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:23:10.601980[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 11:24:17.177924[Thread 0x00002c94]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-13 11:37:43.690580[Thread 0x000033a4]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-27,500000,"bed_shrink_y":-27,500000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[warning]	2025-03-13 11:37:44.459109[Thread 0x00002c94]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 9, can not switch
+[error]	2025-03-13 11:38:31.342099[Thread 0x00005f90]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception

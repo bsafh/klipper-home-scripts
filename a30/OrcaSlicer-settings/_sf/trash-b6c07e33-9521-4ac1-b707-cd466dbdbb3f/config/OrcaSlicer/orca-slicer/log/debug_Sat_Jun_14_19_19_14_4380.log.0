@@ -1,0 +1,78 @@
+[warning]	2025-06-14 19:19:16.953532[Thread 0x0000748c2110b4c0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-14 19:19:16.955493[Thread 0x0000748c2110b4c0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-14 19:19:16.955543[Thread 0x0000748c2110b4c0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-14 19:19:17.585241[Thread 0x0000748c2110b4c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-06-14 19:19:17.740211[Thread 0x0000748c2110b4c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-06-14 19:19:17.747341[Thread 0x0000748c2110b4c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[warning]	2025-06-14 19:19:17.835573[Thread 0x0000748c2110b4c0]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[error]	2025-06-14 19:19:17.940036[Thread 0x0000748c2110b4c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-06-14 19:19:17.987861[Thread 0x0000748c2110b4c0]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-06-14 19:19:18.020544[Thread 0x0000748c2110b4c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-06-14 19:19:38.305570[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:38.369444[Thread 0x0000748b887ff6c0]:Unable to open the file/home/christian/3d/Tensegrity+Table.3mf
+[error]	2025-06-14 19:19:38.369509[Thread 0x0000748b887ff6c0]:Unable to open the file/home/christian/3d/rakel-schaber-pla.3mf
+[error]	2025-06-14 19:19:38.369568[Thread 0x0000748b887ff6c0]:Unable to open the file/home/christian/3d/rakel-schaber-petg.3mf
+[error]	2025-06-14 19:19:38.369434[Thread 0x0000748b8bfff6c0]:Unable to open the file/home/christian/3d/Tensegrity+Table-a30.3mf
+[error]	2025-06-14 19:19:38.369637[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/2.5 to 3.5-lighted.3mf
+[error]	2025-06-14 19:19:38.369649[Thread 0x0000748b8bfff6c0]:Unable to open the file/home/christian/3d/coffee_bag_complete_final_updated-x5sa-petg.3mf
+[error]	2025-06-14 19:19:38.369689[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/Headphone+stand.3mf
+[error]	2025-06-14 19:19:38.369700[Thread 0x0000748b8bfff6c0]:Unable to open the file/home/christian/3d/coffee_bag_complete_final_updated.3mf
+[error]	2025-06-14 19:19:38.369715[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/stifthalter.3mf
+[error]	2025-06-14 19:19:38.369738[Thread 0x0000748b8bfff6c0]:Unable to open the file/home/christian/3d/coffee_bag_NO_AMS_complete_0.28_5_walls-cb.3mf
+[error]	2025-06-14 19:19:38.369745[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/coffebeancoaster_plate.3mf
+[error]	2025-06-14 19:19:38.369762[Thread 0x0000748b8bfff6c0]:Unable to open the file/home/christian/3d/Tip_Catcher_MMU_a30.3mf
+[error]	2025-06-14 19:19:38.369766[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/Coasters+with+Holder.3mf
+[error]	2025-06-14 19:19:38.369789[Thread 0x0000748b8bfff6c0]:Unable to open the file/home/christian/3d/Tip_Catcher_MMU.3mf
+[error]	2025-06-14 19:19:38.369807[Thread 0x0000748b887ff6c0]:Unable to open the file/home/christian/3d/PETG-USB-C+Port+Cleaner+V2.3mf
+[error]	2025-06-14 19:19:38.369832[Thread 0x0000748b887ff6c0]:Unable to open the file/home/christian/3d/rakel-刮刀.3mf
+[error]	2025-06-14 19:19:38.369789[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/wellen-untersetzer-波浪杯垫lite.3mf
+[error]	2025-06-14 19:19:38.369886[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/Mandala+(1).3mf
+[error]	2025-06-14 19:19:38.369911[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/Türschild Horbachova Zhuk-154mm-cb.3mf
+[error]	2025-06-14 19:19:38.369832[Thread 0x0000748b8bfff6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[error]	2025-06-14 19:19:38.369940[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/household items/Vasen und Gießkannen/blumentöpfe_büro.3mf
+[error]	2025-06-14 19:19:38.369945[Thread 0x0000748b8bfff6c0]:Unable to open the file/home/christian/truenas/data/transfer/3D-print/Projekte/Calibration/1. Layer TEST.3mf
+[error]	2025-06-14 19:19:38.369964[Thread 0x0000748b987fc6c0]:Unable to open the file/home/christian/3d/Galaxy+Z+Fold+6+Stand.3mf
+[warning]	2025-06-14 19:19:42.607932[Thread 0x0000748c2110b4c0]:19:19:42: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-14 19:19:42.686856[Thread 0x0000748c2110b4c0]:19:19:42: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-14 19:19:42.734977[Thread 0x0000748c2110b4c0]:19:19:42: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-14 19:19:43.110927[Thread 0x0000748c2110b4c0]:19:19:43: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-14 19:19:51.357792[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:51.808373[Thread 0x0000748c2110b4c0]:connect_server error: network_agent=0x6005021fb230, ret=-2
+[warning]	2025-06-14 19:19:52.246503[Thread 0x0000748b45ba66c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-06-14 19:19:55.882171[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.137290[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.228815[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.313493[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.527720[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.659273[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.686490[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.705913[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.872710[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:19:59.977987[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.187202[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.306117[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.389340[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.392961[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.402872[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.406435[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.409900[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.415006[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-14 19:20:00.418740[Thread 0x0000748c2110b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-14 19:20:02.569980[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-06-14 19:20:02.570087[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-06-14 19:20:02.570923[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-06-14 19:20:02.571699[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-06-14 19:20:02.572421[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-06-14 19:20:02.573175[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-06-14 19:20:02.573899[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-06-14 19:20:02.574081[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-06-14 19:20:02.574771[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-06-14 19:20:02.575506[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-06-14 19:20:02.582396[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-06-14 19:20:02.583178[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-06-14 19:20:02.583986[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-06-14 19:20:02.584801[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-06-14 19:20:02.585580[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-06-14 19:20:02.586331[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-06-14 19:20:02.587072[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-06-14 19:20:02.587843[Thread 0x0000748c2110b4c0]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip

@@ -1,0 +1,62 @@
+[warning]	2025-09-29 15:58:28.361390[Thread 0x00007983982e34c0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-09-29 15:58:28.361572[Thread 0x00007983982e34c0]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-09-29 15:58:28.361589[Thread 0x00007983982e34c0]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-09-29 15:58:28.766799[Thread 0x00007983982e34c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-09-29 15:58:28.949010[Thread 0x00007983982e34c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-09-29 15:58:28.959271[Thread 0x00007983982e34c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[warning]	2025-09-29 15:58:29.127341[Thread 0x00007983982e34c0]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[error]	2025-09-29 15:58:29.215829[Thread 0x00007983982e34c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-09-29 15:58:29.254105[Thread 0x00007983982e34c0]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-09-29 15:58:29.285403[Thread 0x00007983982e34c0]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-09-29 15:58:35.933901[Thread 0x0000798303fff6c0]:Unable to open connection to spacenavd
+[error]	2025-09-29 15:58:37.607916[Thread 0x00007983982e34c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-29 15:58:37.624837[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-09-29 15:58:37.656720[Thread 0x000079830c7fd6c0]:Unable to open the file/home/christian/3D-print/Projekte/TUBS/CISO-TUBS-Igel.3mf
+[error]	2025-09-29 15:58:37.804923[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[warning]	2025-09-29 15:58:39.009352[Thread 0x00007983982e34c0]:15:58:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-29 15:58:39.110876[Thread 0x00007983982e34c0]:15:58:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-29 15:58:39.121717[Thread 0x00007983982e34c0]:15:58:39: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-29 15:58:39.458690[Thread 0x00007983982e34c0]:15:58:39: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-29 15:58:43.518282[Thread 0x00007983982e34c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-29 15:58:43.635953[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-09-29 15:58:43.709858[Thread 0x00007983982e34c0]:connect_server error: network_agent=0x5c689acd6270, ret=-2
+[warning]	2025-09-29 15:58:44.197280[Thread 0x00007981bbfff6c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-09-29 15:58:50.261866[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-09-29 15:58:50.261938[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-09-29 15:58:50.262386[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-09-29 15:58:50.262795[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-09-29 15:58:50.263250[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-09-29 15:58:50.263672[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-09-29 15:58:50.264041[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-09-29 15:58:50.264136[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-09-29 15:58:50.264479[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-09-29 15:58:50.265088[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-09-29 15:58:50.265685[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-09-29 15:58:50.266083[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-09-29 15:58:50.266458[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-09-29 15:58:50.267115[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-09-29 15:58:50.267837[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-09-29 15:58:50.268569[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-09-29 15:58:50.269232[Thread 0x00007983982e34c0]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-09-29 15:59:02.247801[Thread 0x00007983982e34c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-29 15:59:02.317236[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-09-29 15:59:04.395772[Thread 0x00007983982e34c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-29 15:59:04.441373[Thread 0x00007983982e34c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-29 15:59:04.490982[Thread 0x00007983982e34c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Sep_29/15_59_02#4284#42/_temp_2.config!
+[warning]	2025-09-29 15:59:04.492055[Thread 0x00007983982e34c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Sep_29/15_59_02#4284#42/_temp_2.config!
+[warning]	2025-09-29 15:59:04.492321[Thread 0x00007983982e34c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Sep_29/15_59_02#4284#42/_temp_2.config!
+[warning]	2025-09-29 15:59:04.492549[Thread 0x00007983982e34c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Sep_29/15_59_02#4284#42/_temp_2.config!
+[warning]	2025-09-29 15:59:04.492778[Thread 0x00007983982e34c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Sep_29/15_59_02#4284#42/_temp_2.config!
+[warning]	2025-09-29 15:59:04.493554[Thread 0x00007983982e34c0]:can not find parent for config /tmp/orcaslicer_model/Mon_Sep_29/15_59_02#4284#42/_temp_2.config!
+[warning]	2025-09-29 15:59:04.499471[Thread 0x00007983982e34c0]:validate_preset: preset_name Jayo PETG normal @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-09-29 15:59:04.499507[Thread 0x00007983982e34c0]:validate_presets:file_name CaliCubeNew.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-09-29 15:59:04.499517[Thread 0x00007983982e34c0]:validate_presets:file_name CaliCubeNew.3mf, found self defined presets, count 1
+[error]	2025-09-29 15:59:06.320580[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-09-29 15:59:07.109276[Thread 0x00007983982e34c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-29 15:59:14.487358[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-09-29 15:59:14.576292[Thread 0x00007983982e34c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-29 15:59:14.687607[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-09-29 16:05:05.570332[Thread 0x00007983982e34c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-29 16:05:05.836172[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-09-29 16:06:26.747473[Thread 0x00007983982e34c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-29 16:06:26.896335[Thread 0x00007983982e34c0]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png

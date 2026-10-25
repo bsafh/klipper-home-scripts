@@ -1,0 +1,79 @@
+[warning]	2025-03-29 18:33:48.572666[Thread 0x00007f8de3469580]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-03-29 18:33:48.573115[Thread 0x00007f8de3469580]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-29 18:33:48.573258[Thread 0x00007f8de3469580]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-29 18:33:49.480760[Thread 0x00007f8de3469580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-29 18:33:49.787986[Thread 0x00007f8de3469580]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-29 18:33:49.945308[Thread 0x00007f8de3469580]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-29 18:33:50.009560[Thread 0x00007f8de3469580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-29 18:34:17.243763[Thread 0x00007f8d51d55700]:Not primary owner of DBus name - probably another OrcaSlicer instance is running.
+[error]	2025-03-29 18:34:17.246224[Thread 0x00007f8d51d55700]:Dbus Messages listening terminating.
+[error]	2025-03-29 18:34:20.297629[Thread 0x00007f8de3469580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 18:34:20.475933[Thread 0x00007f8d06ffd700]:Unable to open the file/srv/data/cifs/truenas/alldata/data/transfer/3D-print//Projekte/AI Photo-2-3D\Kaja.3mf
+[error]	2025-03-29 18:34:20.596153[Thread 0x00007f8d077fe700]:File Metadata/plate_1.png not found from archive
+[warning]	2025-03-29 18:34:24.728637[Thread 0x00007f8de3469580]:18:34:24: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 18:34:24.756142[Thread 0x00007f8de3469580]:18:34:24: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 18:34:24.766002[Thread 0x00007f8de3469580]:18:34:24: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-29 18:34:24.771405[Thread 0x00007f8de3469580]:18:34:24: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-03-29 18:34:29.278473[Thread 0x00007f8de3469580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 18:34:29.406556[Thread 0x00007f8de3469580]:connect_server error: network_agent=0x55ea8c775140, ret=-2
+[warning]	2025-03-29 18:34:29.880258[Thread 0x00007f8cdf0e5700]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-03-29 18:34:31.325413[Thread 0x00007f8de3469580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-29 18:34:31.325476[Thread 0x00007f8de3469580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-29 18:34:31.325571[Thread 0x00007f8de3469580]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-29 18:34:39.300158[Thread 0x00007f8de3469580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 18:34:40.316099[Thread 0x00007f8de3469580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-29 18:34:40.483726[Thread 0x00007f8de3469580]:Unable to load bed texture: S:\data\transfer\3D-print\Software\OrcaSlicer-settings\klipper_geeetech_logo.png
+[error]	2025-03-29 18:34:41.403388[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 18:35:03.311910[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 18:35:20.432417[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 18:35:20.499538[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 18:40:40.018873[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 19:01:36.172789[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 19:02:00.184686[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 19:03:03.032156[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 19:03:05.618711[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-29 19:04:40.072348[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:46:57.832068[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:47:20.324157[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:49:21.971143[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:49:57.430658[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:49:58.588235[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:55:05.503602[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:55:28.680038[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:55:51.409512[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:55:54.701290[Thread 0x00007f8d077fe700]:transition on segment lies outside of segment!
+[error]	2025-03-30 09:55:55.098836[Thread 0x00007f8d077fe700]:transition on segment lies outside of segment!
+[error]	2025-03-30 09:55:55.098877[Thread 0x00007f8d077fe700]:transition on segment lies outside of segment!
+[error]	2025-03-30 09:55:58.578063[Thread 0x00007f8d06ffd700]:transition on segment lies outside of segment!
+[error]	2025-03-30 09:55:58.762553[Thread 0x00007f8d06ffd700]:transition on segment lies outside of segment!
+[error]	2025-03-30 09:55:58.762733[Thread 0x00007f8d06ffd700]:transition on segment lies outside of segment!
+[error]	2025-03-30 09:57:04.946451[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:57:35.236067[Thread 0x00007f8de3469580]:_save_model_to_file:5755, Unable to open the file
+[error]	2025-03-30 09:57:35.236093[Thread 0x00007f8de3469580]:Unable to open the file/srv/data/cifs/truenas/alldata/data/transfer/3D-print//Projekte/Mixed/kaffeebeutel-a30.3mf.tmp
+[error]	2025-03-30 09:58:11.063364[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:58:15.156183[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:59:00.345107[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 09:59:09.417151[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 10:00:37.508063[Thread 0x00007f8de3469580]:_save_model_to_file:5755, Unable to open the file
+[error]	2025-03-30 10:00:37.508089[Thread 0x00007f8de3469580]:Unable to open the file/srv/data/cifs/truenas/alldata/data/transfer/3D-print//Projekte/Mixed/kaffeebeutel-a30.3mf.tmp
+[error]	2025-03-30 11:01:25.132650[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:01:25.226674[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:01:52.476891[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:01:59.331283[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:02:17.395991[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:02:20.568994[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:02:29.707124[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:02:30.954008[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:02:32.583068[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 11:02:37.226817[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 12:53:12.502822[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 13:33:00.059085[Thread 0x00007f8d077fe700]:transition on segment lies outside of segment!
+[error]	2025-03-30 13:33:00.342753[Thread 0x00007f8d077fe700]:transition on segment lies outside of segment!
+[error]	2025-03-30 13:33:00.342779[Thread 0x00007f8d077fe700]:transition on segment lies outside of segment!
+[error]	2025-03-30 13:33:07.223809[Thread 0x00007f8d06ffd700]:transition on segment lies outside of segment!
+[error]	2025-03-30 13:33:07.412334[Thread 0x00007f8d06ffd700]:transition on segment lies outside of segment!
+[error]	2025-03-30 13:33:07.412363[Thread 0x00007f8d06ffd700]:transition on segment lies outside of segment!
+[error]	2025-03-30 13:48:38.524172[Thread 0x00007f8de3469580]:load_files: can not find valid path, return directly
+[error]	2025-03-30 13:48:54.117895[Thread 0x00007f8de3469580]:load_files: can not find valid path, return directly
+[error]	2025-03-30 13:53:23.929711[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 13:54:24.263319[Thread 0x00007f8de3469580]:tree_sel_change_delayedcan not find page with current selection 

@@ -1,0 +1,16 @@
+[warning]	2025-03-13 12:00:14.312769[Thread 0x00007530]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-13 12:00:14.313767[Thread 0x00007530]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-13 12:00:14.629769[Thread 0x00007530]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-13 12:00:14.793823[Thread 0x00007530]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-13 12:00:14.797825[Thread 0x00007530]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-13 12:00:14.814873[Thread 0x00007530]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-13 12:00:31.541474[Thread 0x00001730]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-13 12:00:31.712477[Thread 0x00001730]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-13 12:00:31.758476[Thread 0x00002b3c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-03-13 12:00:31.758476[Thread 0x00008a1c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[warning]	2025-03-13 12:00:45.123654[Thread 0x00007530]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-13 12:00:45.123654[Thread 0x00007530]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-13 12:00:45.123654[Thread 0x00007530]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-13 12:00:45.223654[Thread 0x00007530]:Slic3r::NetworkAgent::connect_server error: network_agent=00000253D5AD52B0, ret=-2
+[warning]	2025-03-13 12:00:45.857653[Thread 0x00005154]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-13 12:00:55.742642[Thread 0x00007530]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

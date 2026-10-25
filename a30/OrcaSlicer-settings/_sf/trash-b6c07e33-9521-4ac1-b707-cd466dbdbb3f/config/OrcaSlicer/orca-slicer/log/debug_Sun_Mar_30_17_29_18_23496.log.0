@@ -1,0 +1,38 @@
+[warning]	2025-03-30 17:29:36.088190[Thread 0x00005bf4]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-30 17:29:36.090191[Thread 0x00005bf4]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-30 17:29:39.441274[Thread 0x00005bf4]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-30 17:29:40.871521[Thread 0x00005bf4]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-30 17:29:40.898139[Thread 0x00005bf4]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-30 17:29:41.169886[Thread 0x00005bf4]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-30 17:30:15.145762[Thread 0x00005bf4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 17:30:19.711705[Thread 0x000064bc]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-30 17:30:50.565278[Thread 0x00005bf4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 17:30:52.297445[Thread 0x00005bf4]:Slic3r::NetworkAgent::connect_server error: network_agent=000001E980262A90, ret=-2
+[warning]	2025-03-30 17:30:53.612893[Thread 0x00005edc]:[Orca Updater]: online version=1.10.1.9, current_version=1.10.1.9, no need to download
+[error]	2025-03-30 17:31:28.990751[Thread 0x00005bf4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-30 17:31:35.075555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-30 17:31:35.075555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-30 17:31:35.106556[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-03-30 17:31:35.108555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-03-30 17:31:35.109555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-03-30 17:31:35.110554[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @X5SA, just skip
+[warning]	2025-03-30 17:31:35.111556[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-03-30 17:31:35.112555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @X5SA, just skip
+[warning]	2025-03-30 17:31:35.114555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-03-30 17:31:35.115555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-03-30 17:31:35.116557[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @X5SA, just skip
+[warning]	2025-03-30 17:31:35.117560[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-03-30 17:31:35.118555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-03-30 17:31:35.119555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-03-30 17:31:35.120555[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-03-30 17:31:35.121553[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-03-30 17:31:35.122556[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-03-30 17:31:35.123554[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-03-30 17:31:35.124554[Thread 0x00005bf4]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-03-30 17:31:54.778972[Thread 0x00005bf4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-30 17:31:55.064461[Thread 0x00005bf4]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG hot @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-03-30 17:31:55.064461[Thread 0x00005bf4]:Slic3r::PresetBundle::validate_presets:file_name kaffeebeutel-a30.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-03-30 17:31:55.064461[Thread 0x00005bf4]:Slic3r::PresetBundle::validate_presets:file_name kaffeebeutel-a30.3mf, found self defined presets, count 1
+[error]	2025-03-30 17:31:59.090168[Thread 0x00005bf4]:Unable to load bed texture: /srv/data/cifs/truenas/alldata/data/transfer/3D-print/Software/OrcaSlicer-settings/klipper_tronxy_logo.png
+[error]	2025-03-30 17:32:01.571306[Thread 0x00005bf4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-30 17:33:27.294622[Thread 0x00005bf4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

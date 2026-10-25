@@ -1,0 +1,30 @@
+[warning]	2025-03-02 12:47:35.256357[Thread 0x00004dec]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-02 12:47:35.257359[Thread 0x00004dec]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-02 12:47:35.567355[Thread 0x00004dec]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-02 12:47:35.681364[Thread 0x00004dec]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-02 12:47:35.684357[Thread 0x00004dec]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-02 12:47:35.702360[Thread 0x00004dec]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-02 12:47:53.339779[Thread 0x00007bc0]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-02 12:47:53.350300[Thread 0x00002978]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-02 12:47:53.779420[Thread 0x000011d0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-03-02 12:47:54.112993[Thread 0x00004dec]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[warning]	2025-03-02 12:48:07.411737[Thread 0x00004dec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-02 12:48:07.411737[Thread 0x00004dec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-02 12:48:07.411737[Thread 0x00004dec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetCollection::validate_preset: preset_name Trambu JunkMaster 0.4 nozzle, no inherit, set to not found
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetBundle::validate_presets:file_name tronxy-cam-mount-v6-updated.3mf, found the printer preset not inherit from system
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetCollection::validate_preset: preset_name Trambu Filament, inherit_name Bambu PLA Basic @Trambu JunkMaster 0.4 nozzle, can not found preset and inherit in list
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetBundle::validate_presets:file_name tronxy-cam-mount-v6-updated.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @Trambu JunkMaster 0.4 nozzle, no inherit, set to not found
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetBundle::validate_presets:file_name tronxy-cam-mount-v6-updated.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @Trambu JunkMaster 0.4 nozzle, no inherit, set to not found
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetBundle::validate_presets:file_name tronxy-cam-mount-v6-updated.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PETG Basic @Trambu JunkMaster 0.4 nozzle, no inherit, set to not found
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetBundle::validate_presets:file_name tronxy-cam-mount-v6-updated.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PETG Basic @Trambu JunkMaster 0.4 nozzle, no inherit, set to not found
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetBundle::validate_presets:file_name tronxy-cam-mount-v6-updated.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-03-02 12:48:09.209854[Thread 0x00004dec]:Slic3r::PresetBundle::validate_presets:file_name tronxy-cam-mount-v6-updated.3mf, found self defined presets, count 4
+[error]	2025-03-02 12:48:24.930075[Thread 0x00004dec]:Slic3r::NetworkAgent::connect_server error: network_agent=00000290D877B0C0, ret=-2
+[warning]	2025-03-02 12:48:25.382252[Thread 0x0000413c]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-02 12:49:24.768798[Thread 0x00004dec]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-02 12:49:30.010761[Thread 0x00004dec]:Failed to clean up encrypt bbl network log file

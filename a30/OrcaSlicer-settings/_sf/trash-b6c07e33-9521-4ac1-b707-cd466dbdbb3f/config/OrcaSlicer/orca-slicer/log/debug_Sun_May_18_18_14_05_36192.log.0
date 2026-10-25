@@ -1,0 +1,68 @@
+[warning]	2025-05-18 18:14:08.686302[Thread 0x000098ec]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-05-18 18:14:08.688301[Thread 0x000098ec]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-05-18 18:14:10.773213[Thread 0x000098ec]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-05-18 18:14:11.738106[Thread 0x000098ec]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-05-18 18:14:11.749107[Thread 0x000098ec]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-05-18 18:14:11.858104[Thread 0x000098ec]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-05-18 18:14:30.165090[Thread 0x00006a30]:Unable to open the fileS:\transfer\3D-print\Projekte\Printer-Zubehör\TronXY X5SA\v6-volcano-halterung-M3.3mf
+[error]	2025-05-18 18:14:30.166088[Thread 0x0000a17c]:Unable to open the fileS:\transfer\3D-print\Projekte\Printer-Zubehör\TronXY X5SA\v6-volcano-halterung-M2.3mf
+[error]	2025-05-18 18:14:30.166088[Thread 0x000010f0]:Unable to open the fileS:\transfer\3D-print\Projekte\Printer-Zubehör\TronXY X5SA\v6-volcano-halterung-M3_inserts.3mf
+[error]	2025-05-18 18:14:30.168090[Thread 0x0000a17c]:Unable to open the fileS:\transfer\3D-print\Projekte\Printer-Zubehör\Geeetech A30\Volcano Hotend\v6-volcano-halterung.3mf
+[error]	2025-05-18 18:14:30.168090[Thread 0x000010f0]:Unable to open the fileS:\transfer\3D-print\Projekte\Printer-Zubehör\TronXY X5SA\v6-volcano-halterung.3mf
+[error]	2025-05-18 18:14:30.169088[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Smartphone Zubehör\USB-C+Port+Cleaner+V2.3mf
+[error]	2025-05-18 18:14:30.170089[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Voronoi+Pencil+Holder+by+Slimprint+(V003).3mf
+[error]	2025-05-18 18:14:30.171089[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\blumentöpfe_büro.3mf
+[error]	2025-05-18 18:14:30.171089[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated.3mf
+[error]	2025-05-18 18:14:30.172089[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Untersetzer\infill-coaster.3mf
+[error]	2025-05-18 18:14:30.173089[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Gießkannen-x5sa.3mf
+[error]	2025-05-18 18:14:30.173089[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\SKEW_Calib_a30_pla.3mf
+[error]	2025-05-18 18:14:30.174088[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated_A30_PLA-modified.3mf
+[error]	2025-05-18 18:14:30.175089[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\coffee_bean_bag_clip_complete_final_updated_A30_PLA.3mf
+[error]	2025-05-18 18:14:30.176089[Thread 0x000010f0]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Smartphone Zubehör\USB-C+Port+Cleaner+V2-modified.3mf
+[error]	2025-05-18 18:14:30.192089[Thread 0x000014c0]:Unable to open the fileS:\transfer\3D-print\Projekte\Printer-Zubehör\TronXY X5SA\v6-volcano-halterung-x5sa-alle.3mf
+[error]	2025-05-18 18:14:45.317150[Thread 0x000098ec]:Slic3r::NetworkAgent::connect_server error: network_agent=0000017C92745D00, ret=-2
+[warning]	2025-05-18 18:14:45.960567[Thread 0x00009be8]:[Orca Updater]: online version=1.10.1.9, current_version=1.10.1.9, no need to download
+[warning]	2025-05-18 18:14:53.332677[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-05-18 18:14:53.332677[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-05-18 18:14:53.333679[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-05-18 18:14:53.334678[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-05-18 18:14:53.335680[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-05-18 18:14:53.336679[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @X5SA, just skip
+[warning]	2025-05-18 18:14:53.336679[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-05-18 18:14:53.337679[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-05-18 18:14:53.337679[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-05-18 18:14:53.338678[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-05-18 18:14:53.339679[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @X5SA, just skip
+[warning]	2025-05-18 18:14:53.339679[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-05-18 18:14:53.340677[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-05-18 18:14:53.340677[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-05-18 18:14:53.341678[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-05-18 18:14:53.341678[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-05-18 18:14:53.342677[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-05-18 18:14:53.342677[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-05-18 18:14:53.343677[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-05-18 18:14:53.344677[Thread 0x000098ec]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-05-18 18:18:28.892558[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:18:38.241281[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:20:07.819386[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:20:11.365269[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:20:31.604589[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:21:16.026887[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:21:28.708585[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:21:39.450282[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:22:11.756094[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:22:24.256571[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:23:25.641839[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:23:46.807386[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:24:57.459852[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:27:33.786258[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:27:39.421509[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-18 18:28:11.031369[Thread 0x000098ec]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[warning]	2025-05-18 18:28:11.074370[Thread 0x0000204c]:Arrange full params: {"min_obj_distance":0,"accuracy":1,000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-18 18:28:54.944486[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-05-18 18:29:21.489478[Thread 0x0000204c]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-27,500000,"bed_shrink_y":-27,500000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":36,000000,"clearance_height_to_lid":140,000000,"clearance_radius":65,000000,"printable_height":381,750000,
+[error]	2025-05-18 18:30:45.340913[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:30:52.444232[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:30:54.918637[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 18:49:15.212981[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-20 11:47:12.944719[Thread 0x000098ec]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

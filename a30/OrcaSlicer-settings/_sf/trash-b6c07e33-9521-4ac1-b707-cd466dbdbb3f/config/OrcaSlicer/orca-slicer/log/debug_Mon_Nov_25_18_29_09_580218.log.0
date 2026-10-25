@@ -1,0 +1,26 @@
+[warning]	2024-11-25 18:29:11.873624[Thread 0x000073205d6b9c00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-25 18:29:11.873772[Thread 0x000073205d6b9c00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-25 18:29:11.873806[Thread 0x000073205d6b9c00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-25 18:29:12.965689[Thread 0x000073205d6b9c00]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2024-11-25 18:29:17.583568[Thread 0x000073205d6b9c00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 18:29:17.619792[Thread 0x0000731fb4c006c0]:Unable to open the file/srv/data/truenas/data/transfer/3D-print/Projekte/Printer-Zubehör/orca-pi-case+cam-sdcard-cableholder-a30.3mf
+[error]	2024-11-25 18:29:17.646525[Thread 0x0000731fcc6006c0]:Unable to open the file/home/christian/TX5SA_Fan_Speed_0-100.3mf
+[error]	2024-11-25 18:29:17.646571[Thread 0x0000731fcc6006c0]:Unable to open the file/tmp/.mount_OrcaSlCujEN4/resources/calib/retraction/retraction_tower.stl
+[error]	2024-11-25 18:29:17.669347[Thread 0x0000731fb4c006c0]:Unable to open the file/srv/data/truenas/data/transfer/3D-print/Projekte/Printer-Zubehör/Geeetech_A30_SD_reader_holder_v2.3_plus_Leveling_Knobs<-purge_bucket.3mf
+[warning]	2024-11-25 18:29:18.983920[Thread 0x000073205d6b9c00]:06:29:18 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 18:29:19.033890[Thread 0x000073205d6b9c00]:06:29:19 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 18:29:19.039026[Thread 0x000073205d6b9c00]:06:29:19 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 18:29:19.124891[Thread 0x000073205d6b9c00]:06:29:19 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-25 18:29:22.006488[Thread 0x000073205d6b9c00]:connect_server error: network_agent=0x5a2e1e23e110, ret=-2
+[warning]	2024-11-25 18:29:22.417965[Thread 0x0000731f614006c0]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-11-25 18:29:23.062165[Thread 0x000073205d6b9c00]:06:29:23 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 18:29:23.232688[Thread 0x000073205d6b9c00]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2024-11-25 18:29:23.232804[Thread 0x000073205d6b9c00]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2024-11-25 18:29:23.233179[Thread 0x000073205d6b9c00]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Tronxy - CB1, just skip
+[warning]	2024-11-25 18:29:23.233598[Thread 0x000073205d6b9c00]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Tronxy - CB1 schnell, just skip
+[warning]	2024-11-25 18:29:23.233898[Thread 0x000073205d6b9c00]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Tronxy - CB2, just skip
+[warning]	2024-11-25 18:29:23.234012[Thread 0x000073205d6b9c00]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Tronxy - Kopieren, just skip
+[warning]	2024-11-25 18:29:23.234151[Thread 0x000073205d6b9c00]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2024-11-25 18:29:23.234286[Thread 0x000073205d6b9c00]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2024-11-25 18:31:34.752357[Thread 0x000073205d6b9c00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 20:46:37.109193[Thread 0x000073205d6b9c00]:calc_exclude_triangles:Unable to create exclude triangles

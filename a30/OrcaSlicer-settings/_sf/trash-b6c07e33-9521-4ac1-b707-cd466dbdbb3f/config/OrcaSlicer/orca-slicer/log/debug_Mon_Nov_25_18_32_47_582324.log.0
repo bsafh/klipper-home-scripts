@@ -1,0 +1,25 @@
+[warning]	2024-11-25 18:32:49.801403[Thread 0x000076b4e644dc80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-25 18:32:49.801577[Thread 0x000076b4e644dc80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-25 18:32:49.801613[Thread 0x000076b4e644dc80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-25 18:32:50.838787[Thread 0x000076b4e644dc80]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2024-11-25 18:32:55.749555[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 18:32:55.783468[Thread 0x000076b4586006c0]:Unable to open the file/srv/data/truenas/data/transfer/3D-print/Projekte/Printer-Zubehör/orca-pi-case+cam-sdcard-cableholder-a30.3mf
+[error]	2024-11-25 18:32:55.798696[Thread 0x000076b440c006c0]:Unable to open the file/home/christian/TX5SA_Fan_Speed_0-100.3mf
+[error]	2024-11-25 18:32:55.798737[Thread 0x000076b440c006c0]:Unable to open the file/tmp/.mount_OrcaSlCujEN4/resources/calib/retraction/retraction_tower.stl
+[error]	2024-11-25 18:32:55.805478[Thread 0x000076b4586006c0]:Unable to open the file/srv/data/truenas/data/transfer/3D-print/Projekte/Printer-Zubehör/Geeetech_A30_SD_reader_holder_v2.3_plus_Leveling_Knobs<-purge_bucket.3mf
+[warning]	2024-11-25 18:32:57.087756[Thread 0x000076b4e644dc80]:06:32:57 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 18:32:57.131572[Thread 0x000076b4e644dc80]:06:32:57 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 18:32:57.137341[Thread 0x000076b4e644dc80]:06:32:57 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 18:32:57.301494[Thread 0x000076b4e644dc80]:06:32:57 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-25 18:32:59.978774[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 18:33:00.098793[Thread 0x000076b4e644dc80]:connect_server error: network_agent=0x611240312b90, ret=-2
+[warning]	2024-11-25 18:33:00.359538[Thread 0x000076b3e9e006c0]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-25 18:48:18.239893[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 18:48:51.401181[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 18:48:51.874193[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 18:48:51.973197[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 19:16:14.875865[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 19:16:54.157680[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 19:48:17.478214[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 20:38:32.571820[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 20:43:26.332532[Thread 0x000076b4e644dc80]:calc_exclude_triangles:Unable to create exclude triangles

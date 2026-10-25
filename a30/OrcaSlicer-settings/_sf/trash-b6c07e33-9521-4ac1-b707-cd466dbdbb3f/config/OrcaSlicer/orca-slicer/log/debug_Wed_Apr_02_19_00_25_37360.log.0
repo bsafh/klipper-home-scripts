@@ -1,0 +1,47 @@
+[warning]	2025-04-02 19:00:29.508587[Thread 0x00009360]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-02 19:00:29.513588[Thread 0x00009360]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-02 19:00:31.694520[Thread 0x00009360]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-04-02 19:00:33.179863[Thread 0x00009360]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-04-02 19:00:33.205863[Thread 0x00009360]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-04-02 19:00:33.346859[Thread 0x00009360]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-04-02 19:01:01.320533[Thread 0x000072fc]:Unable to open the fileS:\data\transfer\3D-print\Projekte\household items\Vasen und Gießkannen\Gießkannen-Vasen-Modus_x5sa.3mf
+[error]	2025-04-02 19:01:01.428535[Thread 0x000020f8]:File Metadata/plate_1.png not found from archive
+[warning]	2025-04-02 19:01:21.833611[Thread 0x00009360]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Wed_Apr_02/19_01_18#37360#36/_temp_2.config!
+[warning]	2025-04-02 19:01:21.835612[Thread 0x00009360]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Wed_Apr_02/19_01_18#37360#36/_temp_2.config!
+[warning]	2025-04-02 19:01:21.835612[Thread 0x00009360]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Wed_Apr_02/19_01_18#37360#36/_temp_2.config!
+[warning]	2025-04-02 19:01:22.112262[Thread 0x00009360]:Slic3r::PresetCollection::validate_preset: preset_name Geeetech PETG transparent @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-04-02 19:01:22.112262[Thread 0x00009360]:Slic3r::PresetBundle::validate_presets:file_name Gießkannen-x5sa.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-02 19:01:22.112262[Thread 0x00009360]:Slic3r::PresetBundle::validate_presets:file_name Gießkannen-x5sa.3mf, found self defined presets, count 1
+[error]	2025-04-02 19:01:33.739245[Thread 0x00009360]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-02 19:01:34.215773[Thread 0x00009360]:Slic3r::NetworkAgent::connect_server error: network_agent=00000167C983B270, ret=-2
+[warning]	2025-04-02 19:01:34.667822[Thread 0x0000422c]:[Orca Updater]: online version=1.10.1.9, current_version=1.10.1.9, no need to download
+[warning]	2025-04-02 19:01:43.859172[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-04-02 19:01:43.859172[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-04-02 19:01:43.863172[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-04-02 19:01:43.864170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-04-02 19:01:43.865171[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-04-02 19:01:43.865171[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG @X5SA, just skip
+[warning]	2025-04-02 19:01:43.866170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-04-02 19:01:43.866170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @X5SA, just skip
+[warning]	2025-04-02 19:01:43.867170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-04-02 19:01:43.867170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-04-02 19:01:43.868172[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-04-02 19:01:43.869173[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Jayo PETG hot @X5SA, just skip
+[warning]	2025-04-02 19:01:43.869173[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-04-02 19:01:43.870170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-04-02 19:01:43.871171[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-04-02 19:01:43.872170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-04-02 19:01:43.872170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-04-02 19:01:43.873169[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-04-02 19:01:43.873169[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-04-02 19:01:43.874170[Thread 0x00009360]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[warning]	2025-04-02 19:23:29.943909[Thread 0x00009360]:Slic3r::GUI::Plater::reslice: in slicing all, current plate 0 already sliced, skip to next
+[error]	2025-04-02 19:26:23.092296[Thread 0x00007b6c]:OctoPrint: Error uploading file to http://192.168.80.48/api/files/local: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.22.1</center>
+</body>
+</html>
+`
+[error]	2025-04-02 19:35:13.289579[Thread 0x00009360]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

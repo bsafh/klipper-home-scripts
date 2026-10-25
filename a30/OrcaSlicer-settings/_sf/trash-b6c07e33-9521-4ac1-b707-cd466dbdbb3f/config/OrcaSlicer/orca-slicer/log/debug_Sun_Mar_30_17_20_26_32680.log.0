@@ -1,0 +1,9 @@
+[warning]	2025-03-30 17:20:27.868867[Thread 0x00005c10]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-30 17:20:27.870866[Thread 0x00005c10]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-30 17:20:29.490890[Thread 0x00005c10]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-30 17:20:30.279454[Thread 0x00005c10]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-30 17:20:30.285457[Thread 0x00005c10]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-30 17:20:30.319455[Thread 0x00005c10]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-30 17:20:54.802068[Thread 0x00005c10]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-30 17:20:55.177068[Thread 0x00004ee0]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-30 17:21:48.912769[Thread 0x00005c10]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

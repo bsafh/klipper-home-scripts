@@ -1,0 +1,55 @@
+[warning]	2025-06-24 13:04:08.213208[Thread 0x00007f02c2bec580]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-06-24 13:04:08.213325[Thread 0x00007f02c2bec580]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-06-24 13:04:08.213351[Thread 0x00007f02c2bec580]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-06-24 13:04:08.408359[Thread 0x00007f02c2bec580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-06-24 13:04:08.410358[Thread 0x00007f02c2bec580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[error]	2025-06-24 13:04:08.466898[Thread 0x00007f02c2bec580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-06-24 13:04:08.524961[Thread 0x00007f02c2bec580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-06-24 13:04:08.536176[Thread 0x00007f02c2bec580]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-06-24 13:04:08.565724[Thread 0x00007f02c2bec580]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-06-24 13:04:08.567946[Thread 0x00007f02c2bec580]:can not find parent for config /home/christian/.config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-06-24 13:04:10.622832[Thread 0x00007f02c2bec580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 13:04:10.652897[Thread 0x00007f00bc7f86c0]:Unable to open the file/home/christian/3d/Galaxy+Z+Fold+6+Stand.3mf
+[error]	2025-06-24 13:04:10.652955[Thread 0x00007f00bc7f86c0]:Unable to open the file/home/christian/3d/2.5 to 3.5-lighted.3mf
+[error]	2025-06-24 13:04:10.652966[Thread 0x00007f00807f86c0]:Unable to open the file/home/christian/3D-Print/Projekte/Calibration/1. Layer TEST multiple plates_A30.3mf
+[error]	2025-06-24 13:04:10.652976[Thread 0x00007f00bc7f86c0]:Unable to open the file/home/christian/3d/Headphone+stand.3mf
+[error]	2025-06-24 13:04:10.653005[Thread 0x00007f00807f86c0]:Unable to open the file/home/christian/3D-Print/Projekte/Printer-Zubehör/Volcano Hotend/v6-volcano-halterung-a30-alle_v3.3mf
+[error]	2025-06-24 13:04:10.653008[Thread 0x00007f00bc7f86c0]:Unable to open the file/home/christian/3d/stifthalter.3mf
+[error]	2025-06-24 13:04:10.653019[Thread 0x00007f00bc7f86c0]:Unable to open the file/home/christian/3d/coffebeancoaster_plate.3mf
+[error]	2025-06-24 13:04:10.653021[Thread 0x00007f00a47f86c0]:Unable to open the file/home/christian/3D-Print/Projekte/Printer-Zubehör/Geeetech A30/Nozzle_Brushes_v6-halterung.3mf
+[error]	2025-06-24 13:04:10.653028[Thread 0x00007f00bc7f86c0]:Unable to open the file/home/christian/3d/Coasters+with+Holder.3mf
+[error]	2025-06-24 13:04:10.653051[Thread 0x00007f00bc7f86c0]:Unable to open the file/home/christian/3d/wellen-untersetzer-波浪杯垫lite.3mf
+[error]	2025-06-24 13:04:10.653063[Thread 0x00007f00bc7f86c0]:Unable to open the file/home/christian/3D-Print/Projekte/Calibration/1. Layer TEST multiüple plates.3mf
+[warning]	2025-06-24 13:04:11.884374[Thread 0x00007f02c2bec580]:13:04:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-24 13:04:11.922642[Thread 0x00007f02c2bec580]:13:04:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-24 13:04:11.930024[Thread 0x00007f02c2bec580]:13:04:11: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-24 13:04:12.079327[Thread 0x00007f02c2bec580]:13:04:12: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-24 13:04:14.776556[Thread 0x00007f02c2bec580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 13:04:14.881177[Thread 0x00007f02c2bec580]:connect_server error: network_agent=0x55e0820af960, ret=-2
+[warning]	2025-06-24 13:04:15.223315[Thread 0x00007f0038fa46c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-06-24 13:04:22.388856[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-06-24 13:04:22.388923[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-06-24 13:04:22.389309[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @A30, just skip
+[warning]	2025-06-24 13:04:22.389672[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Geeetech ABS+ @X5SA, just skip
+[warning]	2025-06-24 13:04:22.390017[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG @A30, just skip
+[warning]	2025-06-24 13:04:22.390355[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG hot @A30, just skip
+[warning]	2025-06-24 13:04:22.390709[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Geeetech PETG transparent @X5SA, just skip
+[warning]	2025-06-24 13:04:22.390795[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-06-24 13:04:22.391122[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Jayo PETG hot @A30, just skip
+[warning]	2025-06-24 13:04:22.391443[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @A30, just skip
+[warning]	2025-06-24 13:04:22.391796[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset PLA Geeetech Gold @X5SA, just skip
+[warning]	2025-06-24 13:04:22.392121[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech ABS+, just skip
+[warning]	2025-06-24 13:04:22.392444[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG, just skip
+[warning]	2025-06-24 13:04:22.392780[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Tronxy Geeetech PETG hot, just skip
+[warning]	2025-06-24 13:04:22.393098[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Tronxy Generic PETG - Kopieren, just skip
+[warning]	2025-06-24 13:04:22.393419[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Tronxy Jajo PETG hot, just skip
+[warning]	2025-06-24 13:04:22.393751[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Tronxy Klipper PLA Geeetech Gold, just skip
+[warning]	2025-06-24 13:04:22.394072[Thread 0x00007f02c2bec580]:load_user_preset, can not find inherit preset for user preset Tronxy PLA Geeetech Gold, just skip
+[error]	2025-06-24 13:04:24.212559[Thread 0x00007f02c2bec580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 13:04:26.970162[Thread 0x00007f02c2bec580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 13:04:27.019527[Thread 0x00007f02c2bec580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 13:04:27.055381[Thread 0x00007f02c2bec580]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-24 13:04:27.088266[Thread 0x00007f02c2bec580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-24 13:04:27.125091[Thread 0x00007f02c2bec580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/13_04_24#52429#57/_temp_2.config!
+[warning]	2025-06-24 13:04:27.125721[Thread 0x00007f02c2bec580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/13_04_24#52429#57/_temp_2.config!
+[warning]	2025-06-24 13:04:27.126284[Thread 0x00007f02c2bec580]:can not find parent for config /tmp/orcaslicer_model/Tue_Jun_24/13_04_24#52429#57/_temp_2.config!

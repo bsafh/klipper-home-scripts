@@ -1,0 +1,117 @@
+[warning]	2025-03-06 12:58:34.628467[Thread 0x00006344]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-06 12:58:34.629469[Thread 0x00006344]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-06 12:58:35.096577[Thread 0x00006344]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-06 12:58:35.290932[Thread 0x00006344]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-06 12:58:35.293930[Thread 0x00006344]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-06 12:58:35.330128[Thread 0x00006344]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-06 12:59:16.564535[Thread 0x00005790]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-03-06 12:59:16.886538[Thread 0x00005790]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-06 12:59:18.315008[Thread 0x00003e88]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-06 12:59:18.734036[Thread 0x00004f78]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[warning]	2025-03-06 12:59:48.290679[Thread 0x00006344]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-06 12:59:48.290679[Thread 0x00006344]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-06 12:59:48.290679[Thread 0x00006344]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[warning]	2025-03-06 12:59:57.250851[Thread 0x00006344]:can not find parent for config C:\Users\chrboett\AppData\Local\Temp/orcaslicer_model/Thu_Mar_06/12_59_51#40828#36/_temp_2.config!
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the printer preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA _mod(complete_final.3mf), inherit_name Generic PLA, can not found preset and inherit in list
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Generic PETG, no inherit, set to not found
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Generic ABS, no inherit, set to not found
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Bambu TPU for AMS @BBL X1C - Copy, inherit_name Bambu TPU for AMS @BBL X1C, can not found preset and inherit in list
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Generic ASA, no inherit, set to not found
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetCollection::validate_preset: preset_name Generic TPU, no inherit, set to not found
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-03-06 12:59:57.955463[Thread 0x00006344]:Slic3r::PresetBundle::validate_presets:file_name coffee_bean_bag_clip_complete_final_updated.3mf, found self defined presets, count 9
+[error]	2025-03-06 13:21:31.815792[Thread 0x00006344]:Slic3r::NetworkAgent::connect_server error: network_agent=000002871372C4A0, ret=-2
+[warning]	2025-03-06 13:21:32.244790[Thread 0x00001f64]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-06 13:27:13.433410[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:27:30.503825[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:27:57.740623[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:28:03.537623[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:29:59.596663[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:30:00.730975[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:31:05.459834[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:38:27.314401[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:38:28.211489[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:38:29.156350[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:39:11.508870[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:39:16.051554[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:40:12.156872[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:40:54.552612[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:41:04.176560[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:41:59.401764[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:42:03.864699[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:42:11.196203[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:42:42.869544[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:42:47.403538[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:42:55.072028[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:43:28.176623[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:43:38.521668[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:43:43.247263[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:43:45.272009[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:44:17.542122[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:46:01.457675[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:46:45.984085[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:46:51.025673[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:47:27.055217[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:47:35.649039[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:47:55.645175[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:48:01.095316[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:48:32.904249[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:49:14.245231[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:49:57.352242[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-06 13:50:03.906826[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-06 13:51:32.792441[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:51:33.202226[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:51:33.437564[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:51:33.661692[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:51:40.171830[Thread 0x00009918]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-06 13:51:54.234921[Thread 0x00009918]:gcode path conflicts found between Tong1 and Tong2
+[warning]	2025-03-06 13:52:36.623944[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:52:36.966800[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:52:37.179386[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:53:33.106321[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:53:33.516898[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:53:34.585663[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:53:34.824709[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-03-06 13:53:46.766404[Thread 0x00009918]:gcode path conflicts found between bag+clip+100mm.stl_4 and bag+clip+100mm.stl_3
+[error]	2025-03-06 13:55:00.150668[Thread 0x00006344]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-06 13:55:25.439982[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:55:25.767540[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:55:25.978539[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:55:26.181293[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-03-06 13:55:28.258250[Thread 0x00009918]:gcode path conflicts found between Tong1 and Tong2
+[warning]	2025-03-06 13:55:54.525234[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:55:54.737547[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:55:54.866176[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:56:17.074725[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:56:17.478731[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:56:18.622178[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 13:56:18.806178[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-03-06 13:56:20.133424[Thread 0x00009918]:gcode path conflicts found between bag+clip+100mm.stl_4 and bag+clip+100mm.stl_3
+[warning]	2025-03-06 14:01:04.524411[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:01:04.941198[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:01:05.194849[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:01:05.453975[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:01:12.673730[Thread 0x00009918]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-06 14:01:22.929474[Thread 0x00009918]:gcode path conflicts found between Tong1 and Tong2
+[warning]	2025-03-06 14:02:03.773509[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:02:04.098506[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:02:04.344506[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:02:43.652682[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:02:44.081370[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:02:45.234049[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-03-06 14:02:45.461958[Thread 0x00009918]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-03-06 14:02:52.067199[Thread 0x00009918]:gcode path conflicts found between bag+clip+100mm.stl_4 and bag+clip+100mm.stl_3
+[error]	2025-03-06 14:06:23.457402[Thread 0x00006344]:Failed to clean up encrypt bbl network log file

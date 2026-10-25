@@ -1,0 +1,35 @@
+[warning]	2025-10-09 11:33:28.055728[Thread 0x00007fe5d8597400]:Failed to load to hints.cereal. File does not exists. /home/christian/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/hints.cereal
+[error]	2025-10-09 11:34:22.337401[Thread 0x00007fe505ffb6c0]:Unable to open connection to spacenavd
+[error]	2025-10-09 11:34:22.339042[Thread 0x00007fe504ff96c0]:DBus Request name Error: org.freedesktop.DBus.Error.ServiceUnknown
+[error]	2025-10-09 11:34:22.339060[Thread 0x00007fe504ff96c0]:Dbus Messages listening terminating.
+[error]	2025-10-09 11:34:26.437132[Thread 0x00007fe5d8597400]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-09 11:34:27.851576[Thread 0x00007fe5d8597400]:11:34:27 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-09 11:34:27.902950[Thread 0x00007fe5d8597400]:11:34:27 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-09 11:34:27.953806[Thread 0x00007fe5d8597400]:11:34:27 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-09 11:34:28.144474[Thread 0x00007fe5d8597400]:11:34:28 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-10-09 11:34:33.789120[Thread 0x00007fe5d8597400]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-09 11:34:34.450189[Thread 0x00007fe5d8597400]:11:34:34 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-09 11:47:30.566859[Thread 0x00007fe5d8597400]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-10-09 11:47:30.692501[Thread 0x00007fe5d8597400]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-09 11:47:30.831350[Thread 0x00007fe5d8597400]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-09 11:47:32.091082[Thread 0x00007fe502ff56c0]:[install_plugin]: 1420, got 3 files
+[warning]	2025-10-09 11:47:33.855987[Thread 0x00007fe5d8597400]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-10-09 11:47:33.856050[Thread 0x00007fe5d8597400]:get_network_function, can not find function bambu_network_update_cert
+[warning]	2025-10-09 11:47:33.856066[Thread 0x00007fe5d8597400]:get_network_function, can not find function bambu_network_install_device_cert
+[error]	2025-10-09 11:47:33.909136[Thread 0x00007fe5d8597400]:can not find parent for config /home/christian/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/321606540/process/base/0.2mm CB 3 @TronXY -steel.json!
+[error]	2025-10-09 11:47:33.917467[Thread 0x00007fe5d8597400]:can not find parent for config /home/christian/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa.json!
+[error]	2025-10-09 11:47:33.992492[Thread 0x00007fe5d8597400]:can not find parent for config /home/christian/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/321606540/process/0.20mm Strength @x5sa(coffee_bag_complete_final_updated.3mf).json!
+[error]	2025-10-09 11:47:34.126421[Thread 0x00007fe5d8597400]:can not find parent for config /home/christian/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/321606540/filament/Generic PLA bambu.json!
+[warning]	2025-10-09 11:47:34.146766[Thread 0x00007fe5d8597400]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-10-09 11:47:34.200016[Thread 0x00007fe5d8597400]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-10-09 11:47:34.206904[Thread 0x00007fe5d8597400]:can not find parent for config /home/christian/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/321606540/machine/Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-10-09 11:52:55.154636[Thread 0x00007fe5d8597400]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-09 11:52:58.471315[Thread 0x00007fe5d8597400]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-09 11:52:58.582025[Thread 0x00007fe5d8597400]:validate_preset: preset_name OWL PETG normal @X5SA, inherit_name Tronxy Generic PETG, can not found preset and inherit in list
+[warning]	2025-10-09 11:52:58.582073[Thread 0x00007fe5d8597400]:validate_presets:file_name x6sa-orca_Silica_Gel.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-10-09 11:52:58.582097[Thread 0x00007fe5d8597400]:validate_presets:file_name x6sa-orca_Silica_Gel.3mf, found self defined presets, count 1
+[error]	2025-10-09 11:53:00.741693[Thread 0x00007fe5d8597400]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-09 11:53:00.761534[Thread 0x00007fe5d8597400]:Unable to load bed texture: S:\transfer\3D-print\Software\OrcaSlicer-settings\klipper_tronxy_logo.png
+[error]	2025-10-09 11:53:02.727785[Thread 0x00007fe5d8597400]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-09 11:53:20.780019[Thread 0x00007fe5d8597400]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-09 11:53:25.924181[Thread 0x00007fe5d8597400]:tree_sel_change_delayedcan not find page with current selection 

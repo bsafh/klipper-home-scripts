@@ -1,0 +1,38 @@
+[warning]	2025-03-05 20:09:33.679185[Thread 0x00003b3c]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-05 20:09:33.680723[Thread 0x00003b3c]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-05 20:09:34.755625[Thread 0x00003b3c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\process\base\0.2mm CB 3 @TronXY -steel.json!
+[warning]	2025-03-05 20:09:34.920617[Thread 0x00003b3c]:Preset already present, not loading: Tronxy PLA Geeetech warm white (orca-pi-case_ersatz_x5sa.3mf)
+[warning]	2025-03-05 20:09:34.923621[Thread 0x00003b3c]:Preset already present, not loading: Tronxy X5SA 400 0.4 nozzle
+[error]	2025-03-05 20:09:34.944618[Thread 0x00003b3c]:can not find parent for config C:\Users\chrboett\AppData\Roaming\OrcaSlicer\user\321606540\machine\Tronxy X5SA 400 0.4 nozzle steel.json!
+[error]	2025-03-05 20:10:06.996727[Thread 0x00008e40]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-05 20:10:07.263727[Thread 0x0000b070]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Filament Swatches\filament_swatch_geeetech-red-PETG.stl
+[error]	2025-03-05 20:10:07.408984[Thread 0x00003240]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Mixed\LED-RC_Wallmount_Flutlicht_Garage_CB.stl
+[error]	2025-03-05 20:10:07.523982[Thread 0x00003b40]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Calibration\Fan Speed Tower Orca\Ultimate Print Fan Test Tower v2.step
+[warning]	2025-03-05 20:10:33.792258[Thread 0x00003b3c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren, just skip
+[warning]	2025-03-05 20:10:33.793259[Thread 0x00003b3c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Kopieren2, just skip
+[warning]	2025-03-05 20:10:33.793259[Thread 0x00003b3c]:Slic3r::PresetCollection::load_user_preset, can not find inherit preset for user preset Generic PLA - Kopieren, just skip
+[error]	2025-03-05 20:10:33.996256[Thread 0x00003b3c]:Slic3r::NetworkAgent::connect_server error: network_agent=00000275B71E5890, ret=-2
+[warning]	2025-03-05 20:10:34.479164[Thread 0x000084e0]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2025-03-05 20:10:41.661587[Thread 0x00003b3c]:Slic3r::PresetBundle::validate_presets:preset index 1, different key filament_end_gcode
+[warning]	2025-03-05 20:10:41.661587[Thread 0x00003b3c]:Slic3r::PresetBundle::validate_presets:preset index 1, different key filament_start_gcode
+[warning]	2025-03-05 20:10:41.662588[Thread 0x00003b3c]:Slic3r::PresetBundle::validate_presets:preset index 2, different key filament_end_gcode
+[warning]	2025-03-05 20:10:41.662588[Thread 0x00003b3c]:Slic3r::PresetBundle::validate_presets:preset index 2, different key filament_start_gcode
+[warning]	2025-03-05 20:10:41.662588[Thread 0x00003b3c]:Slic3r::PresetBundle::validate_presets:file_name A30_direct_drive.3mf, found different gcodes count 2
+[error]	2025-03-05 20:11:00.416205[Thread 0x00003b3c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 20:12:12.115239[Thread 0x00003b3c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-05 20:15:04.698479[Thread 0x0000b070]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-05 20:15:07.194327[Thread 0x000044ec]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-05 20:15:07.208326[Thread 0x000044ec]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-05 20:15:58.808774[Thread 0x00003b3c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 20:16:59.340547[Thread 0x00003b3c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 20:17:04.060380[Thread 0x00003b3c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-05 20:20:47.076300[Thread 0x000043a0]:Reversing even wall line causes it to be printed CCW instead of CW!
+[warning]	2025-03-05 20:20:47.409298[Thread 0x000043a0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 0 vs. 2
+[warning]	2025-03-05 20:20:47.413298[Thread 0x000043a0]:Can't create a transition when connecting two perimeters where the number of beads differs too much! 2 vs. 0
+[warning]	2025-03-05 20:22:01.816655[Thread 0x00008e40]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-05 20:22:02.831176[Thread 0x00003b40]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-05 20:22:06.574919[Thread 0x00003240]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-03-05 20:22:42.058412[Thread 0x0000b070]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-03-06 14:06:59.845921[Thread 0x00003b3c]:Slic3r::_BBS_3MF_Exporter::_save_model_to_file:5670, Unable to open the file
+[error]	2025-03-06 14:06:59.846922[Thread 0x00003b3c]:Unable to open the fileS:\data\transfer\3D-print\Projekte\Printer-Zubehör\Geeetech A30\A30_direct_drive.3mf.tmp
+[error]	2025-03-06 14:09:03.367852[Thread 0x00003b3c]:Failed to clean up encrypt bbl network log file
