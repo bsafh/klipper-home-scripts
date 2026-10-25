@@ -1,1 +1,0 @@
-[error]	2024-11-09 20:50:36.393293[Thread 0x00007f763eaa6c00]:boost::filesystem::status: Permission denied [system:13]: "/srv/data/truenas/data/transfer/3D-print/Projekte"

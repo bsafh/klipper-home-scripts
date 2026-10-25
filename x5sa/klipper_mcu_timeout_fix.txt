@@ -1,0 +1,7 @@
+klipper@klipper-x5sa:~$ diff klipper_dirty/klipper/klippy/mcu.py klipper/klippy/mcu.py
+233c233
+< TRSYNC_TIMEOUT = 0.05
+---
+> TRSYNC_TIMEOUT = 0.025
+
+
